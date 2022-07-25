@@ -24,7 +24,7 @@ Doel: verwachtingen goed neerzetten. Grenzen stellen wat betreft communicatie en
     - Jij bent geen doorgeefluik voor individuele gevallen. Als ze willen onderhandelen of niet in de regels vallen moeten ze echt die mail sturen naar de docenten!
     - Als iets onduidelijk is voor een student kan deze ook het beste mailen. Zo lukt het ook beter om alle studenten goed geïnformeerd te houden in plaats van alleen die in jouw eigen groep.
 
-Zorg er direct voor dat alle studenten ook op
+⚠️ Zorg er direct voor dat alle studenten ook op Slack komen!
 
 ### Kennismaking (15--20 minuten)
 

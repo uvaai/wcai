@@ -2,7 +2,9 @@
 
 Dit werkcollege staat in het teken van kennismaking!
 
-Voor het werkcollege neem je dit document goed door, zodat je een beeld hebt van wat je gaat behandelen. Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd *in het lokaal waarin het werkcollege geroosterd is* aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel.
+Voor het werkcollege neem je dit document goed door, zodat je een beeld hebt van wat je gaat behandelen. Zorg dat je een Slack hebt aangemaakt via <https://slack.com/get-started#/create>. Deze gebruik je voor informeel contact met je mentorgroep.
+
+> Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd, *in het lokaal waarin het werkcollege geroosterd is*, aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel. Vergeet niet om halverwege even een korte pauze in te lassen!
 
 ### Wat doet een mentor (5--10 minuten)
 
@@ -22,6 +24,8 @@ Doel: verwachtingen goed neerzetten. Grenzen stellen wat betreft communicatie en
     - Jij bent geen doorgeefluik voor individuele gevallen. Als ze willen onderhandelen of niet in de regels vallen moeten ze echt die mail sturen naar de docenten!
     - Als iets onduidelijk is voor een student kan deze ook het beste mailen. Zo lukt het ook beter om alle studenten goed geïnformeerd te houden in plaats van alleen die in jouw eigen groep.
 
+Zorg er direct voor dat alle studenten ook op
+
 ### Kennismaking (15--20 minuten)
 
 Doel: je studenten goed leren kennen maar ook zorgen dat zij wat van elkaar afweten!
@@ -33,6 +37,7 @@ Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt
 - hoe ze heten,
 - of ze programmeerervaring hebben,
 - wat ze verder voor studie doen
+- of ze hiernaast iets anders doen
 
 ⚠️ Zorg dat je iedereen stimuleert alle vragen te beantwoorden, ook als ze iets vergeten. Zo signaleer je meteen dat <u>iedereen</u> moet bijdragen aan de werkgroep.
 

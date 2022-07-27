@@ -41,17 +41,23 @@ Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt
 
 ⚠️ Zorg dat je iedereen stimuleert alle vragen te beantwoorden, ook als ze iets vergeten. Zo signaleer je meteen dat <u>iedereen</u> moet bijdragen aan de werkgroep.
 
-### Checkups (5 minuten)
+### Morning meetings (5 minuten)
+
+Doel: De morning meetings zorgen voor een vast begin van de dag, brengen de communicatie tussen de studenten op gang, en zorgen ervoor dat de assistentie efficiënter verloopt.
 
  🧑‍🏫 Uitleg aan studenten
 
- - Elke ochtend verplicht <u>om 9:00</u> bijeenkomen voor een checkup, vanaf morgen, duurt twintig minuten, met koffie? Met elkaar doorspreken:
-     1. Hoe is het gisteren afgelopen
-     2. Hoe zal vandaag eruit zien
-     3. Samenwerkafspraken maken
- - Ja het is echt om 9 uur.
+Voordat assistentie begint komen de studenten bijeen voor een meeting. Dit doen ze al vanaf morgen, en duurt ongeveer twintig minuten (met koffie/thee). Ze bespreken:
 
- Waar spreken de studenten morgen voor het eerst af (in de buurt van lokalen)? Noteer de locatie.
+  - Hoe is het gisteren gegaan
+  - Wat is het doel voor vandaag
+  - Zijn er anderen met dezelfde vragen
+
+Onder andere om te kijken of er andere studenten zijn die soortgelijke vragen hebben; dan kunnen die ook samen gesteld worden, of wie weet is er een student die het heel goed kan uitleggen!
+
+Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
+
+Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijvoorbeeld 9:00, of 9:30).
 
 ### Terminal (30--45 minuten)
 

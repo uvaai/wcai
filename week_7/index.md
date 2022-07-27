@@ -13,6 +13,8 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Algorithmic Bias (30 minuten)
 
+<!-- TODO -->
+
 ## Administratie
 
 Direct na afloop van de werkgroep:

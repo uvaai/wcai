@@ -21,7 +21,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Turing's paper (30 minuten)
 
-
+<!-- TODO -->
 
 ## Administratie
 

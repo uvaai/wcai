@@ -11,7 +11,19 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Complexity (30 minuten)
 
+Doel: Studenten begrijpen dat de kwaliteit van code afhangt van verschillende aspecten waaronder de tijdsefficiëntie en kunnen de complexiteit (big $\mathcal{O}$) van een stuk code beoordelen inschatten.
+
+Je geeft een korte introductie in big $\mathcal{O}$ en het proces van het bepalen van de complexiteit van een stuk code. Dit mag je zelf invullen.
+
+Daarna doorloop je met de studenten de complexity questions één voor één. Laat zo veel mogelijk de studenten aan het woord. Als je merkt dat de studenten nog niet echt actief meedoen kan je er een paar voordoen. Vraag daarna aan de studenten om de volgende te doen.
+
+⚠️ Je vraagt hier niet alleen om het antwoord: de student moet het antwoord ook kunnen verantwoorden. Wanneer dit niet lukt, kan je een voorbeeld van een uitleg geven, en het voor de volgende vraag weer proberen. Shortcuts zoals "for-loop, dus O(n)", werken niet altijd en daar moet je dus over doorvragen.
+
+Gedetailleerde informatie en antwoorden + uitleg kun je vinden op [deze pagina](/complex).
+
 ### AlphaGo (30 minuten)
+
+<!-- TODO -->
 
 ## Administratie
 

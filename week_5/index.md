@@ -30,6 +30,8 @@ Leg het reviewen verder zo goed mogelijk uit en zorg dat je studenten straks cor
 
 ### Chinese Room (30 minuten)
 
+<!-- TODO -->
+
 ## Administratie
 
 Direct na afloop van de werkgroep:

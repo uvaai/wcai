@@ -13,6 +13,8 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Translating formulas to code (45 minuten)
 
+<!-- TODO -->
+
 ### Algorithmic Bias (30 minuten)
 
 <!-- TODO -->

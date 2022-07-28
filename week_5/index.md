@@ -9,21 +9,50 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 -   Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
 -   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
 
-### Code review (30 minuten)
+### Code review Temperature (30 minuten)
 
-Eerste keer code review! Hoe werkt het?
+Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
--   Een code review is een gelegenheid om iemand anders naar je code te laten kijken voordat je definitief inlevert. Een frisse blik kan je punten opleveren.
--   Code reviews vinden niet op afstand plaats maar moeten, hardop denkend, samen achter de computer plaatsvinden. Lees de instructies goed!
--   Tweetallen. Is er een oneven aantal studenten dan mag er één drietal zijn.
+De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld werden op style en design. De feedback op de Temperature hebben ze als het goed is al gehad. Ze zullen snel ook de volgende opgave in moeten leveren. Dit is _het_ moment om de studenten nog een keer na te laten denken over code design. Dit gaan we doen doormiddel van een code review.
 
-Doe een **oefening**:
+> Een code review is een methodische toetsing van code die ervoor bedoeld is om potentiële bugs te vinden, de codekwaliteit te verbeteren, maar ook om kennis en aanpak van verschillende programmeurs uit te wisselen.
+
+🧑‍🏫 Eerste keer code review! Hoe werkt het?
 
 - Geef kort uitleg over de aspecten (hieronder bij de code review).
-- Wijs dan één duo aan dat hun uitwerking van "Population" laat zien (de samenwerkopdracht). Alle werkgroepleden geven kritiek op basis van de aspecten Formatting en Comments. Zorg dat dit zeker 10 minuten duurt voordat iedereen echt aan de slag gaat.
-- Hou het positief. Zorg dat studenten concrete suggesties doen over hoe het beter kan, en niet alleen benoemen wat "fout" is. Noemt iemand een "fout", leg dan zorgvuldig uit waarom het inderdaad niet goed is (leesbaarheid, begrijpelijkheid, consistentie) en vraag de kritiek-gever om een concrete suggestie voor verbetering.
+- We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn.
+- Studenten werken samen, hardop denkend, achter één computer met de code die op dat moment gereviewd wordt. Als dit klaar is, wisselen ze naar de volgende computer voor het stuk code van de ander.
+- (5-10 minuten) We beginnen met een klassikaal deel over de opgave waarover de code review gaat:
+  - Wat moest er ook alweer gebeuren in de opgave?
+  - Wat was er moeilijk?
+  - Zijn er dingen die de assistent tijdens het nakijken zijn opgevallen, en waar specifiek op gelet kan worden?
+- (15-20 minuten) Iedereen voert de code review uit, mentor loopt langs en bemoeit zich er soms mee, maar is vooral bezig met kritisch luisteren.
+- (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren. Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond. 
 
-Leg het reviewen verder zo goed mogelijk uit en zorg dat je studenten straks corrigeert als ze het verkeerd aanpakken.
+Leg het reviewen zo goed mogelijk uit en zorg dat je studenten corrigeert als ze het verkeerd aanpakken. Laat de studenten zichzelf vragen stellen als: Wat ontbreekt er? Hoe kan de code (nog) beter? Druk de studenten op het hart om hardop na te denken, en de code en de werking daarvan écht te bespreken.
+
+⚠️ Hou het positief. Zorg dat studenten concrete suggesties doen over hoe het beter kan, en niet alleen benoemen wat "fout" is. Noemt iemand een "fout", leg dan zorgvuldig uit waarom het inderdaad niet goed is (leesbaarheid, begrijpelijkheid, consistentie) en vraag de kritiek-gever om een concrete suggestie voor verbetering.
+
+De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende:
+
+- Design
+  - Gebruik van de juiste loops
+  - Gebruik van functies (voorkomen repetitieve structuren)
+  - Pure functies
+  - Herhalende structuren
+  - Redundante elementen
+  - "Magische" getallen
+- Style
+  - Opdelen van code in blokken
+  - Comments
+    - Inhoudelijke kwaliteit
+    - Kwantiteit (te veel/weinig)
+    - Consistentie (wel/niet hoofdletters, alles Nederlands/Engels, etc.)
+  - Namen van variabelen
+  - Indentatie
+  - Spaties rond operatoren
+
+Al deze elementen zijn in eerdere modules uitgelegd en zouden bekend moeten zijn bij de studenten.
 
 ### Preventing duplicate code (15 minuten)
 

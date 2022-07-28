@@ -45,7 +45,7 @@ Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt
 
 Doel: De morning meetings zorgen voor een vast begin van de dag, brengen de communicatie tussen de studenten op gang, en zorgen ervoor dat de assistentie efficiënter verloopt.
 
- 🧑‍🏫 Uitleg aan studenten
+🧑‍🏫 Uitleg aan studenten
 
 Voordat assistentie begint komen de studenten bijeen voor een meeting. Dit doen ze al vanaf morgen, en duurt ongeveer twintig minuten (met koffie/thee). Ze bespreken:
 

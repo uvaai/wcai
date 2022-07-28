@@ -15,10 +15,6 @@ Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussi�
 
 De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld werden op style en design. De feedback op de Temperature hebben ze als het goed is al gehad. Ze zullen snel ook de volgende opgave in moeten leveren. Dit is _het_ moment om de studenten nog een keer na te laten denken over code design. Dit gaan we doen doormiddel van een code review.
 
-> Een code review is een methodische toetsing van code die ervoor bedoeld is om potentiële bugs te vinden, de codekwaliteit te verbeteren, maar ook om kennis en aanpak van verschillende programmeurs uit te wisselen.
-
-🧑‍🏫 Eerste keer code review! Hoe werkt het?
-
 - Geef kort uitleg over de aspecten (hieronder bij de code review).
 - We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn.
 - Studenten werken samen, hardop denkend, achter één computer met de code die op dat moment gereviewd wordt. Als dit klaar is, wisselen ze naar de volgende computer voor het stuk code van de ander.
@@ -27,9 +23,7 @@ De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld 
   - Wat was er moeilijk?
   - Zijn er dingen die de assistent tijdens het nakijken zijn opgevallen, en waar specifiek op gelet kan worden?
 - (15-20 minuten) Iedereen voert de code review uit, mentor loopt langs en bemoeit zich er soms mee, maar is vooral bezig met kritisch luisteren.
-- (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren. Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond.
-
-Leg het reviewen zo goed mogelijk uit en zorg dat je studenten corrigeert als ze het verkeerd aanpakken. Laat de studenten zichzelf vragen stellen als: Wat ontbreekt er? Hoe kan de code (nog) beter? Druk de studenten op het hart om hardop na te denken, en de code en de werking daarvan écht te bespreken.
+- (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren.
 
 De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende:
 

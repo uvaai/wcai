@@ -19,6 +19,12 @@ Daarnaast zijn er nog wat andere complexiteiten zoals exponentieel, lineairitmis
 
 ![big-o-notation](big-o-notation.jpg)
 
+### Antwoorden + uitleg
+
+Doorloop samen met de studenten de vragen één voor één. Hierbij laat je de studenten zo veel mogelijk aan het woord. Laat zo veel mogelijk de studenten aan het woord. Als je merkt dat de studenten nog niet echt actief meedoen kan je er een paar voordoen. Vraag daarna aan de studenten om de volgende te doen.
+
+⚠️ Je vraagt hier niet alleen om het antwoord: de student moet het antwoord ook kunnen verantwoorden. Wanneer dit niet lukt, kan je een voorbeeld van een uitleg geven, en het voor de volgende vraag weer proberen. Shortcuts zoals "for-loop, dus O(n)", werken niet altijd en daar moet je dus over doorvragen.
+
 #### Part 1
 
 Q1: $\mathcal{O}(n)$

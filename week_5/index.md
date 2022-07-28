@@ -27,11 +27,9 @@ De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld 
   - Wat was er moeilijk?
   - Zijn er dingen die de assistent tijdens het nakijken zijn opgevallen, en waar specifiek op gelet kan worden?
 - (15-20 minuten) Iedereen voert de code review uit, mentor loopt langs en bemoeit zich er soms mee, maar is vooral bezig met kritisch luisteren.
-- (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren. Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond. 
+- (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren. Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond.
 
 Leg het reviewen zo goed mogelijk uit en zorg dat je studenten corrigeert als ze het verkeerd aanpakken. Laat de studenten zichzelf vragen stellen als: Wat ontbreekt er? Hoe kan de code (nog) beter? Druk de studenten op het hart om hardop na te denken, en de code en de werking daarvan écht te bespreken.
-
-⚠️ Hou het positief. Zorg dat studenten concrete suggesties doen over hoe het beter kan, en niet alleen benoemen wat "fout" is. Noemt iemand een "fout", leg dan zorgvuldig uit waarom het inderdaad niet goed is (leesbaarheid, begrijpelijkheid, consistentie) en vraag de kritiek-gever om een concrete suggestie voor verbetering.
 
 De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende:
 
@@ -54,8 +52,15 @@ De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende
 
 Al deze elementen zijn in eerdere modules uitgelegd en zouden bekend moeten zijn bij de studenten.
 
+⚠️ Hou het positief. Zorg dat studenten concrete suggesties doen over hoe het beter kan, en niet alleen benoemen wat "fout" is. Noemt iemand een "fout", leg dan zorgvuldig uit waarom het inderdaad niet goed is (leesbaarheid, begrijpelijkheid, consistentie) en vraag de kritiek-gever om een concrete suggestie voor verbetering.
+
 ### Preventing duplicate code (15 minuten)
 
+Doel: Studenten begrijpen hoe functies aan andere functies meegegeven kunnen worden, en hebben hiermee een extra instrument om gedupliceerde code te vermeiden.
+
+De studenten hebben net een code review gedaan van temperature, en de functies uit die opgave zitten als het goed is vers in het geheugen. In deze kleine demo/discussie laat je ze zien hoe je `get_lowest_temp()` en `get_highest_temp()` (die erg op elkaar lijken) versimpelt. [Op deze hulppagina](/duplicate-code) vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
+
+> Als je gezien hebt dat je studenten veel gebruik gemaakt hebben van de functie `.index()` kan je ook het optionele gedeelte hierover ([op dezelfde pagina](/duplicate-code)) behandelen.
 
 ### Chinese Room (30 minuten)
 

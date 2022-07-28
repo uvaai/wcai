@@ -1,5 +1,9 @@
 ## Werkcollege week 3
 
+<!-- TODO -->
+
+Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?")
+
 ### Terugblik (15 minuten)
 
 Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. Zeg ook gewoon tegen je studenten dat **klagen** OK is, en zeg dat je goed zult luisteren en noteren (beloof niet dat je er iets mee gaat doen! Het gaat vooral om luisteren, bespreekbaar maken en het totaalbeeld). Hier kan je ook de open vragen van Machine Learning extra bespreken.
@@ -11,24 +15,28 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Style (10 minuten)
 
-Doel: TODO
+Doel: Studenten nogmaals wijzen op de styleguide, en uitleggen waarom style zo belangrijk is.
 
-In de eerste week hebben de studenten kennis gemaakt met de styleguide. Vanaf de derde module zullen de studenten ook daadwerkelijk beoordeelt worden op style en design. (Hiervoor was het alleen nodig om werkende code in te leveren).
+In de eerste week hebben de studenten kennis gemaakt met de styleguide. Vanaf de derde module zullen de studenten ook daadwerkelijk beoordeeld worden op style en design. (Hiervoor was het alleen nodig om werkende code in te leveren).
 
-<!--
-quick vs slow plots'
-- i/o interactions are slow; plotting, printing, etc
+
+
+<!-- TODO
+
 -->
 
 ### Globals checker (20 minuten)
 
-<!--
+<!-- TODO
 
 Function scope
 - Docstrings bij functies; show
 - Variabelen met namen die al bestaan; sum list etc. MagicPython, disable language-python
 - We willen "pure" functions; doen maar één ding, gebruiken geen variabelen die ze niet meekrijgen, en hebben geen onverwachte effecten
 - Laten zien wat er met variabelen gebeurd vs lijsten
+
+quick vs slow plots'
+- i/o interactions are slow; plotting, printing, etc
 
 Passing functions to functions
 - Demo; Find biggest/smallest in one function

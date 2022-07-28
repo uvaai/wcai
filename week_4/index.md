@@ -1,5 +1,8 @@
 ## Werkcollege week 4
 
+<!-- TODO -->
+
+
 ### Terugblik (15 minuten)
 
 Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. Zeg ook gewoon tegen je studenten dat **klagen** OK is, en zeg dat je goed zult luisteren en noteren (beloof niet dat je er iets mee gaat doen! Het gaat vooral om luisteren, bespreekbaar maken en het totaalbeeld). Hier kan je ook de open vragen van Machine Learning extra bespreken.

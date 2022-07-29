@@ -1,8 +1,8 @@
 ## Werkcollege week 3
 
-<!-- TODO -->
+Vanaf deze week zullen de studenten ook beoordeelt worden op het design en de style van hun code. Dit werkcollege staat daarom in het teken van design en style. We bespreken de beoordeling, styleguide, en leggen uit over de "globals checker", waarna we een code review gaan doen.
 
-Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?")
+Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?").
 
 ### Terugblik (15 minuten)
 
@@ -10,20 +10,20 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
--   Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
--   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
 
 ### Style (10 minuten)
 
 Doel: Studenten nogmaals wijzen op de styleguide, en uitleggen waarom style zo belangrijk is.
 
-In de eerste week hebben de studenten kennis gemaakt met de styleguide. Vanaf de derde module zullen de studenten ook daadwerkelijk beoordeeld worden op style en design. (Hiervoor was het alleen nodig om werkende code in te leveren).
+In de eerste week hebben de studenten kennis gemaakt met de styleguide. Deze kan je vinden op de website, links onderaan _iedere_ pagina. Vanaf de derde module zullen de studenten ook daadwerkelijk beoordeeld worden op style en design. (Hiervoor was het alleen nodig om werkende code in te leveren).
 
+Open [de syllabus op de PDP website](https://pdp.mprog.nl/syllabus#passing-the-course) en wijs de studenten aan waar ze op beoordeelt gaan worden vanaf module 3. Als het goed is zijn de studenten vanaf deze week aardig bekend met de basisconcepten van het programmeren, en hebben ze voor hun volgende deadline al twee keer feedback gehad. Beantwoord eventuele vragen die studenten hebben.
 
+Doorloop daarna samen met de studenten de styleguide (hier staan stiekem ook wat design-aspecten in). Het is hierbij belangrijk dat je niet alleen focust op _wat_ er staat, maar ook probeert uit te leggen _waarom_ we het op deze manier aanpakken.
 
-<!-- TODO
-
--->
+Als er specifieke dingen zijn die je opgevallen zijn tijdens het nakijken van de eerste module, kan je die hier ook nog noemen. Neem ook de tijd om de studenten te vragen om toevoegingen/suggesties.
 
 ### Globals checker (20 minuten)
 

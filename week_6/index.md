@@ -8,8 +8,8 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
--   Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
--   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
 
 ### Complexity (30 minuten)
 

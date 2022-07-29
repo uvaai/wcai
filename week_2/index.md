@@ -1,6 +1,6 @@
 ## Werkcollege week 2
 
-In dit werkcollege ga je voor het eerst een written bespreken. Daar krijg je hieronder wat uitleg over.
+In dit werkcollege ga je voor het eerst een written bespreken. Daar krijg je hieronder wat uitleg over. Ook doen we een oefening voor het omzetten van formules naar code. Dit komt bij Roots en Riemann terug, en helpt de studenten om een formule systematisch te ontleden.
 
 <!-- TODO aanvullen  met meer info over de bedoeling van written -->
 
@@ -12,8 +12,8 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
--   Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
--   Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
 
 ### Translating formulas to code (45 minuten)
 

@@ -21,7 +21,7 @@ In de eerste week hebben de studenten kennis gemaakt met de styleguide. Deze kan
 
 Open [de syllabus op de PDP website](https://pdp.mprog.nl/syllabus#passing-the-course) en wijs de studenten aan waar ze op beoordeelt gaan worden vanaf module 3. Als het goed is zijn de studenten vanaf deze week aardig bekend met de basisconcepten van het programmeren, en hebben ze voor hun volgende deadline al twee keer feedback gehad. Beantwoord eventuele vragen die studenten hebben.
 
-Doorloop daarna samen met de studenten de styleguide (hier staan stiekem ook wat design-aspecten in). Het is hierbij belangrijk dat je niet alleen focust op _wat_ er staat, maar ook probeert uit te leggen _waarom_ we het op deze manier aanpakken.
+Doorloop daarna samen met de studenten [de styleguide op de PDP website](https://pdp.mprog.nl/python/en/style) (hier staan stiekem ook wat design-aspecten in). Het is hierbij belangrijk dat je niet alleen focust op _wat_ er staat, maar ook probeert uit te leggen _waarom_ we het op deze manier aanpakken.
 
 Als er specifieke dingen zijn die je opgevallen zijn tijdens het nakijken van de eerste module, kan je die hier ook nog noemen. Neem ook de tijd om de studenten te vragen om toevoegingen/suggesties.
 

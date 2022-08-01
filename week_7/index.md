@@ -11,9 +11,9 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 - Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
 - Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
 
-### Translating formulas to code (45 minuten)
+### Tentamen 
 
-<!-- TODO -->
+### Numpy
 
 ### Algorithmic Bias (30 minuten)
 

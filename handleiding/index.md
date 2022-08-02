@@ -1,4 +1,4 @@
----
+werkcolleges---
 layout: default
 ---
 
@@ -18,7 +18,7 @@ Welkom bij de Minor AI! Dit studiejaar geven we les op locatie en assisteren we 
 
 Zoals altijd zijn er de studenten die geen idee hebben wat ze kunnen verwachten en binnen een paar weken veel verder zijn dan ze durfden te denken. Studenten die veel hulp nodig hebben maar stukje bij beetje er doorheen buffelen; allemaal zeer dankbaar voor de begeleiding en assistentie die we ze geven. En ja, dan zijn er nog de eigenwijzen die het allemaal eigenlijk al kunnen, en het beter weten. We gaan elkaar helpen om de moeilijke gevallen op de beste manier toch wat te leren.
 
-Voor jou als assistent is deze handleiding met daarin allerlei praktische informatie en tips over hoe je je werk aanpakt. Zorg ervoor dat je de handleiding een paar keer gelezen hebt en kijk er vooral nog even naar als je voor het eerst gaat nakijken of een werkgroep gaat geven. Veel plezier en succes!
+Voor jou als assistent is deze handleiding met daarin allerlei praktische informatie en tips over hoe je je werk aanpakt. Zorg ervoor dat je de handleiding een paar keer gelezen hebt en kijk er vooral nog even naar als je voor het eerst gaat nakijken of een werkcollege gaat geven. Veel plezier en succes!
 
 P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator.
 
@@ -34,7 +34,7 @@ Voor assistenten die er vorig jaar bij waren, maar ook voor oud-studenten die ni
 
 <!-- TODO:
 - geen hoorcolleges, wel wekelijkse Q&A
-- werkgroepen
+- werkcolleges
 - writtens -->
 
 # 1 De Minor AI
@@ -121,6 +121,8 @@ Er zijn vier manieren waarop studenten actief betrokken worden bij de cursus: we
 ## 2.1 Werkcolleges
 
 Werkcolleges vinden wekelijks plaats en worden georganiseerd door mentoren (zie volgende hoofdstuk). In de werkcolleges krijgen studenten de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen, en medestudenten en mentor beter te leren kennen. Mentoren krijgen inhoud voor de werkcolleges aangereikt via de <wcai.mprog.nl> website. Lees die voor ieder werkcollege goed door!
+
+Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd, *in het lokaal waarin het werkcollege geroosterd is*, aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel.
 
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen.
 
@@ -210,7 +212,7 @@ Als mentor leer je alle studenten uit je mentorgroep goed kennen. Dat betekent d
 - Kan voldoende/altijd aanwezig zijn
 - Werkt graag samen of niet
 - Levert tijdig in
-- Neemt goed deel aan de cursus en de werkgroepen
+- Neemt goed deel aan de cursus en de werkcolleges
 
 Het kan handig zijn om dit ergens voor jezelf te noteren, op de website bijvoorbeeld. Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs.
 
@@ -235,23 +237,23 @@ Als we verwijzen naar de studieadviseur zorgen we altijd dat de student een duid
 
 ## 5.3 Signaleren
 
-Mentoren zijn bij uitstek het aanspreekpunt voor klachten en voor grote frustraties die studenten opbouwen tijdens het programmeren. Dit kan naar boven komen tijdens de werkgroepen (en we vragen er ook actief naar). Dat is geen probleem! Zie het niet als een persoonlijke aanval, maar als een noodzakelijke uitlaatklep. Ga er vooral niet in mee, en ga ook zeker niet in de verdediging. Het belangrijkste is dat studenten het kunnen uiten. Wanneer er aanpassingen nodig zijn aan het vak (nu, of misschien volgend semester) kan je een message of Todo op Basecamp maken.
+Mentoren zijn bij uitstek het aanspreekpunt voor klachten en voor grote frustraties die studenten opbouwen tijdens het programmeren. Dit kan naar boven komen tijdens de werkcolleges (en we vragen er ook actief naar). Dat is geen probleem! Zie het niet als een persoonlijke aanval, maar als een noodzakelijke uitlaatklep. Ga er vooral niet in mee, en ga ook zeker niet in de verdediging. Het belangrijkste is dat studenten het kunnen uiten. Wanneer er aanpassingen nodig zijn aan het vak (nu, of misschien volgend semester) kan je een message of Todo op Basecamp maken.
 
 ## 5.4 Groepsvorming
 
-De belangrijkste elementen voor groepsvorming zitten in de structuur van de werkgroepen: studenten worden geacht samen te werken voor bepaalde opdrachten en binnen de werkgroep vinden discussies plaats over de schrijfopdrachten. Als mentor kun je bovendien bijdragen door te zorgen dat elke student tijdens de werkgroep aan het woord komt en zich zo een klein beetje presenteert aan de rest (sommige studenten vermijden dit een beetje!). Schroom vooral niet om studenten met soortgelijke problemen, of studenten die er wat sneller doorheen gaan aan elkaar te koppelen.
+De belangrijkste elementen voor groepsvorming zitten in de structuur van de werkcolleges: studenten worden geacht samen te werken voor bepaalde opdrachten en binnen het werkcollege vinden discussies plaats over de schrijfopdrachten. Als mentor kun je bovendien bijdragen door te zorgen dat elke student tijdens het werkcollege aan het woord komt en zich zo een klein beetje presenteert aan de rest (sommige studenten vermijden dit een beetje!). Schroom vooral niet om studenten met soortgelijke problemen, of studenten die er wat sneller doorheen gaan aan elkaar te koppelen.
 
-## 5.5 Werkgroepen organiseren
+## 5.5 werkcolleges organiseren
 
-De werkgroepen zijn een plek om kennis te maken met je studenten, maar vooral om de studenten te helpen elkaar te leren kennen.
+De werkcolleges zijn een plek om kennis te maken met je studenten, maar vooral om de studenten te helpen elkaar te leren kennen.
 
-- De werkgroep is de plek waar de **feedback** en **opdrachten** belangrijk worden gemaakt. Jij zorgt dat studenten van elkaars feedback kunnen leren door een aantal belangrijke patronen aan te stippen. En je bespreekt enkele van de gedane opdrachten (die al zijn ingeleverd).
-- In de werkgroep wordt ook aandacht besteed aan het **oefenen** van belangrijke concepten uit design en style, maar ook het gebruik van de terminal komt bijvoorbeeld voorbij. Dit gebeurt aan de hand van kleine opdrachten met bijbehorende theorie en vragen hierover. Jij zorgt er voor dat ieder van de studenten deze oefening bewust maakt, en stelt kritische vragen waar nodig. Probeer studenten te enthausiasmeren voor deze onderwerpen, en geef waar nodig extra voorbeelden.
+- Het werkcollege is de plek waar de **feedback** en **opdrachten** belangrijk worden gemaakt. Jij zorgt dat studenten van elkaars feedback kunnen leren door een aantal belangrijke patronen aan te stippen. En je bespreekt enkele van de gedane opdrachten (die al zijn ingeleverd).
+- In het werkcollege wordt ook aandacht besteed aan het **oefenen** van belangrijke concepten uit design en style, maar ook het gebruik van de terminal komt bijvoorbeeld voorbij. Dit gebeurt aan de hand van kleine opdrachten met bijbehorende theorie en vragen hierover. Jij zorgt er voor dat ieder van de studenten deze oefening bewust maakt, en stelt kritische vragen waar nodig. Probeer studenten te enthousiasmeren voor deze onderwerpen, en geef waar nodig extra voorbeelden.
 - In de eerste weken zal er veel vraag zijn vanuit de studenten over design en style. Dit is normaal, aangezien dit een van de hoofdonderdelen van hun cijfer zal zijn, terwijl ze er nog niet veel over weten. Om de studenten hier iets in tegemoet te komen zullen we de eerste twee modules design en style niet beoordelen en daarnaast **code reviews** gaan doen waarbij studenten elkaars code beoordelen.
 - Daarnaast zal er (vaak) ruimte zijn voor **discussie** over de schrijfopdrachten. Hierin is je rol die discussie te begeleiden en af te kappen waar er te ver van het hoofdonderwerp afgeweken wordt. Zorg ervoor dat iedereen aan het woord komt, en dat het een _veilige_ omgeving blijft voor
-- De rest van de werkgroep kan je besteden aan **extra persoonlijke aandacht** voor de studenten. Zie het als een soort "open" assistentietijd waar je ze een extra zetje in de rug kunt geven wanneer dat nodig is.
+- De rest van het werkcollege kan je besteden aan **extra persoonlijke aandacht** voor de studenten. Zie het als een soort "open" assistentietijd waar je ze een extra zetje in de rug kunt geven wanneer dat nodig is.
 
-In deel B van de handleiding vind je een uitgebreidere instructie en een tijdsindicatie voor alle onderdelen per werkgroep.
+In deel B van de handleiding vind je een uitgebreidere instructie en een tijdsindicatie voor alle onderdelen per werkcollege.
 
 <!-- TODO dit wordt mogelijk de website -->
 
@@ -259,9 +261,9 @@ In deel B van de handleiding vind je een uitgebreidere instructie en een tijdsin
 
 Omdat we nog niet zeker weten dat onze studenten altijd 100% aanwezig kunnen zijn, gebruiken de mentoren **Slack** om hun studenten te informeren, om ziekmeldingen te ontvangen en om ze met elkaar te kunnen laten communiceren buiten de groep om. Deze Slack wordt door de mentor zelf aangemaakt (hierover later in dit document meer informatie).
 
-Maar: mentoren zullen *niet* veel beschikbaar zijn via Slack. Dit wordt in de studiewijzer verteld en jij gaat dit als mentor zelf ook bij de eerste werkgroep duidelijk maken. Coördinatoren zijn zelfs helemaal niet in de Slack te vinden.
+Maar: mentoren zullen *niet* veel beschikbaar zijn via Slack. Dit wordt in de studiewijzer verteld en jij gaat dit als mentor zelf ook bij het eerste werkcollege duidelijk maken. Coördinatoren zijn zelfs helemaal niet in de Slack te vinden.
 
-Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duidelijk aan dat ze jou alleen via Slack kunnen bereiken en tijdens de werkgroep, en de docenten alleen via e-mail of tijdens een spreekuur. Zo zorg je er zelf voor dat je niet continu bezig hoeft te zijn met je mentorrol.
+Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duidelijk aan dat ze jou alleen via Slack kunnen bereiken en tijdens het werkcollege, en de docenten alleen via e-mail of tijdens een spreekuur. Zo zorg je er zelf voor dat je niet continu bezig hoeft te zijn met je mentorrol.
 
 ⚠️ In verband met de normale privacyregels moet je de contactgegevens en zelf-aangemaakte Slack verwijderen na afloop van de cursus.
 
@@ -271,7 +273,7 @@ Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duide
 
 Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (maar niet teveel). 🆕 Deze assistentie wordt volledig op locatie georganiseerd in ons lokaal. Studenten kunnen een hulpvraag indienen via de website. Hierbij geven ze hun locatie aan, de opdracht waar ze mee bezig zijn, en beschrijven ze het probleem dat ze hebben. Deze hands verschijnen voor de assistenten op de website en kunnen zo overzichtelijk behandeld worden. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je de hands af.
 
-⚠️ Roostering voor het assisteren wordt pas kort voor de start van het vak gedaan omdat veel assistenten pas laat horen in welke werkgroepen zij zelf geroosterd zijn.
+⚠️ Roostering voor het assisteren wordt pas kort voor de start van het vak gedaan omdat veel assistenten pas laat horen in welke werkcolleges zij zelf geroosterd zijn.
 
 ## 6.1 Regel één van assisteren is...
 
@@ -313,7 +315,7 @@ Waarschijnlijk zijn er, zeker in het begin van de cursus, veel vragen die eigenl
 
 In veel gevallen is het probleem van een student terug te leiden naar de analyse die een student heeft gedaan van het algoritme waar we naar op zoek zijn. Is er een verkeerde **aanname** gedaan, of is een formule toch niet helemaal **correct**, dan is het vaak nodig om extra voorbeelden (cases) te bedenken en uit te vogelen waar het verkeerd zit. Zorg dat je in dit geval de student vraagt om dat te doen en later nog eens terug te komen als het nodig is.
 
-Vaak zul je merken dat een student **helemaal geen goede analyse** heeft gedaan. Help je student dan een deelprobleem te kiezen en dit te analyseren met hulp van enkele slim gekozen voorbeelden (geef zelf een voorbeeld en laat je student er ook eentje bijdragen).
+Vaak zal je merken dat een student **helemaal geen goede analyse** heeft gedaan. Help je student dan een deelprobleem te kiezen en dit te analyseren met hulp van enkele slim gekozen voorbeelden (geef zelf een voorbeeld en laat je student er ook eentje bijdragen).
 
 ### Probleem: Het overzicht kwijtgeraakt
 
@@ -331,7 +333,7 @@ Er is altijd een kans dat een student nog geen concrete vraag heeft. Help de stu
 
 ### Probleem: Een heuse bug
 
-En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programma zit. Het programma zelf heeft al min of meer de juiste vorm, maar er worden bijvoorbeeld variabelen hergebruikt waardoor het niet goed loopt. Dat is het moment dat je hardop gaat meedenken over debuggingtechnieken. Het is aan assistenten om de student deze vaardigheden aan te leren. Natuurlijk kijk je eerst of de student eigenlijk wel weet hoe het debuggen moet (misschien eerst maar eens checken of alle variabelen de juiste waarde hebben met behulp van `print()`?).
+En natuurlijk zijn er veel situaties waarin er een echte **bug** in het programma zit. Het programma zelf heeft al min of meer de juiste vorm, maar er worden bijvoorbeeld variabelen hergebruikt waardoor het niet goed loopt. Dat is het moment dat je hardop gaat meedenken over debug-technieken. Het is aan assistenten om de student deze vaardigheden aan te leren. Natuurlijk kijk je eerst of de student eigenlijk wel weet hoe het debuggen moet (misschien eerst maar eens checken of alle variabelen de juiste waarde hebben met behulp van `print()`?).
 
 Kijk voor een opfrisser in *Think Python*[^3], hoofdstuk 20: Debugging.
 
@@ -427,6 +429,7 @@ Wanneer je toch zelf zo'n melding krijgt dan ga je zo te werk:
 
 - Je wenst je student beterschap
 - Je vraagt de student een mail te sturen naar minorai@mprog.nl
+- Je maakt een TODO aan op Basecamp, die afgevinkt kan worden door de coördinator zodra de mail van de student daadwerkelijk is ontvangen
 
 <!-- - Je wenst je student beterschap en vraagt meteen om even te laten weten als ze weer aan de slag gaan.
 - Je voert deze melding in op de website bij de student. -->
@@ -457,7 +460,7 @@ Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daaro
 
 # 8 Nakijken
 
-De eindcijfers van de studenten zijn van een aantal verschillende cijfers afhankelijk. De onderdelen die worden nagekeken door de assistenten worden beoordeelt op een schaal van 0 tot en met 4. Wanneer er voldoende gemaakt is van de opgave wordt er 6 bij deze score opgetelt, voor een uiteindelijk cijfer van 6 tot en met 10. Wanneer een student stukken van de opgave niet maakt, of wel érg weinig moeite doet voor een opgave, kan er in overleg met de coördinator een cijfer gegeven worden onder de 6. In de studiewijzer van ieder van de vakken staan alle componenten van het eindcijfer opgesomd.
+De eindcijfers van de studenten zijn van een aantal verschillende cijfers afhankelijk. De onderdelen die worden nagekeken door de assistenten worden beoordeelt op een schaal van 0 tot en met 4. Wanneer er voldoende gemaakt is van de opgave wordt er 6 bij deze score opgeteld, voor een uiteindelijk cijfer van 6 tot en met 10. Wanneer een student stukken van de opgave niet maakt, of wel érg weinig moeite doet voor een opgave, kan er in overleg met de coördinator een cijfer gegeven worden onder de 6. In de studiewijzer van ieder van de vakken staan alle componenten van het eindcijfer opgesomd.
 
 ## 8.1 Nakijkdeadline
 
@@ -509,7 +512,7 @@ Inhoudelijk maak je de feedback zo concreet mogelijk door problemen te benoemen,
 
 - Bied simpele tips aan, zodat de student de volgende keer de knelpunten beter kan aanpakken. Zie ⓶ en ⓸. Deze kunnen soms wat "obvious" overkomen maar dat geeft wel houvast.
 
-- Probeer niet té specifiek te zijn. Regelnummers en gekopieerde stukken code zijn vaak niet nodig. Je kunt de feedback altijd nog gedetailleerd bespreken met de student tijdens de eerstvolgende werkgroep.
+- Probeer niet té specifiek te zijn. Regelnummers en gekopieerde stukken code zijn vaak niet nodig. Je kunt de feedback altijd nog gedetailleerd bespreken met de student tijdens het eerstvolgende werkcollege.
 
 ### Opmaak
 
@@ -566,11 +569,11 @@ Als de opdrachten **niet af** zijn (volgens `check50`), dan kan er in feite nog 
 
 Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je vaak in de loop van het nakijken op andere dingen gaat letten. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken. Kijk wel steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
 
-In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen. Nadat je wat ervaring hebt opgebouwd zul je zien dat het nakijken sneller gaat (vraag anders om hulp!). Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Pas je feedback dus ook aan op basis van wat studenten ermee doen en de vragen die je er over krijgt.
+In het begin zal het nakijken wat moeizaam gaan, maar probeer maximaal 10--15 minuten per student te spenderen. Nadat je wat ervaring hebt opgebouwd zal je zien dat het nakijken sneller gaat (vraag anders om hulp!). Probeer in je geschreven feedback niet in herhaling te vallen, maar verwijs kort naar je eerdere feedback. Daarbij telt ook mee dat sommige van de studenten de feedback nauwelijks lezen terwijl andere studenten juist veel uit je commentaar halen. Pas je feedback dus ook aan op basis van wat studenten ermee doen en de vragen die je er over krijgt.
 
-Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan even persoonlijk op aan (bijvoorbeeld een kort gesprekje na de werkgroep). Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
+Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek hem of haar hier dan even persoonlijk op aan (bijvoorbeeld een kort gesprekje na het werkcollege). Grote kans dat ze het vergeten zijn of niet doorhebben hoe veel ze eraan kunnen hebben.
 
-Tot slot: je schrijft uiteindelijk op je eigen manier. Daarom is het zinvol om tijdens de werkgroepen af en toe expliciet jouw manier van feedback geven wat meer toe te lichten. Dan kun je ook noemen dat studenten altijd mogen vragen als ze iets niet begrijpen of niet weten hoe ze het beter kunnen maken.
+Tot slot: je schrijft uiteindelijk op je eigen manier. Daarom is het zinvol om tijdens de werkcolleges af en toe expliciet jouw manier van feedback geven wat meer toe te lichten. Dan kun je ook noemen dat studenten altijd mogen vragen als ze iets niet begrijpen of niet weten hoe ze het beter kunnen maken.
 
 ## 8.5 Plagiaat
 

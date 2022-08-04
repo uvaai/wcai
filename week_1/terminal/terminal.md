@@ -133,8 +133,9 @@ Recall that `..` refers to the parent directory (i.e. one above the current dire
 </details>
 
 > You may have noticed that all files you have seen up to now are named ‘something dot something’. This is just a convention: we can call a file `mythesis` or almost anything else we want. However, we use two-part names to help us (and our programs) tell different kinds of files apart. The second part of a filename is called the extension and indicates what type of data the file holds: `.txt` signals a plain text file, `.pdf` indicates a PDF document, `.cfg` is a configuration file full of parameters for some program, `.png` is a PNG image, and so on.
-This is just a convention, albeit an important one. Files contain bytes: it’s up to us and our programs to interpret those bytes according to the rules for plain text files, PDF documents, configuration files, images, and so on.
-Naming a PNG image of a whale as `whale.mp3` doesn’t somehow magically turn it into a recording of whale song, though it might cause the operating system to try to open it with a music player when someone double-clicks it.
+This is just a convention, albeit an important one. Files contain bytes: it’s up to us and our programs to interpret those bytes according to the rules for plain text files, PDF documents, configuration files, images, and so on. Naming a PNG image of a whale as `whale.mp3` doesn’t somehow magically turn it into a recording of whale song, though it might cause the operating system to try to open it with a music player when someone double-clicks it.
+If at any point you want to check something in Finder, you can use `open .` to open the folder you are currently in, or `open document.pdf` if you would like to open a file using the default application for that file extension. On Windows, the equivalent command is `explorer` or `start`.
+
 
 ### Copying files
 
@@ -242,10 +243,24 @@ $ rm -r thesis
 
 [Download this zipped file structure](file_structure_exercise.zip), move it to a folder where you can easily access it and navigate to this folder using the terminal using `cd`. Remember that you can find the current folder using `pwd` and see whether you are in the folder holding `file_structure_exercise.zip` by using `ls`. Unzip the file using the command `unzip file_structure_exercise.zip`. Use `cd` to navigate into the file structure you have just unpacked.
 
-**Exercise 7** Use `ls --help` to show information that explains all options that can be applied to the command `ls`. Can you find an option that can be used to list not only all files and directories in the current directory, but also all (sub)subdirectories and files? Using this option, create an overview of the file structure of this folder.
+**Exercise 7** What would be the command to remove the zip you have just unpacked using `rm`?
+
+**Exercise 8** Use `ls --help` to show information that explains all options that can be applied to the command `ls`. Can you find an option that can be used to list not only all files and directories in the current directory, but also all (sub)subdirectories and files? Using this option, create an overview of the directories and files in the provided file structure.
+
+**Exercise 9** A file was misplaced in the main directory, named `notes.txt`. This file contains the notes for lecture 2. Find the directory that contains the notes for the first lecture and take note of the naming convention of the file. Rename `notes.txt` using this naming convention and move it to the folder containing notes using `mv`.
+
+**Exercise 10** You need more space on your device and have decided you can get rid of the music directory and all subdirectories and files in there; you use an online music streaming service anyway. What is the complete command you would need to use if you want to confirm every step in the process of the removal?
+
+**Exercise 11** Perform the following tasks using the shell from the main directory:
+
+  1. Create a folder named `ml1` in `university`.
+  2. Create a file named `TODO.txt` in `university/ml1/``
+  3. Create a copy of `images/` named `images_backup/`
 
 <details markdown="1"><summary  markdown="span">Answer</summary>
-**Exercise 7** This can be done using the option `-R`. `ls -R` (when slightly reformatted) gives the following overview of the whole file structure:
+**Exercise 7** `rm -i ../file_structure_exercise.zip`
+
+**Exercise 8** This can be done using the option `-R`. `ls -R` (when slightly reformatted) gives the following overview of the whole file structure:
 
 ```
 games/
@@ -273,28 +288,20 @@ university/
 notes.txt
 ```
 
+You could also use the option `-1` to order everything in rows, which makes it easier to read.
+
+**Exercise 9** Assuming you work from the main directory: `mv notes.txt university/notes/lecture2_notes.txt`.
+
+**Exercise 10** `rm -ri music`, or `rm -r -i music`
+
+**Exercise 11**
+
+  1. `mkdir /university/ml1`
+  2. `touch /university/ml/TODO.txt`
+  3. `cp -r images/ images_backup/`
+
 </details>
 
 ## Acknowledgement
 
 The information and exercises on this page have been adapted from [content on Software Carpentry](https://swcarpentry.github.io/shell-novice/) under the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-
-<!--
-pwd
-open
-ls
-cd
-cd ..
-clear
-touch
-* tab completion + double tab
-nano
-* history arrow keys
-history command
-rm
-mkdir
-touch
-rm -r (dir)
-
-
--->

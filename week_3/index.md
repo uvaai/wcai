@@ -25,26 +25,59 @@ Doorloop daarna samen met de studenten [de styleguide op de PDP website](https:/
 
 Als er specifieke dingen zijn die je opgevallen zijn tijdens het nakijken van de eerste module, kan je die hier ook nog noemen. Neem ook de tijd om de studenten te vragen om toevoegingen/suggesties.
 
-### Globals checker (20 minuten)
+### Notebook checker (20 minuten)
 
-<!-- TODO
+Doel: De studenten begrijpen wat de `notebook_checker` doet, en waar deze voor waarschuwt.
 
-Function scope
-- Docstrings bij functies; show
-- Variabelen met namen die al bestaan; sum list etc. MagicPython, disable language-python
-- We willen "pure" functions; doen maar één ding, gebruiken geen variabelen die ze niet meekrijgen, en hebben geen onverwachte effecten
-- Laten zien wat er met variabelen gebeurd vs lijsten
+Mogelijk hebben de studenten het al gezien; in de notebooks vanaf module 2 wordt in de eerste cells een package geïmporteerd dat `notebook_checker` heet:
 
-quick vs slow plots'
-- i/o interactions are slow; plotting, printing, etc
+```python
+from notebook_checker import start_checks
 
-Passing functions to functions
-- Demo; Find biggest/smallest in one function
-- Nesting, don't make an else when there is a return in the if
-- Maar ook handig voor distance functions! Komt later.
+# Start automatic globals checks
+%start_checks
+```
 
-debugstrategiën
- -->
+Dit is een door ons (specifiek; Tim Doolan) geschreven package dat bepaalde fouten bij studenten voorkomt die erg lastig te vinden zijn. Wanneer de code hierboven uitgevoerd wordt in een notebook voorkomt dit onder andere dat er in functies variabelen gebruikt worden die niet meegegeven worden. Een concreet voorbeeld:
+
+```python
+tekst = "kaas"
+
+def functie_die_wat_print(meegegeven_variabele):
+  print(tekst)
+
+functie_die_wat_print("ham")
+```
+
+De code hierboven print `"kaas"`, terwijl we volgens de naam van de functie zouden verwachten dat `"ham"` geprint zou worden. Nu is het in dit voorbeeld duidelijk dat er wat mis gaat, maar het wordt een stuk minder duidelijk als er in de code van de student (die verspreid is over een groot aantal cellen) variabelen zijn als hoofdletters: `X`, en `x`. Ook kan er in een functie per ongeluk een globale variabele aangepast worden zoals in het voorbeeld hieronder:
+
+```python
+result = []
+
+def simulate(iterations):
+    n = 0
+    while n < iterations:
+        n = n + 1
+        result.append(n)
+
+    return result
+
+print(simulate(10))
+print(simulate(10))
+```
+
+In dit geval wordt `result` globaal aangepast door de functie `simulate()`. De functie werkt één keer zoals verwacht. Wanneer de functie in een andere situatie nog een keer aangeroepen wordt bevat result al elementen. Dit soort aanpassingen aan globale variabelen kan onverwachte bijeffecten veroorzaken die erg lastig te debuggen zijn. Zie hierover ook het stukje ["pure functions" in de styleguide](https://pdp.mprog.nl/python/en/style#pure-functions). We willen "pure" functions; doen maar één ding, gebruiken geen variabelen die ze niet meekrijgen, en hebben geen onverwachte effecten.
+
+Wanneer bovenstaande stukken code in een notebook worden uitgevoerd na het inladen van de notebook checker worden er warnings weergeven. De code wordt verder wel zoals gewoon uitgevoerd.
+
+Download het [voorbeeld notebook](notebook-design/voorbeelden-design.ipynb) voor dit werkcollege.
+
+🧑‍🏫 Uitleg aan studenten
+
+- Leg het bovenstaande over de notebook checker aan de studenten uit m.b.v. het voorbeeld notebook
+- Leg uit: In Python zijn er een aantal variabelen die "gereserveerd" zijn, doordat ze al gebruikt worden door functionaliteit die onderdeel is van Python. Dit zijn bijvoorbeeld `sum`, `list`, `id`, etc. In notebooks kan je deze herkennen aan dat ze een (groene) kleur krijgen. Deze wil je zoals in het voorbeeld notebook wordt laten zien niet overschrijven, dan werken ze namelijk niet meer. In Atom krijgen deze built-ins geen kleur.
+- Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. Ook dit staat in het voorbeeld notebook.
+- In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.
 
 ### Code review (30 minuten)
 

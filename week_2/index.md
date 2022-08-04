@@ -30,7 +30,6 @@ Het implementeren van oefeningen zoals deze zou een geoefende student aan het ei
 [De antwoorden voor de oefeningen zijn hier te vinden.](/sums/answers-translating-formulas.zip) Deze zijn alleen voor de TAs bedoeld.
 
 <!-- TODO de links hierboven checken-->
-<!-- TODO link voor studenten maken -->
 
 ### Turing's paper (30 minuten)
 

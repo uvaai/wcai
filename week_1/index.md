@@ -63,7 +63,10 @@ Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijv
 
 Doel: de studenten raken bekend met de terminal.
 
-<!-- TODO, zie basecamp -->
+Tijdens de vakken in de minor AI zullen de studenten regelmatig in aanraking komen met de terminal. De meeste studenten zijn hier niet mee bekend en begrijpen nog niet goed wat de terminal is. Deze oefeningen zijn bedoeld om dat uit te leggen en dienen tegelijk als naslagwerk voor de studenten als ze een keer weer een stukje uitleg op willen zoeken. De antwoorden staan bij de oefeningen en de studenten hoeven niets in te leveren. De studenten kunnen de oefeningen vinden in hun schema op deze website. (hier kan jij er ook bij)
+
+Laat iedereen beginnen met de oefeningen en loop rond om hier en daar te helpen. Vraag ook regelmatig bij iedereen of alles lukt, en of je nog iets uit moet leggen.
+Als er meerdere studenten zijn die tegen iets soortgelijks aanlopen geef je hier centraal een korte uitleg over voordat iedereen weer door gaat.
 
 ### Grote vragen (15--20 minuten)
 

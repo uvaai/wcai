@@ -104,6 +104,8 @@ Leg het reviewen zo goed mogelijk uit en zorg dat je studenten corrigeert als ze
 
 Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond.
 
+**We reviewen in deze codereview module 2 van PDP.**
+
 ## Administratie
 
 Direct na afloop van de werkgroep:

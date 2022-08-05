@@ -1,7 +1,10 @@
 ## Werkcollege week 4
 
-<!-- TODO -->
+Omdat werkcollege erg dicht op de deadline van module 3 plaatsvindt, is er veel ruimte gemaakt voor extra persoonlijke hulp. We bespreken de afgelopen week, proberen in kaart te brengen wie eigenlijk al klaar is, en wie nog dingen moet afronden. Daarna bespreken we kort nog een keer design met een voor de studenten bekend probleem: Greedy.
 
+⚠️ Vergeet niet om nog een laatste keer te melden dat er vanaf module 3 ook echt beoordeeld wordt op design en style!
+
+Gebruik de tijd die over is om studenten die nog niet helemaal klaar zijn te helpen. Ook studenten die al wel klaar zijn hebben wat te doen: die kunnen natuurlijk vragen stellen over style en design. Laat waar mogelijk deze studenten eerst met elkaar de code bespreken. Zodra ze samen een oplossing voor een bepaald probleem hebben bedacht kunnen ze dat met jou bespreken. _Communiceer dit duidelijk._ Het is erg belangrijk dat de studenten zelf nadenken over hoe hun code beter kan.
 
 ### Terugblik (15 minuten)
 
@@ -10,7 +13,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
 - Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
-- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via een message in Basecamp.
 
 ### Design (30 min)
 

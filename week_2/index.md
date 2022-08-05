@@ -2,8 +2,6 @@
 
 In dit werkcollege ga je voor het eerst een written bespreken. Daar krijg je hieronder wat uitleg over. Ook doen we een oefening voor het omzetten van formules naar code. Dit komt bij Roots en Riemann terug, en helpt de studenten om een formule systematisch te ontleden.
 
-<!-- TODO aanvullen  met meer info over de bedoeling van written -->
-
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen. Aan de Machine Learning kant zijn deze week de open vragen interessant, en aan de Python kant is dit style.
 
 ### Terugblik (15 minuten)
@@ -13,7 +11,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
 - Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
-- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via een message in Basecamp.
 
 ### Translating formulas to code (45 minuten)
 

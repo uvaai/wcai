@@ -1,6 +1,6 @@
 ## Werkcollege week 5
 
-<!-- TODO -->
+In dit werkcollege bespreken we de style en design van Temperature. De feedback hieruit kunnen de studenten meenemen voor module 4. We sluiten af met een discussie over de Chinese room.
 
 ### Terugblik (15 minuten)
 
@@ -9,7 +9,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 ⚠️ Jij als mentor moet het gesprek leiden, zorg dat iedereen aan de beurt komt!
 
 - Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
-- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via Basecamp.
+- Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via een message in Basecamp.
 
 ### Code review Temperature (30 minuten)
 

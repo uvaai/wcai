@@ -10,7 +10,7 @@ In such tasks we can take advantage of a Unix shell, which is often referred to 
 
 During the installation of the software we use in our courses you have watched a video on how to use the Mac OS terminal. You have encountered the prompt, commands, options, and arguments:
 
-![](/images/shell_command_syntax.svg)
+![](images/shell_command_syntax.svg)
 
 Where `ls` is the command, with an option `-F` and an argument `/`. Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-F` makes sure that folders/directories are displayed with a `/` behind their name (this is default behavior on Windows). Sometimes options and arguments are referred to as parameters. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option. Options are sometimes also called flags.
 
@@ -39,7 +39,7 @@ In the exercises below you will practice the very basics of the terminal. Don't 
     3. `2012-12-01/ 2013-01-08/ 2013-01-27/`
     4. `original/ pnas_final/ pnas_sub/`
 
-![](/images/filesystem-challenge.svg)
+![](images/filesystem-challenge.svg)
 
 **Exercise 3** Using the filesystem diagram below, if `pwd` displays `/Users/backup`, and `-r` tells `ls` to display things in reverse order, what command(s) will result in the following output:
 
@@ -47,7 +47,7 @@ In the exercises below you will practice the very basics of the terminal. Don't 
 pnas_sub/ pnas_final/ original/
 ```
 
-![](/images/filesystem-challenge2.svg)
+![](images/filesystem-challenge2.svg)
 
     1. `ls pwd`
     2. `ls -r -F`

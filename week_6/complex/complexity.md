@@ -1,4 +1,5 @@
 ## Complexity
+
 ### Introductie
 
 De efficiëntie van de code kunnen we bepalen door $\mathcal{O}$. Big-$\mathcal{O}$ (Engels, zeg "big oh") beschrijft hoe snel de *running time*, ofwel het gemaakte aantal 'stappen' in de code, groeit relatief aan de grootte van de *input* van de code. De grootte van de input wordt aangegeven met de letter $n$. Big $\mathcal{O}$ geeft ons een indicatie van de langst mogelijke running time van een algoritme.

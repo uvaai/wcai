@@ -19,7 +19,7 @@ Je geeft een korte introductie in big $\mathcal{O}$ en het proces van het bepale
 
 Daarna doorloop je met de studenten de complexity questions één voor één. De studenten geven antwoord en leggen uit waarom dit antwoord correct is.
 
-Gedetailleerde informatie en antwoorden + uitleg kun je vinden op [deze pagina](/complex).
+Gedetailleerde informatie en antwoorden + uitleg kun je vinden op [deze pagina](/week_6/complex).
 
 ### AlphaGo (30 minuten)
 

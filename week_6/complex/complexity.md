@@ -54,12 +54,10 @@ Q8: $\mathcal{O}(n)$
 In de eerste regels worden er twee sets gemaakt van lengte `n`.
 Het `&`-teken tussen twee sets berekent de intersection tussen de twee sets. Dit zijn de elementen die zowel in set A als in set B voorkomen. Dit kan gedaan worden door voor ieder item in de kortste set te kijken of het ook in de andere set voorkomt:
 
-```
-intersection = set()
-for item in set_A:
-    if item in set_B:
-        intersection.add(item)
-```
+    intersection = set()
+    for item in set_A:
+        if item in set_B:
+            intersection.add(item)
 
 We loopen over één van de sets met een lengte van `n`, en gebruiken `in` om te zoeken in de andere set. Dit zoeken is `in` een Big $\mathcal{O}(1)$ (constante) operatie, dus is de complexiteit lineair.
 

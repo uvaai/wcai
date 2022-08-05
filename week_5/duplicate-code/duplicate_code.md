@@ -31,51 +31,48 @@ Begin met het laten zien wat precies het verschil is tussen het verkrijgen van d
         if temp > highest_temp:
             highest_temp = temp
             highest_temp_date = dates[i]
-```
 
 Als we dit generiek willen maken kunnen we twee dingen doen: we kunnen afhankelijk van een boolean kiezen of we het groter of kleiner dan teken gebruiken, of we kunnen aan de functie een functie meegeven die de vergelijking doet. Leg dit aan de studenten uit en probeer iedereen te laten denken over de voor en nadelen van beide oplossingen. De boolean oplossing ziet er als volgt uit:
 
-```
-def get_temp_boolean(dates, temps, get_lowest):
-    """
-    This function will get either the lowest or the highest temperature depending on the boolean `get_lowest`. When it is set to True the lowest temperature is returned, on False the highest temperature is returned.
-    """
+    def get_temp_boolean(dates, temps, get_lowest):
+        """
+        This function will get either the lowest or the highest temperature depending on the boolean `get_lowest`. When it is set to True the lowest temperature is returned, on False the highest temperature is returned.
+        """
 
-    some_temp = temps[0]
+        some_temp = temps[0]
 
-    for i in range(len(temps)):
-        temp = temps[i]
+        for i in range(len(temps)):
+            temp = temps[i]
 
-        if get_lowest:
-            if temp < some_temp:
-                some_temp = temp
-                some_date = dates[i]
-        else:
-            if temp > some_temp:
-                some_temp = temp
-                some_date = dates[i]
+            if get_lowest:
+                if temp < some_temp:
+                    some_temp = temp
+                    some_date = dates[i]
+            else:
+                if temp > some_temp:
+                    some_temp = temp
+                    some_date = dates[i]
 
-    return some_date, some_temp
-```
+        return some_date, some_temp
+
 
 Deze oplossing is nog steeds niet helemaal "duplicaatvrij" en we zouden dit op kunnen lossen door het volgende te doen:
 
-```
-def get_temp_boolean(dates, temps, get_lowest):
-    """
-    This function will get either the lowest or the highest temperature depending on the boolean `get_lowest`. When it is set to True the lowest temperature is returned, on False the highest temperature is returned.
-    """
+    def get_temp_boolean(dates, temps, get_lowest):
+        """
+        This function will get either the lowest or the highest temperature depending on the boolean `get_lowest`. When it is set to True the lowest temperature is returned, on False the highest temperature is returned.
+        """
 
-    some_temp = temps[0]
+        some_temp = temps[0]
 
-    for i in range(len(temps)):
-        temp = temps[i]
+        for i in range(len(temps)):
+            temp = temps[i]
 
-        if (get_lowest and temp < some_temp) or (not get_lowest and temp > some_temp):
-            some_temp = temp
-            some_date = dates[i]
+            if (get_lowest and temp < some_temp) or (not get_lowest and temp > some_temp):
+                some_temp = temp
+                some_date = dates[i]
 
-    return some_date, some_temp
+        return some_date, some_temp
 
 Dit is een net iets nettere oplossing, maar maakt de regel die beslist wanneer een temperatuur onthouden wordt aardig ingewikkeld.
 

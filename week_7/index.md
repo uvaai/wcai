@@ -1,6 +1,6 @@
 ## Werkcollege week 7
 
-<!-- TODO -->
+Het laatste werkcollege voor het tentamen, maar tegelijkertijd ook direct het laatste werkcollege! We bespreken kort het tentamen, benadrukken de belangrijkheid van
 
 ### Terugblik (15 minuten)
 
@@ -11,9 +11,38 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 - Nog opvallende dingen over specifieke studenten? Noteer ze op Basecamp!
 - Nog dingen die mis lijken te gaan voor meerdere studenten? Noteer ze en deel ze na de werkgroep meteen met het team via een message in Basecamp.
 
-### Tentamen
+### Terugblik Numpy (5--? minuten)
 
-### Numpy
+Doel: Controle dat alle studenten deze oefenopgaven voor Numpy zorgvuldig gemaakt en begrepen hebben.
+
+De studenten hebben aan het begin van module 6 een introductie gedaan van een aantal Numpy concepten. Het begrip van deze concepten is **essentieel** voor k-means en een aantal andere toekomstige modules. Het is belangrijk dat de studenten dit serieus maken en begrijpen.
+
+Vraag de studenten of er bepaalde concepten zijn die ze moeilijk vonden in de oefeningen. Geef extra uitleg waar nodig.
+
+### Tentamen (5--10 minuten)
+
+Doel: Duidelijkheid over het verloop van het tentamens voor PDP en ML, en ook de planning van de tentamenweek.
+
+Voor PDP bestaat het tentamen uit een reeks kleine programmeeropgaven gebaseerd op de modules uit het vak. De studenten krijgen 2.5 uur de tijd om de problemen uit te werken _op hun eigen laptop_ en mogen tijdens het tentamen gebruik maken van pdp.mprog.nl.
+
+- Er is een overzichtspagina met alle belangrijke onderdelen van de cursus: <https://pdp.mprog.nl/exam>
+- Het is niet toegestaan andere bronnen te gebruiken dan onze website.
+- Er is geen gelegenheid tot assistentie tijdens het tentamen.
+- De code zal niet beoordeeld worden op design of style, maar alleen op correctheid.
+- Voorbeeldcode met voorbeeldoutput wordt gegeven.
+- Het tentamen is pass/fail, en het is niet nodig om alles goed te hebben voor een pass.
+
+Om de studenten een idee te geven van hoe het tentamen er uit ziet zullen ze de maandag van de tentamenweek een oefententamen maken wat daarna uitgebreid wordt besproken. Dit oefententamen doen we in _exact_ dezelfde setting als het echte tentamen; 2.5u, geen andere bronnen, geen hulp, eigen laptop, etc..
+
+Dinsdag is het echte tentamen voor PDP.
+
+Op woensdag doen we van 11:00 tot 13:00 een Q & A voor het tentamen van ML. Hier zullen we alle vragen beantwoorden over de stof van machine learning.
+
+Het materiaal voor het ML1 tentamen bestaat uit alles wat behandeld is in de theorievideos en de programmeernotebooks. De theoriepagina’s van SOWISO en de artikelen uit de schrijfopgaven zijn geen onderdeel van het tentamenmateriaal. De focus van het tentamen zal liggen op het begrijpen van het materiaal en niet het uit je hoofd kennen van vergelijkingen. Dit betekent dat de student niet gevraagd zal worden om van een algoritme de wiskundige vergelijkingen op te schrijven, maar wel dat ze gevraagd kunnen worden om de termen in een vergelijking te benoemen en uit te leggen hoe ze relateren aan een stukje machine learning theorie. De student zal geen afgeleide van een vergelijking hoeven bepalen, maar wel uit moeten kunnen leggen wat een gradiënt is en hoe die gebruikt kan worden om de kostenfunctie van een model te optimaliseren. Voor dit tentamen krijgen studenten 3u de tijd, en mogen ze geen gebruik maken van externe bronnen.
+
+Beantwoord de vragen van de studenten over het tentamen. Als je iets niet (zeker) weet, noteer dit dan in een message op Basecamp. De coördinator zorgt ervoor dat jij (en de studenten) antwoord krijgen op hun vragen.
+
+<!-- TODO even bespreken met Tim of we dit zo willen doen. -->
 
 ### Algorithmic Bias (30 minuten)
 

@@ -6,7 +6,7 @@ layout: default
 
 # Assistentenhandboek Minor AI
 
-## <small>Deel A: Algemeen<br>Herfst 2022</small>
+## <small>Algemeen<br>Herfst 2022</small>
 
 <small>Deze versie is gemaakt in 2022 door Wouter Vrielink. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
 
@@ -32,10 +32,12 @@ P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator
 
 Voor assistenten die er vorig jaar bij waren, maar ook voor oud-studenten die nieuw komen assisteren.
 
+Dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
+
 <!-- TODO:
-- geen hoorcolleges, wel wekelijkse Q&A
 - werkcolleges
-- writtens -->
+- writtens beschrijving
+-->
 
 # 1 De Minor AI
 
@@ -55,7 +57,7 @@ Het programma is als volgt:
         <tr>
             <td>Python for Data Processing</td>
             <td>Data Processing and Representations</td>
-            <td rowspan=2>Machine Learning project</td>
+            <td rowspan=2>Algoritmen en Heuristieken</td>
         </tr>
         <tr>
             <td>Introduction to Machine Learning 1</td>
@@ -108,11 +110,9 @@ Het programma is als volgt:
 
 <!-- TODO Aanpassen naar nieuwe writtens? -->
 
-- **Machine Learning Project**: een Kaggle project met een klein team van studenten zelfstandig uitvoeren
+- **Algoritmen en Heuristieken**: gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
 
-
-Alle vakken kunnen naar keuze in fulltime of parttime gevolgd worden. Studenten maken deze keuze al bij de aanmelding. Alleen het Machine Learning Project wordt uitsluitend in de 4-weekse periodes in januari en juni (blok 3 en 6) aangeboden en is dus voor alle studenten fulltime.
-
+<!-- Alle vakken kunnen naar keuze in fulltime of parttime gevolgd worden. Studenten maken deze keuze al bij de aanmelding. Alleen het Machine Learning Project wordt uitsluitend in de 4-weekse periodes in januari en juni (blok 3 en 6) aangeboden en is dus voor alle studenten fulltime. -->
 
 # 2 Contact
 
@@ -253,9 +253,7 @@ De werkcolleges zijn een plek om kennis te maken met je studenten, maar vooral o
 - Daarnaast zal er (vaak) ruimte zijn voor **discussie** over de schrijfopdrachten. Hierin is je rol die discussie te begeleiden en af te kappen waar er te ver van het hoofdonderwerp afgeweken wordt. Zorg ervoor dat iedereen aan het woord komt, en dat het een _veilige_ omgeving blijft voor
 - De rest van het werkcollege kan je besteden aan **extra persoonlijke aandacht** voor de studenten. Zie het als een soort "open" assistentietijd waar je ze een extra zetje in de rug kunt geven wanneer dat nodig is.
 
-In deel B van de handleiding vind je een uitgebreidere instructie en een tijdsindicatie voor alle onderdelen per werkcollege.
-
-<!-- TODO dit wordt mogelijk de website -->
+Op wcai.mprog.nl vind je een uitgebreidere instructie en een tijdsindicatie voor alle onderdelen per werkcollege.
 
 ## 5.6 Communicatietools
 

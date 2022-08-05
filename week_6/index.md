@@ -1,6 +1,6 @@
 ## Werkcollege week 6
 
-<!-- TODO -->
+In dit werkcollege behandelen we de oefenvragen over complexiteit uit PDP. Dit is een lastig concept dat de basis vormt voor het begrip van designkeuzes die de studenten in toekomstige opdrachten zullen moeten maken. Neem de tijd en bereid dit goed voor. Daarna volgt een discussie over AlphaGo.
 
 ### Terugblik (15 minuten)
 
@@ -15,7 +15,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 Doel: Studenten begrijpen dat de kwaliteit van code afhangt van verschillende aspecten waaronder de tijdsefficiëntie en kunnen de complexiteit (big $\mathcal{O}$) van een stuk code beoordelen inschatten.
 
-Je geeft een korte introductie in big $\mathcal{O}$ en het proces van het bepalen van de complexiteit van een stuk code. Dit mag je zelf invullen.
+Je geeft een korte introductie in big $\mathcal{O}$ en het proces van het bepalen van de complexiteit van een stuk code. Dit mag je zelf invullen. Vraag na of iedereen de complexiteitvragen al heeft gemaakt. Als dit niet zo is, laat je de studenten de opgaven afmaken voordat je verder gaat.
 
 Daarna doorloop je met de studenten de complexity questions één voor één. De studenten geven antwoord en leggen uit waarom dit antwoord correct is.
 

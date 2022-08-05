@@ -31,40 +31,34 @@ Doel: De studenten begrijpen wat de `notebook_checker` doet, en waar deze voor w
 
 Mogelijk hebben de studenten het al gezien; in de notebooks vanaf module 2 wordt in de eerste cells een package geïmporteerd dat `notebook_checker` heet:
 
-```
-from notebook_checker import start_checks
+    from notebook_checker import start_checks
 
-# Start automatic globals checks
-%start_checks
-```
+    # Start automatic globals checks
+    %start_checks
 
 Dit is een door ons (specifiek; Tim Doolan) geschreven package dat bepaalde fouten bij studenten voorkomt die erg lastig te vinden zijn. Wanneer de code hierboven uitgevoerd wordt in een notebook voorkomt dit onder andere dat er in functies variabelen gebruikt worden die niet meegegeven worden. Een concreet voorbeeld:
 
-```
-tekst = "kaas"
+    tekst = "kaas"
 
-def functie_die_wat_print(meegegeven_variabele):
-  print(tekst)
+    def functie_die_wat_print(meegegeven_variabele):
+      print(tekst)
 
-functie_die_wat_print("ham")
-```
+    functie_die_wat_print("ham")
 
 De code hierboven print `"kaas"`, terwijl we volgens de naam van de functie zouden verwachten dat `"ham"` geprint zou worden. Nu is het in dit voorbeeld duidelijk dat er wat mis gaat, maar het wordt een stuk minder duidelijk als er in de code van de student (die verspreid is over een groot aantal cellen) variabelen zijn als hoofdletters: `X`, en `x`. Ook kan er in een functie per ongeluk een globale variabele aangepast worden zoals in het voorbeeld hieronder:
 
-```
-result = []
+    result = []
 
-def simulate(iterations):
-    n = 0
-    while n < iterations:
-        n = n + 1
-        result.append(n)
+    def simulate(iterations):
+        n = 0
+        while n < iterations:
+            n = n + 1
+            result.append(n)
 
-    return result
+        return result
 
-print(simulate(10))
-print(simulate(10))
-```
+    print(simulate(10))
+    print(simulate(10))
 
 In dit geval wordt `result` globaal aangepast door de functie `simulate()`. De functie werkt één keer zoals verwacht. Wanneer de functie in een andere situatie nog een keer aangeroepen wordt bevat result al elementen. Dit soort aanpassingen aan globale variabelen kan onverwachte bijeffecten veroorzaken die erg lastig te debuggen zijn. Zie hierover ook het stukje ["pure functions" in de styleguide](https://pdp.mprog.nl/python/en/style#pure-functions). We willen "pure" functions; doen maar één ding, gebruiken geen variabelen die ze niet meekrijgen, en hebben geen onverwachte effecten.
 

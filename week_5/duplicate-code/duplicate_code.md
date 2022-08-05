@@ -1,4 +1,5 @@
 ## Preventing duplicate code
+
 ### .index() (optioneel)
 
 In het bestand `index.py` staan een aantal functies die het probleem van het gebruik van `.index()` aankaarten. De functie `fake_index()` laat zien hoe `.index()` intern werkt: de functie loopt over de mogelijke indices in lijst die hij binnenkrijgt heen, en controleert per element of dit het element is wat gezocht wordt. Wanneer hij deze gevonden heeft returned de functie de index van het element wat gevonden is. Dit is de index van het _eerste_ element wat gelijk is aan de waarde die gezocht wordt.
@@ -13,24 +14,23 @@ Voor de opgave _Temperature_ hebben de studenten twee functies moeten schrijven:
 
 Begin met het laten zien wat precies het verschil is tussen het verkrijgen van de laagste en hoogste temperaturen:
 
-```
-lowest_temp = temps[0]
+    lowest_temp = temps[0]
 
-for i in range(len(temps)):
-    temp = temps[i]
+    for i in range(len(temps)):
+        temp = temps[i]
 
-    if temp < some_temp:
-        lowest_temp = temp
-        lowest_temp_date = dates[i]
+        if temp < some_temp:
+            lowest_temp = temp
+            lowest_temp_date = dates[i]
 
-highest_temp = temps[0]
+    highest_temp = temps[0]
 
-for i in range(len(temps)):
-    temp = temps[i]
+    for i in range(len(temps)):
+        temp = temps[i]
 
-    if temp > highest_temp:
-        highest_temp = temp
-        highest_temp_date = dates[i]
+        if temp > highest_temp:
+            highest_temp = temp
+            highest_temp_date = dates[i]
 ```
 
 Als we dit generiek willen maken kunnen we twee dingen doen: we kunnen afhankelijk van een boolean kiezen of we het groter of kleiner dan teken gebruiken, of we kunnen aan de functie een functie meegeven die de vergelijking doet. Leg dit aan de studenten uit en probeer iedereen te laten denken over de voor en nadelen van beide oplossingen. De boolean oplossing ziet er als volgt uit:
@@ -76,7 +76,6 @@ def get_temp_boolean(dates, temps, get_lowest):
             some_date = dates[i]
 
     return some_date, some_temp
-```
 
 Dit is een net iets nettere oplossing, maar maakt de regel die beslist wanneer een temperatuur onthouden wordt aardig ingewikkeld.
 

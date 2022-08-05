@@ -30,7 +30,7 @@ Code design is een moeilijk onderwerp waar veel ervaring voor nodig is om goede 
 - Verdeel blokken code over functies, en complexe formules over meerdere regels
 - Voeg lagen abstractie toe
 
-Laat de studenten zo veel mogelijk aanwijzen welke elementen van het programmma beter kunnen en uitleggen waarom dit zo is. Een aantal van de aspecten lijken elkaar soms tegen te spreken, dan is het belangrijk de juiste balans te vinden.
+Laat de studenten zo veel mogelijk aanwijzen welke elementen van het programma beter kunnen en uitleggen waarom dit zo is. Een aantal van de aspecten lijken elkaar soms tegen te spreken, dan is het belangrijk de juiste balans te vinden.
 
 ## Administratie
 

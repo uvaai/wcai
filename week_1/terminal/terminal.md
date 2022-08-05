@@ -43,9 +43,8 @@ In the exercises below you will practice the very basics of the terminal. Don't 
 
 **Exercise 3** Using the filesystem diagram below, if `pwd` displays `/Users/backup`, and `-r` tells `ls` to display things in reverse order, what command(s) will result in the following output:
 
-```
-pnas_sub/ pnas_final/ original/
-```
+    pnas_sub/ pnas_final/ original/
+
 
 ![](images/filesystem-challenge2.svg)
 
@@ -86,49 +85,37 @@ pnas_sub/ pnas_final/ original/
 
 Moving files and directories can be done with the command `mv`, which is short for 'move'. Let's say that we have a file named `draft.txt` that we have made while writing our thesis. This file actually contains a bunch of quotes, so a much more descriptive name would be `quotes.txt`. Renaming the file can be done using move as well:
 
-```
-$ mv thesis/draft.txt thesis/quotes.txt
-```
+    $ mv thesis/draft.txt thesis/quotes.txt
 
 The first argument tells mv what we are ‘moving’, while the last argument is where it is to go. In this case, we are moving `thesis/draft.txt` to `thesis/quotes.txt`, which has the same effect as renaming the file.
 
 `mv` can also be used to move files to directories. We use `mv` once again, but this time we use just the name of a directory as the second argument to tell `mv` that we want to keep the filename but put the file somewhere new.:
 
-```
-$ mv thesis/quotes.txt .
-```
+    $ mv thesis/quotes.txt .
 
 In this case, the directory name we use is the special directory name `.`. This moves `quotes.txt` into the _current working directory_. We can even move multiple files at once:
 
-```
-$ mv textfile1.txt textfile2.txt some_directory
-```
+    $ mv textfile1.txt textfile2.txt some_directory
 
 > Be careful when specifying the target file name, since `mv` will silently overwrite any existing file with the same name, which could lead to data loss.
 
 **Exercise 4** After running the following commands, Jamie realizes that she put the files `sucrose.dat` and `maltose.dat` into the wrong folder. The files should have been placed in the `raw/` folder.
 
-```
-$ ls -F
- analyzed/ raw/
-$ ls -F analyzed
-fructose.dat glucose.dat maltose.dat sucrose.dat
-$ cd analyzed
-```
+    $ ls -F
+     analyzed/ raw/
+    $ ls -F analyzed
+    fructose.dat glucose.dat maltose.dat sucrose.dat
+    $ cd analyzed
 
 Fill in the blanks to move these files to the `raw/` folder
 
-```
-$ mv sucrose.dat maltose.dat ____/____
-```
+    $ mv sucrose.dat maltose.dat ____/____
 
 <details markdown="1"><summary  markdown="span">Answer</summary>
 
 **Exercise 4**
 
-```
-$ mv sucrose.dat maltose.dat ../raw
-```
+    $ mv sucrose.dat maltose.dat ../raw
 
 Recall that `..` refers to the parent directory (i.e. one above the current directory) and that `.` refers to the current directory.
 
@@ -143,33 +130,25 @@ If at any point you want to check something in Finder, you can use `open .` to o
 
 The `cp` command works very much like `mv`, except it copies a file instead of moving it.
 
-```
-$ cp quotes.txt thesis/quotations.txt
-```
+    $ cp quotes.txt thesis/quotations.txt
 
 We can check that it did the right thing using `ls` with two paths as arguments — like most Unix commands, `ls` can be given multiple paths at once:
 
-```
-$ ls quotes.txt thesis/quotations.txt
-```
+    $ ls quotes.txt thesis/quotations.txt
 
 We can also copy a directory and all its contents by using the recursive option `-r` to back up a directory:
 
-```
-$ cp -r thesis thesis_backup
-```
+    $ cp -r thesis thesis_backup
 
 We can check the result by listing the contents of both the `thesis` and `thesis_backup` directory:
 
-```
-$ cp -r thesis thesis_backup
-$ ls thesis thesis_backup
-thesis:
-quotations.txt
+    $ cp -r thesis thesis_backup
+    $ ls thesis thesis_backup
+    thesis:
+    quotations.txt
 
-thesis_backup:
-quotations.txt
-```
+    thesis_backup:
+    quotations.txt
 
 **Exercise 5** Suppose that you created a plain-text file in your current directory to contain a list of the statistical tests you will need to do to analyze your data, and named it `statstics.txt`. After creating and saving this file you realize you misspelled the filename! You want to correct the mistake, which of the following commands could you use to do so?
 
@@ -180,16 +159,14 @@ quotations.txt
 
 **Exercise 6** What is the output of the final `ls` command in the sequence shown below?
 
-```
-$ pwd
-/Users/jamie/data
-$ ls
-proteins.dat
-$ mkdir recombined
-$ mv proteins.dat recombined/
-$ cp recombined/proteins.dat ../proteins-saved.dat
-$ ls
-```
+    $ pwd
+    /Users/jamie/data
+    $ ls
+    proteins.dat
+    $ mkdir recombined
+    $ mv proteins.dat recombined/
+    $ cp recombined/proteins.dat ../proteins-saved.dat
+    $ ls
 
     1. `proteins-saved.dat recombined`
     2. `recombined`
@@ -218,9 +195,7 @@ $ ls
 
 The Unix command associated with removing is `rm`:
 
-```
-$ rm quotes.txt
-```
+    $ rm quotes.txt
 
 ⚠️ The shell does not have a trash bin that can be used to recover deleted files. Removing a file using `rm` is permanent and unrecoverable. The `-i` option will prompt before (every) removal; use `Y` to confirm deletion or `N` to keep the file. By using the `-i` option, we have the chance to check that we are deleting only the files that we want to remove.
 
@@ -228,16 +203,12 @@ $ rm quotes.txt
 
 If we try to remove the `thesis` directory using `rm thesis`, we get an error message:
 
-```
-$ rm thesis
-rm: cannot remove `thesis': Is a directory
-```
+    $ rm thesis
+    rm: cannot remove 'thesis': Is a directory
 
 This happens because `rm` by default only works on files, not directories. `rm` can remove a directory and all its contents if we use the recursive option `-r`, and it will do so without any confirmation prompts:
 
-```
-$ rm -r thesis
-```
+    $ rm -r thesis
 
 ⚠️ Given that there is no way to retrieve files deleted using the shell, `rm -r` should be used **with great caution**.
 
@@ -264,31 +235,29 @@ $ rm -r thesis
 
 **Exercise 8** This can be done using the option `-R`. `ls -R` (when slightly reformatted) gives the following overview of the whole file structure:
 
-```
-games/
-  halo.exe*
-  snake.exe*
-images/
-  selfie.png
-  vacation.png
-music/
-  classic/
-  other/
-    'Rick Astley - Never Gonna Give You Up.mp3'
-  rap/
-  rock/
-university/
-  notes/
-    lecture1_notes.txt
-  pdp/
-    module_1/
-      hello.py
-      homework1.txt
-      program.py
-    module_2/
-      homework.txt
-notes.txt
-```
+    games/
+      halo.exe*
+      snake.exe*
+    images/
+      selfie.png
+      vacation.png
+    music/
+      classic/
+      other/
+        'Rick Astley - Never Gonna Give You Up.mp3'
+      rap/
+      rock/
+    university/
+      notes/
+        lecture1_notes.txt
+      pdp/
+        module_1/
+          hello.py
+          homework1.txt
+          program.py
+        module_2/
+          homework.txt
+    notes.txt
 
 You could also use the option `-1` to order everything in rows, which makes it easier to read.
 

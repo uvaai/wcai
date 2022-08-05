@@ -73,7 +73,7 @@ Download het [voorbeeld notebook](notebook-design/voorbeelden-design.ipynb) voor
 - Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. Ook dit staat in het voorbeeld notebook.
 - In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.
 
-### Code review (30 minuten)
+### Code review module 2 (30 minuten)
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
@@ -98,7 +98,7 @@ Leg het reviewen zo goed mogelijk uit en zorg dat je studenten corrigeert als ze
 
 Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave wat gereviewd wordt door **beide** studenten volledig is afgerond.
 
-**We reviewen in deze codereview module 2 van PDP.**
+**We reviewen in deze codereview heel module 2 van PDP.**
 
 ## Administratie
 

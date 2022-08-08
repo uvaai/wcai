@@ -53,7 +53,7 @@ Het programma is als volgt:
         <tr>
             <td>Python for Data Processing</td>
             <td>Data Processing and Representations</td>
-            <td rowspan=2>Algoritmen en Heuristieken</td>
+            <td rowspan=2 style="vertical-align: middle;">Algoritmen en Heuristieken</td>
         </tr>
         <tr>
             <td>Introduction to Machine Learning 1</td>

@@ -99,7 +99,7 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
 <!-- TODO Deze laat ik even, gaat nog veranderen -->
 
-- **Introduction to Machine Learning 2** <http://ml2.mprog.nl
+- **Introduction to Machine Learning 2** <http://ml2.mprog.nl>
 
   1. Logistic Regression + Automation and Labour
   2. Neural Networks (Forward) + Model Release Strategies

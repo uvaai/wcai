@@ -1,7 +1,3 @@
-werkcolleges---
-layout: default
----
-
 <header markdown="1">
 
 # Assistentenhandboek Minor AI
@@ -66,7 +62,9 @@ Het programma is als volgt:
     </tbody>
 </table>
 
-- **Python for Data Processing** <pdp.mprog.nl>
+Tijdens de eerste twee blokken van ieder 8 weken volgen de studenten dus twee vakken tegelijkertijd. Het derde blok is een projectvak, en duurt 4 weken. De vakken in de eerste twee weken bestaan allemaal uit 6 modules per stuk, waar de deadlines per module voor de vakken gelijk lopen.
+
+- **Python for Data Processing** <http://pdp.mprog.nl>
 
   1. Introduction to Python; loops, lists, and plotting
   2. Introduction to Python; functions and random numbers
@@ -76,7 +74,7 @@ Het programma is als volgt:
   6. Pandas + Survival
   {: start="1"}
 
-- **Introduction to Machine Learning 1** <ml1.mprog.nl>
+- **Introduction to Machine Learning 1** <http://ml1.mprog.nl>
 
   1. Probability + Turings paper + Eliza
   2. Types of data + k-NN
@@ -86,7 +84,7 @@ Het programma is als volgt:
   6. Exponentials and Logarithms + K-means + Filter Bubbles
   {: start="1"}
 
-- **Data Processing and Representations** <dpr.mprog.nl>
+- **Data Processing and Representations** <http://dpr.mprog.nl>
 
   1. WIP
   2. WIP
@@ -98,7 +96,7 @@ Het programma is als volgt:
 
 <!-- TODO Deze laat ik even, gaat nog veranderen -->
 
-- **Introduction to Machine Learning 2** <ml2.mprog.nl
+- **Introduction to Machine Learning 2** <http://ml2.mprog.nl
 
   1. Logistic Regression + Automation and Labour
   2. Neural Networks (Forward) + Model Release Strategies
@@ -110,7 +108,9 @@ Het programma is als volgt:
 
 <!-- TODO Aanpassen naar nieuwe writtens? -->
 
-- **Algoritmen en Heuristieken**: gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
+- **Algoritmen en Heuristieken**
+
+  Gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
 
 <!-- Alle vakken kunnen naar keuze in fulltime of parttime gevolgd worden. Studenten maken deze keuze al bij de aanmelding. Alleen het Machine Learning Project wordt uitsluitend in de 4-weekse periodes in januari en juni (blok 3 en 6) aangeboden en is dus voor alle studenten fulltime. -->
 
@@ -283,7 +283,7 @@ Maar de belangrijkste regel is: **we geven het antwoord niet weg**. Dat antwoord
 
 Hou deze regel altijd in gedachten en maak een **bewuste keuze**. Je mag het ook best zeggen tegen studenten: "ik moet even nadenken hoe ik je het beste kan helpen zonder het antwoord weg te geven". Maar wel vriendelijk! Als je de oplossing niet weet, mag je dat ook zeggen. Je kunt altijd een ervaren assistent of docent een vraag stellen of erbij roepen!
 
-⚠️ Een consequentie van deze regel is dat we proberen bij het assisteren nooit het toetsenbord van de student aanraken. Heb er vertrouwen in dat je student kán leren en dat het zelf doen de beste manier is om dit te bereiken. Ook je student moet dit vertrouwen krijgen. Is het echt noodzakelijk om even iets voor te doen? Pak dan bij voorkeur je eigen computer erbij. En zorg dat je student het daarna meteen zelf toepast in de eigen code.
+⚠️ Een consequentie van deze regel is dat we proberen bij het assisteren nooit het toetsenbord van de student aanraken. Heb er vertrouwen in dat je student kán leren en dat het zelf doen de beste manier is om dit te bereiken. Ook je student moet dit vertrouwen krijgen. Is het echt noodzakelijk om even iets voor te doen? Pak dan bij voorkeur je eigen computer erbij. Zorg dat je student het daarna meteen zelf toepast in de eigen code.
 
 ## 6.2 Ken je opdrachten
 

@@ -410,7 +410,7 @@ Voor alle studenten geldt dat de verwachting is dat ze het tempo van het dagsche
 
 ![](images/schema.png){: style="max-width:80%; margin: 0 auto; display: block;"}
 
-Bij fulltime is het belangrijk dat ze dit schema echt dagelijks volgen. Als een student hier meer dan een dag vanaf wijkt is het belangrijk dat dit gemeld wordt.
+Bij fulltime is het belangrijk dat ze dit schema echt dagelijks volgen. Als een student hier meer dan een dag vanaf wijkt is het belangrijk dat dit gemeld wordt. De student heeft dan de gelegenheid om nog voor de deadline alles in te halen.
 
 <!-- Bij fulltime moeten ze dat schema ook echt dagelijks volgen, bij parttime kunnen ze natuurlijk binnen de week iets schuiven, bijvoorbeeld in verband met deadlines van een ander vak. -->
 
@@ -418,22 +418,17 @@ Bij fulltime is het belangrijk dat ze dit schema echt dagelijks volgen. Als een 
 
 Naast het dagschema zijn er ook gewoon deadlines. Deze staan aangegeven bij de dagschema's.
 
-De **implementatie** of uitwerking van alle opdrachten moet steeds aan het eind van het schema zijn ingeleverd. De opdrachten moeten dan af zijn, en `checkpy` moet de uitwerking hebben goedgekeurd waar mogelijk.
-
-Het doel van de deadlines is om te zorgen dat er ook duidelijkheid is in het geval studenten het schema net niet bijhouden. Ze moeten dan binnen de week nog inhalen om de deadline te kunnen halen.
+De **implementatie** of uitwerking van alle opdrachten moet steeds aan het eind van het schema zijn ingeleverd. De opdrachten moeten dan volledig voldoen aan de specificaties. Als er een `checkpy` beschikbaar is, moet de uitwerking hierdoor goedgekeurd worden.
 
 ## 7.3 Ziekmelding
 
-Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat via minorai@mprog.nl.
+Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat via <minorai@mprog.nl>.
 
 Wanneer je toch zelf zo'n melding krijgt dan ga je zo te werk:
 
 - Je wenst je student beterschap
-- Je vraagt de student een mail te sturen naar minorai@mprog.nl
+- Je vraagt de student een mail te sturen naar <minorai@mprog.nl>
 - Je maakt een TODO aan op Basecamp, die afgevinkt kan worden door de coördinator zodra de mail van de student daadwerkelijk is ontvangen
-
-<!-- - Je wenst je student beterschap en vraagt meteen om even te laten weten als ze weer aan de slag gaan.
-- Je voert deze melding in op de website bij de student. -->
 
 ## 7.4 Te-laatmelding
 
@@ -442,11 +437,10 @@ Wanneer je toch zelf zo'n melding krijgt dan ga je zo te werk:
 Als je zo'n melding krijgt dan ga je zo te werk:
 
 - Je neemt deze melding gewoon aan als feit.
-- Je voert een opmerking in via de website.
-- Na het weekend controleer je of je student inmiddels alles af heeft.
-- Als het niet gelukt is maak je een Todo op Basecamp voor je coördinator.
+- Je maakt een Todo op Basecamp voor de coördinator.
+- Je vraagt de student een mail te sturen naar <minorai@mprog.nl>
 
-In dat laatste geval krijgt de coördinator dus de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is.
+De coördinator krijgt dus de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is.
 
 Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken. Ze gaan dus z.s.m. naar het spreekuur.
 
@@ -469,7 +463,7 @@ De nakijkdeadline is afhankelijk van de deadlines voor studenten. Tenzij anders 
 
 ## 8.2 Feedback
 
-Voor elke student schrijf je feedback naar aanleiding van het ingeleverde werk. Je inhoudelijke feedback is redelijk kort, to the point en bevat goede suggesties voor acties om te ondernemen. De feedback bevat geen spelfouten en is geschreven in (korte) volzinnen. Het is erg belangrijk om de feedback niet als verantwoording van het cijfer te zien. De feedback hoeft dus niet 100% compleet te zijn, je kunt meer details altijd beter even in persoon bespreken. Heb je hulp nodig bij het formuleren van prettige feedback? Bespreek het met je coördinator!
+Voor elke student schrijf je feedback naar aanleiding van het ingeleverde werk. Je inhoudelijke feedback is redelijk kort, to the point en bevat goede suggesties voor acties om te ondernemen. De feedback bevat geen spelfouten en is geschreven in (korte) volzinnen. Het is erg belangrijk om de feedback niet als verantwoording van het cijfer te zien. De feedback hoeft dus niet 100% compleet te zijn, je kunt meer details altijd beter even in persoon bespreken. Heb je hulp nodig bij het formuleren van prettige feedback? Bespreek het met de coördinator!
 
 Bekijk eens deze feedback waarin vijf feedbackpunten zijn verwerkt. Dit is een voorbeeld van feedback zoals we die graag zien.
 
@@ -534,39 +528,7 @@ De feedback moet lichtjes opgemaakt worden met behulp van Markdown. Hier een voo
 
 Bovenstaande zal omgezet worden naar HTML en netjes leesbaar zijn voor studenten. Let op dat er geen Markdown-kopjes gebruikt worden (deze worden veel te groot) en dat er witregels boven de lijstjes staan. Als je geen witregels neerzet komen alle punten achter elkaar te staan.
 
-## 8.3 Becijfering
-{:.break}
-
-
-<!-- TODO Zetten we dit hier of alleen in syllabus? -->
-
-<!-- Alle modules kunnen 1--6 punten opleveren. Voor elke module zijn diverse aspecten aangegeven op basis waarvan de punten voornamelijk (maar niet uitsluitend) worden bepaald. De aspecten gaan over codekwaliteit, en specifiek over **leesbaarheid** en **begrijpelijkheid**. De schaal is als volgt:
-
-6. uitzonderlijk goede kwaliteit op basis van een doordacht ontwerp
-5. zeer goede kwaliteit, beperkt ruimte voor verbetering
-4. degelijke kwaliteit op de genoemde aspecten, met ruimte voor verbetering
-3. net voldoende aandacht voor de genoemde aspecten, erg veel ruimte voor verbetering
-2. enige zichtbare aandacht voor een beperkt aantal aspecten
-1. onvoldoende zichtbare aandacht voor de kwaliteitsaspecten
-{: start="6" reversed=""}
-
-In deze schaal zitten een aantal patronen verborgen die het---met enige ervaring---makkelijker moeten maken om een inzending te beoordelen. Het is moeilijk om deze patronen tijdens de cursus al helemaal aan de studenten over te brengen, maar zorg dat jij ze helemaal begrijpt en toepast.
-
-- 1--4 punten gaat specifiek over de *genoemde* aspecten, dus de aspecten die deze week expliciet aan de opdracht gekoppeld zijn. Bij 4 punten is de student redelijkerwijs waar we iedereen willen hebben. Onze aandacht bij het nakijken gaat dus vooral naar deze studenten uit! Zij moeten snel beter worden.
-
-- Bij 3 punten zie je dat iemand wel de aspecten heeft "afgewerkt" maar niet heel consequent. Er is dus wel bewijs dat de student het kán, maar deze doet het niet overal. Het wordt 4 punten als de aspecten wel grotendeels consequent ("degelijk") zijn toegepast.
-
-- Bij 3--4 punten (en hoger) wordt gevraagd dat naar álle aspecten is gekeken. Het is dus niet zo dat studenten de aspecten onderling kunnen compenseren! Zijn er hele goede namen maar staat er geen commentaar, dan is het meteen 2 punten.
-
-- 5--6 punten gaat over goede kwaliteit, zonder de aspecten te noemen. Studenten die hoog willen scoren moeten dus namelijk zelf aan de bak met uitzoeken hoe je goede code schrijft---alleen de regels volgen voldoet dan niet meer. Dit is om te voorkomen dat eigenwijze studenten hacker-achtige code schrijven en hoge cijfers opeisen omdat het formeel aan de aspecten voldoet.
-
-- 6 punten heeft het ook over *ontwerp*, waarvoor duidelijk moet blijken dat een student een heel eigen idee voor de code heeft bedacht en dit mooi leesbaar heeft uitgewerkt; maar pas op, iets als "extra functies gebruiken" kan heel mooi worden, maar dan moeten ze goed gekozen zijn en de namen ook goed zijn, dus veel ideeën zijn niet zomaar goed!
-
-Het is absoluut niet de bedoeling dat studenten **meerdere keren** minder dan 3 punten halen. Daarom heeft tijdige feedback de hoogste prioriteit, en specifiek feedback die de student helpt volgende keer direct 3 of 4 punten te halen. We nemen hier als docenten en assistenten dus medeverantwoordelijkheid!
-
-Als de opdrachten **niet af** zijn (volgens `check50`), dan kan er in feite nog niet nagekeken worden en zal er uiteindelijk ook geen eindcijfer komen. We gebruiken eventueel het invoeren van 0 punten om dit te signaleren, maar de mentor zou op dat moment, samen met de coördinator, al actie moeten hebben ondernomen (student achterna zitten en hulp bieden). -->
-
-## 8.4 Algemeen
+## 8.3 Algemeen
 
 Het is handig om na het nakijken nog even terug te gaan naar de eerste paar inzendingen die je hebt nagekeken, omdat je vaak in de loop van het nakijken op andere dingen gaat letten. Het is daarnaast handig om steeds dezelfde opdracht in een rijtje na te kijken. Kijk wel steeds in een andere volgorde na, omdat je meestal de laatste iets strenger beoordeelt.
 
@@ -576,7 +538,7 @@ Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek he
 
 Tot slot: je schrijft uiteindelijk op je eigen manier. Daarom is het zinvol om tijdens de werkcolleges af en toe expliciet jouw manier van feedback geven wat meer toe te lichten. Dan kun je ook noemen dat studenten altijd mogen vragen als ze iets niet begrijpen of niet weten hoe ze het beter kunnen maken.
 
-## 8.5 Plagiaat
+## 8.4 Plagiaat
 
 Het is helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
 
@@ -608,11 +570,11 @@ En je kunt je zelfs per bericht nog uitschrijven voor notifications.
 
 ## 9.1 Tools
 
-Belangrijkste is dat je Basecamp niet gebruikt alsof het Whatsapp is: je stuurt bijna nooit een persoonlijk bericht naar een collega. De reden is dat bijna elke vraag of opmerking relevant of leerzaam kan zijn voor je mede-assistenten.
+Belangrijkste is dat je Basecamp niet gebruikt alsof het Whatsapp is: je stuurt bijna nooit een persoonlijk bericht naar een collega. De reden is dat bijna elke vraag of opmerking relevant of leerzaam kan zijn voor je mede-assistenten. Schroom dus ook niet om de vragen van anderen te beantwoorden!
 
 - Heb je dus een vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf een **Message** in één van de Basecamp-projecten.
 - Heb je informatie over een student, een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan.
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en spreek even af. Maar "domme" vragen toch graag via een Message naar iedereen hoor!
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en spreek even af. Maar "domme" vragen toch graag via een **Message** naar iedereen hoor!
 - Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus. Weet je wie aan het werk is? Doe dan ook een @mention.
 - Heb je gewoon zin om wat te delen met de rest van het team (bijvoorbeeld een meme) dan kun je dat ook doen in de **Campfire** van jouw cursus.
 
@@ -628,7 +590,7 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak via die uitnodiging direct dit account aan.
 
-- Maak een account voor **Python for Data Processing** via <https://pdp.mprog.nl/> en **Introduction to Machine Learning 1** via <https://ml1.mprog.nl/>. Kies fulltime of parttime afhankelijk van waar je assisteert. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
+- Maak een account voor **Python for Data Processing** via <https://pdp.mprog.nl/> en **Introduction to Machine Learning 1** via <https://ml1.mprog.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **studiewijzer** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de studiewijzer of heb je een vraag? Post dan meteen een vraag in Basecamp.
 

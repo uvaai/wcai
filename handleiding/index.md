@@ -61,8 +61,11 @@ Het programma is als volgt:
         </tr>
     </tbody>
 </table>
+<br>
 
 Tijdens de eerste twee blokken van ieder 8 weken volgen de studenten dus twee vakken tegelijkertijd. Het derde blok is een projectvak, en duurt 4 weken. De vakken in de eerste twee weken bestaan allemaal uit 6 modules per stuk, waar de deadlines per module voor de vakken gelijk lopen.
+
+Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
 - **Python for Data Processing** <http://pdp.mprog.nl>
 
@@ -110,7 +113,7 @@ Tijdens de eerste twee blokken van ieder 8 weken volgen de studenten dus twee va
 
 - **Algoritmen en Heuristieken**
 
-  Gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld.
+  Gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld. Dit vak heeft geen modules.
 
 <!-- Alle vakken kunnen naar keuze in fulltime of parttime gevolgd worden. Studenten maken deze keuze al bij de aanmelding. Alleen het Machine Learning Project wordt uitsluitend in de 4-weekse periodes in januari en juni (blok 3 en 6) aangeboden en is dus voor alle studenten fulltime. -->
 

@@ -232,7 +232,7 @@ Jij hoeft je als assistent niet bezig te houden met:
 - serieuze studieproblemen
 - problemen op persoonlijk vlak
 
-Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar [minorai@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een Todo in Basecamp). Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
+Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar <minorai@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een _Todo_ in Basecamp). Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
 
 Bij meer persoonlijke problemen proberen we altijd goed gebruik te maken van de faciliteiten van de universiteit, zoals studieadviseurs en studentendecanen. De examinator weet meer over de mogelijkheden en kan studenten verwijzen. De mentor hoeft dat niet zelf te doen, maar is vaak wel de eerste die de problemen signaleert.
 
@@ -262,7 +262,7 @@ Op deze website vind je een uitgebreidere instructie en een tijdsindicatie voor 
 
 De mentoren gebruiken **Slack** om hun studenten te informeren en om ze een kanaal te geven waarmee ze met elkaar  kunnen communiceren buiten de groep om. Deze Slack wordt door de mentor zelf aangemaakt (hierover later in dit document meer informatie).
 
-Maar: mentoren zullen *niet* veel beschikbaar zijn via Slack. Dit wordt in de studiewijzer verteld en jij gaat dit als mentor zelf ook bij het eerste werkcollege duidelijk maken. Coördinatoren zijn zelfs helemaal niet in de Slack te vinden.
+Maar: mentoren zullen *niet* veel beschikbaar zijn via Slack. Dit zal je als mentor zelf ook bij het eerste werkcollege duidelijk maken. Coördinatoren en examinatoren zijn zelfs helemaal niet in de Slack te vinden.
 
 Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duidelijk aan dat ze jou alleen via Slack kunnen bereiken en tijdens het werkcollege, en de docenten alleen via e-mail of bij het voorbijkomen in het lokaal. Zo zorg je er zelf voor dat je niet continu bezig hoeft te zijn met je mentorrol.
 
@@ -354,51 +354,64 @@ Geef duidelijke verbale signalen af tijdens het assisteren, met name in de fase 
 
 Doe tot slot geen aannames over wat studenten al weten. Een student kan soms met zelfs het makkelijkste probleem in de knel zitten en dan is het erg frustrerend als er wordt gezegd 'probeer eens wat harder na te denken'. Toets wat de student wel weet en bouw daarop voort. Stel open vragen en laat de student zelf het probleem oplossen, probeer niets voor te zeggen!
 
-<!-- TODO hieronder nog een stukje over hands en gedrag tijdens assisteren -->
+## 6.5 Het Hands-systeem en assisteren
 
-## 6.5 Het Hands-systeem
+Studenten kunnen een hulpvraag indienen via de Introduction to Machine Learning website. Deze "hands" verschijnen voor de assistenten in een lijst op de website. Je kiest de bovenste student om deze te "claimen", waarna je naar door de student aangegeven locatie gaat.
 
-voorbeeldscreenshots Hands
-- Hoe ziet het er uit voor student (hands_vraag.png + hands_waiting.png + hands_no_wait.png + hands_not_too_much.png)
-- Hoe ziet het er uit voor assistent (hands_menu.png)
-- Tijden aangeven (hands_times.png)
-- Vragenlijst op volgorde afwerken (hands_overzicht.png + hands_voor_accept.png + hands_accepted.png)
-- Vragen terugzetten voor jezelf (hands_terug_gezet.png)
-- Vragen terugzetten voor iemand anders (hands_terug_gezet_ander.png)
-- Vragen voltooien (hands_geen_studenten.png)
+Probeer gemiddeld 10 minuten per student aan te houden. Een absoluut maximum is 20 minuten. Duurt het langer, neem dan contact op met de coördinator om te kijken wat de beste aanpak is.
 
-<!-- ## 7.5 Werkwijze programmeerbalie
+### Hoe ziet het Hands-systeem er uit voor de student?
 
-Vanaf dit jaar komen studenten altijd naar de programmeerbalie in A1.24 als ze hulp nodig hebben (tenzij we gedeeltelijk op afstand werken).
+Bovenaan de pagina staat voor de studenten een vraagteken. Naast dit vraagteken staat een getal wat aangeeft hoe veel vragen er op het moment in de rij staan. Wanneer de student hierop klikt komt het vraagmenu naar beneden. Hierop staat direct hoe veel assistenten er aanwezig zijn om te helpen.
 
-### Afspraak maken
+![](images/hands_vraag.png)
 
-Studenten kunnen een hulpvraag indienen via de website. Ze hebben deze keuze uit een beperkt aantal opties: sommige zijn "zo snel mogelijk," hopelijk binnen 2 uur. Andere opties zijn juist morgen. Het is niet mogelijk om ver vooraf een afspraak te maken.
+Wanneer de student de vraag, het onderwerp, en een tafelnummer heeft ingevuld (dit nummer kan je vinden op de bordjes met binaire getallen op de tafels) en vervolgens op de knop _'Ask for assistance'_ drukt verschijnt een nieuw schermpje. Hierop zien de studenten hoeveel andere vragen er nog voor die van hun in de rij staan en kunnen ze de vraag uit de wachtrij verwijderen.
 
-### Ontvangst
+![](images/hands_waiting.png)
 
-Op de afgesproken tijd komen studenten naar lokaal A1.24. De docent of assistent die "greeter" is zal ze daar ontvangen en zonodig even in de wacht houden. Deze persoon kan kleinere problemen ook zelf afhandelen, maar alléén als dat niet teveel afleidt van het organiseren van de korte wachtrij.
+Ten slotte is veranderd het schermpje weer als de vraag door één van de assistenten wordt geclaimd. De naam van de assistent die naar de student op zoek is wordt weergeven.
 
-### Assisteren
+![](images/hands_no_wait.png)
 
-Zodra het kan wordt een student naar één van de assistenten gestuurd. Als assistent zoek je meteen even de gegevens van deze student op, in de juiste cursuswebsite. Vraag dus naar naam en cursus. Op de site vind je notities die bij het eerdere assisteren zijn achtergelaten. Misschien heeft de vorige assistent wel expliciet gevraagd aan de student om iets te doen. Dubbelcheck dat!
+Het is niet mogelijk voor de student om direct na het stellen van een vraag nog een vraag te stellen. Wanneer een student dit toch doet wordt het volgende scherm weergeven.
 
-**Situatie: geen concrete vraag.** Juist bij de balie is er een kans dat een student nog geen concrete vraag heeft. Help de student in dat geval de vraag formuleren zoals hierboven uitgelegd (6.3). Sommige studenten kunnen ook nog wat meer tijd gebruiken om zelf wat langer naar hun programma te kijken voordat je ze echt gaat helpen; probeer zelf een juiste inschatting van de situatie te maken om vervolgens te besluiten de student direct te helpen, of een duwtje in de goede richting te geven en later nog even terug te laten komen.
+![](images/hands_not_too_much.png)
 
-**Situatie: code is onleesbaar.** Is de indentatie totaal niet op orde? Vraag de student dan altijd eerst om deze netjes te maken. Niet alleen omdat het "hoort" maar omdat verkeerde indentatie het probleem heel moeilijk vindbaar kan maken. Met een beetje mazzel is het daarna zo gevonden (studenten in deze fase hebben overigens vaak ook nog een probleem met de analyse van hun probleem, dus kijk daar ook naar). In principe blijft de student bij jou zodat je eventueel kan inspringen 🙃, maar als het echt lang duurt laat je de student straks terugkomen.
+### Voor assistenten
 
-### Tijdsbesteding
+Assistenten kunnen rechtsboven op de Introduction to Machine Learning site een knop vinden naast de vragenknop. Hierop staat het menu genaamd _'Hands'_.
 
-- Probeer zo'n 10 minuten per student aan te houden. Een absoluut maximum is 20 minuten, in noodgevallen. Duurt het langer, haal dan de greeter erbij om te zorgen dat de planning niet in de soep loopt.
+![](images/hands_menu.png)
 
-- Als je een student later wil laten terugkomen, meld dit dan ook bij de greeter. Vertel bovendien duidelijk tegen de student wat je verwachting is en hoe deze zich weer kan melden.
+Wanneer je dit voor de eerste keer op de dag opent geef je aan tot welke tijd je assisteert. Hierdoor kunnen de studenten zien hoe veel assistenten er aanwezig zijn.
 
-- Kom je er zelf niet uit? Dan kun je natuurlijk altijd even vragen of één van je mede-assistenten of de greeter mee kan kijken. Het is expliciet de bedoeling dat onervaren assistenten zonodig hulp inschakelen en zich zo verder ontwikkelen.
+![](images/hands_times.png)
 
-### Verslag
+De pagina weergeeft daarna de lijst met vragen van de studenten. De vraag bovenaan is de vraag die het langst geleden gesteld is. Werk de lijst dus altijd van boven naar beneden door.
 
-Na het helpen schrijf je op de website een korte samenvatting van het uiteindelijke probleem en hoe je geholpen hebt. Noteer het ook als je de student hebt gevraagd iets te doen en later terug te komen. De volgende assistent kan deze informatie ook lezen en daar op inspelen. -->
+![](images/hands_overzicht.png)
 
+Je kunt op de vraag klikken, dan krijg je een gedetailleerdere versie van de vraag met twee opties: 'Start Helping' en 'Delete & Mail'. Met `Start Helping` claim je de vraag, en met `Delete & Mail` kan je de vraag uit de lijst halen als er geen hulp meer aangeboden wordt, of als de vraag al een flinke tijd voordat assistentie begint in de lijst is gezet bijvoorbeeld. Als je de vraag niet wilt claimen of deleten kan je ook terug naar het overzicht met het `<` pijltje linksboven.
+
+![](images/hands_voor_accept.png)
+
+Nadat je de vraag geclaimd hebt krijg je het scherm hieronder. Hierin kan je eventuele opmerkingen neerzetten voor in het systeem op de website. Deze worden niet zichtbaar voor de student. Ook kan je hier alsnog de vraag deleten.
+
+![](images/hands_accepted.png)
+
+Daarnaast is het is mogelijk om een student terug in de lijst te plaatsen. Dit kan om twee redenen:
+
+- Het kan zijn dat je deze student zelf korte tijd later nog even wil spreken. Vertel dit duidelijk tegen de student. Deze kan namelijk in de tussentijd ook geen andere vraag indienen! Druk dan op het pijltje linksboven, nadat je de vraag geclaimd hebt. De student komt dan terug in jouw lijst, en de vraag wordt blauw gekleurd. Jij bent nu de enige die de vraag nog kan zien. Ondertussen kan je andere studenten helpen, en later de vraag alsnog weer aanklikken en als afgehandeld markeren. Vergeet dit niet te doen!
+- Misschien kom je er niet uit met de vraagstelling en wil je heel graag dat een andere assistent de vraag overneemt. Dit kan alleen als er een andere assistent (of de coördinator) beschikbaar is; check dit even voordat je de vraag terug zet (via basecamp, of in het lokaal). De vraag wordt dan geel gemarkeerd en is bij iedereen in de lijst zichtbaar.
+
+![](images/hands_terug_gezet.png)
+
+![](images/hands_terug_gezet_ander.png)
+
+Wanneer er geen vragen zijn, krijg je het scherm hieronder te zien.
+
+![](images/hands_geen_studenten.png)
 
 # 7 Deadlines en ziekmelding
 

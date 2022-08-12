@@ -230,7 +230,7 @@ This happens because `rm` by default only works on files, not directories. `rm` 
   2. Create a file named `TODO.txt` in `university/ml1/``
   3. Create a copy of `images/` named `images_backup/`
 
-<details markdown="1"><summary  markdown="span">Answer</summary>
+<details markdown="1"><summary  markdown="span">Answers</summary>
 **Exercise 7** `rm -i ../file_structure_exercise.zip`
 
 **Exercise 8** This can be done using the option `-R`. `ls -R` (when slightly reformatted) gives the following overview of the whole file structure:

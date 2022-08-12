@@ -60,6 +60,22 @@ De studenten hebben net een code review gedaan van temperature, en de functies u
 
 ### Chinese Room (30 minuten)
 
+Doel: iedereen krijgt de mogelijkheid om te praten en te discussiëren over een onderwerp uit de schrijfopdrachten.
+
+Studenten zijn vaak benieuwd naar wat andere hebben geschreven over de schrijfopdracht en vinden het leuk hierover ideeën uit te wisselen en met elkaar in discussie te gaan. De rol van de mentor is om dit te faciliteren en het gesprek een beetje op gang te krijgen.
+
+> Als er weinig interesse is om de schrijfopgave te bespreken, is het ook prima om door te gaan naar het volgende onderdeel van het werkcollege; niet elke week is even interessant, ook dat kan van groep tot groep verschillen. Je hoeft dit gesprek dus niet te forceren.
+
+Dit werkcollege praten en discussiëren we klassikaal over de schrijfopdracht van de vorige week. De studenten mogen hier zelf voor een groot deel invulling aan geven. Als mentor is jouw rol in dit gesprek om mee te luisteren, het gesprek gaande te houden, en de gemoederen niet te hoog te laten oplopen. Je mengt je hierbij zo min mogelijk in het gesprek zelf. Om de boel op gang te helpen hebben we per schrijfopdracht een lijst onderwerpen/discussiepunten.
+
+- Houd tijdens het gesprek het hoofdonderwerp in de gaten. Als deelnemers (te ver) afwijken, grijp dan in.
+- Je hoeft het gesprek niet te beperken tot de gegeven onderwerpen/discussiepunten. Wanneer de studenten het over iets anders willen hebben wat ook gerelateerd is aan het hoofdonderwerp is dat prima! Ook hoef je ze niet op volgorde af te gaan; bedenk zelf welk onderwerp/discussiepunt op het moment het best in het gesprek past.
+- Als het gesprek dreigt te stokken, stel dan nieuwe vragen of geef een nieuw onderwerp/discussiepunt aan.
+- Wanneer iemand zijn mening niet duidelijk verwoordt, stel dan vragen om verduidelijking te krijgen.
+- Niet iedereen die meedoet hoeft wat te zeggen, maar zorg er wel voor dat iedereen die dat wilt aan het woord kan komen. Soms kan het nodig zijn dat je een specifiek persoon om een mening moet vragen.
+
+⚠️ Deelname aan de gesprekken over de schrijfopdrachten is niet verplicht voor de studenten. Studenten kunnen er zelf voor kiezen om met iets anders aan de slag te gaan. Geef bij de studenten die niet meedoen duidelijk aan dat half-meedoen geen optie is, en dat jij zelf niet beschikbaar bent voor vragen. Je bent zelf namelijk nodig bij het gesprek.
+
 <!-- TODO -->
 
 ## Administratie

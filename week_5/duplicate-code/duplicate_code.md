@@ -1,5 +1,9 @@
 ## Preventing duplicate code
 
+In deze kleine demo/discussie laat je de studenten zien hoe je `get_lowest_temp()` en `get_highest_temp()` uit de opgave Temperature versimpelt. Op deze hulppagina vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
+
+> Als je gezien hebt dat je studenten veel gebruik gemaakt hebben van de functie `.index()` kan je ook het optionele gedeelte hierover behandelen.
+
 ### .index() (optioneel)
 
 In het bestand `index.py` staan een aantal functies die het probleem van het gebruik van `.index()` aankaarten. De functie `fake_index()` laat zien hoe `.index()` intern werkt: de functie loopt over de mogelijke indices in lijst die hij binnenkrijgt heen, en controleert per element of dit het element is wat gezocht wordt. Wanneer hij deze gevonden heeft returned de functie de index van het element wat gevonden is. Dit is de index van het _eerste_ element wat gelijk is aan de waarde die gezocht wordt.

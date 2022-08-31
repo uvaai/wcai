@@ -30,11 +30,6 @@ Voor assistenten die er vorig jaar bij waren, maar ook voor oud-studenten die ni
 
 Dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
 
-<!-- TODO:
-- werkcolleges
-- writtens beschrijving
--->
-
 # 1 De Minor AI
 
 De Minor AI is opgezet voor studenten die **geen** programmeerervaring en **geen** wiskundige achtergrond hebben. Het doel is om deze studenten een _veilige_ omgeving te bieden om te leren over programmeren, wiskunde, en AI. Hierbij doen ze ook ervaring op met technieken uit dataverwerking en software engineering.

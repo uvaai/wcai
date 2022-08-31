@@ -8,13 +8,11 @@ In such tasks we can take advantage of a Unix shell, which is often referred to 
 
 ### Basic commands
 
-During the installation of the software we use in our courses you have watched a video on how to use the Mac OS terminal. You have encountered the prompt, commands, options, and arguments:
+During the installation of the software we use in our courses you have watched a video on how to use the Mac OS terminal. You have encountered the prompt, commands, and arguments:
 
-![](images/shell_command_syntax.svg)
+![](images/shell_command_syntax.png)
 
-Where `ls` is the command, with an option `-F` and an argument `/`. Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-F` makes sure that folders/directories are displayed with a `/` behind their name (this is default behavior on Windows). Sometimes options and arguments are referred to as parameters. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option. Options are sometimes also called flags.
-
-Each part is always separated by spaces. If you omit the space between `ls` and `-F` the shell will look for a command called `ls-F`, which doesn’t exist. The capitalization is also important. For example, `ls -s` will display the size of files and directories alongside the names, while `ls -S` will sort the files and directories by size.
+Where `cd` is the command, with the argument `..`. Each part is always separated by spaces. If you omit the space between `cd` and `..` the shell will look for a command called `cd..`, which doesn’t exist. Capitalization is also important. For example, after entering `CD ..`, the terminal will respond with `command not found`.
 
 In the exercises below you will practice the very basics of the terminal. Don't worry; the exercises won't be as intricate as the task described in the example above.
 
@@ -40,6 +38,12 @@ In the exercises below you will practice the very basics of the terminal. Don't 
     4. `original/ pnas_final/ pnas_sub/`
 
 ![](images/filesystem-challenge.svg)
+
+### Options
+
+![](images/shell_command_syntax.svg)
+<!-- TODO INTEGRATE -->
+Sometimes options a are referred to as parameters. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option. Options are sometimes also called flags. Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-F` makes sure that folders/directories are displayed with a `/` behind their name (this is default behavior on Windows). will display the size of files and directories alongside the names, while `ls -S` will sort the files and directories by size.
 
 **Exercise 3** Using the filesystem diagram below, if `pwd` displays `/Users/backup`, and `-r` tells `ls` to display things in reverse order, what command(s) will result in the following output:
 

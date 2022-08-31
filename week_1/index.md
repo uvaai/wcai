@@ -47,17 +47,19 @@ Doel: De morning meetings zorgen voor een vast begin van de dag, brengen de comm
 
 🧑‍🏫 Uitleg aan studenten
 
-Voordat assistentie begint komen de studenten bijeen voor een meeting. Dit doen ze al vanaf morgen, en duurt ongeveer twintig minuten (met koffie/thee). Ze bespreken:
+Voordat assistentie begint komen de studenten bijeen voor een meeting. Dit doen ze al vanaf morgen, en duurt ongeveer twintig minuten (met koffie/thee). Ze bespreken bijvoorbeeld:
 
   - Hoe is het gisteren gegaan
   - Wat is het doel voor vandaag
   - Zijn er anderen met dezelfde vragen
 
-Onder andere om te kijken of er andere studenten zijn die soortgelijke vragen hebben; dan kunnen die ook samen gesteld worden, of wie weet is er een student die het heel goed kan uitleggen!
+Leg uit dat de bedoeling hier echt is om ervoor te zorgen dat de groep van elkaar weet waar in de planning iedereen is, en ze vragen onderling kunnen oplossen. Hierdoor verloopt de assistentie een stuk efficiënter; als een aantal studenten er samen ook niet uitkomen, of alsnog vragen hebben, kunnen die tegelijkertijd behandeld worden. Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
 
-Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
+Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijvoorbeeld 9:00, 9:15, of 9:30). De studenten mogen zelf inrichten hoe ze de sessies aanpakken.
 
-Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijvoorbeeld 9:00, of 9:30).
+Leg ook uit dat samenwerken bij onze vakken toegestaan is. Overleggen over de stof, of samen een aanpak voor een probleem _bedenken_ vallen hieronder. Het is prima als het om ideeën gaat, niet als het over regels code gaat. Het delen van code, of samen _ontwerpen/opstellen/uitwerken_ van (pseudo)code niet.  Dit laatste ontneemt tenminste één persoon in de samenwerking van het leermoment en oefening. In een gezonde samenwerking kijk je eigenlijk niet op elkaars scherm, en ben je alleen bezig op een whiteboard. Je kunt ook nog verwijzen naar het stuk over academic honesty in de syllabus.
+
+Leg ten slotte uit dat alles wat ingeleverd wordt door de studenten door onze plagiaatdetectie heen gaat. Deze plagiaatdetectie werkt goed op code en kan erg makkelijk detecteren wanneer code (zo goed als) van elkaar overgenomen is. Wanneer er plagiaat gedetecteerd wordt krijgen alle betrokken studenten een 1 voor die module. Bij ernstige gevallen nemen we ook contact op met de examencomissie.
 
 ### Terminal (30--45 minuten)
 

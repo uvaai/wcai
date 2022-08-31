@@ -4,7 +4,7 @@
 
 ## <small>Algemeen<br>Herfst 2022</small>
 
-<small>Deze versie is gemaakt in 2022 door Wouter Vrielink. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
+<small>Deze versie van het handboek is gemaakt in 2022 door Wouter Vrielink. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
 
 </header>
 
@@ -89,15 +89,15 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
 - **Data Processing and Representations** <https://dpr.mprog.nl>
 
-  1. WIP
-  2. WIP
-  3. WIP
-  4. WIP
-  5. WIP
-  6. WIP
+  1. Object Oriented Programming: Populations
+  2. SQL
+  3. HTML + Acquisition
+  4. Transformation part one
+  5. Transformation part two
+  6. Git
   {: start="1"}
 
-<!-- TODO Deze laat ik even, gaat nog veranderen -->
+Het programma voor DPR staat nog niet vast.
 
 - **Introduction to Machine Learning 2** <https://ml2.mprog.nl>
 
@@ -115,8 +115,6 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
   Gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld. Dit vak heeft geen modules.
 
-<!-- Alle vakken kunnen naar keuze in fulltime of parttime gevolgd worden. Studenten maken deze keuze al bij de aanmelding. Alleen het Machine Learning Project wordt uitsluitend in de 4-weekse periodes in januari en juni (blok 3 en 6) aangeboden en is dus voor alle studenten fulltime. -->
-
 # 2 Contact
 
 Er zijn vier manieren waarop studenten actief betrokken worden bij de cursus: werkcolleges, practica, morning meetings en assistentie. Deze worden hier kort besproken. Over al deze onderwerpen staat uitleg voor de studenten in de syllabus op de websites.
@@ -129,6 +127,8 @@ Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onde
 
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen.
 
+Tijdens de werkcolleges maak je ook notities over de studenten. Je houdt een logboek bij voor iedere student in je mentorgroep. Hierin noteer je informatie als studie, programmeerervaring, baan, heeft het moeilijk/makkelijk, maar ook maak je een notitie over hoe het gaat met een persoon. Deze update je als het nodig is iedere week, zodat we een goed beeld kunnen krijgen van hoe het met iedereen gaat. Wanneer er niets is gewijzigd, hoef je de tekst ook niet aan te passen. In deze file je ook bij hoe veel late-days een student gebruikt heeft, en wordt ook door de coördinator genoteerd of er sprake is van uitzonderingen. Hierover volgt later in dit document meer inforrmatie.
+
 ## 2.2 Practica
 
 Voor studenten is een werkplek gereserveerd gedurende de practicumuren. Bij Fulltime is er in principe voor elke student de hele week een plek in ons lokaal. Het is allereerst een plek voor studenten om bij elkaar te komen, elkaar te helpen, en samen aan de opdrachten te werken.
@@ -137,7 +137,15 @@ Voor studenten is een werkplek gereserveerd gedurende de practicumuren. Bij Full
 
 ## 2.3 Morning meetings
 
-Studenten doen elke dag voordat de assistentie begint een meeting met hun mentorgroep, zonder de mentor. De bedoeling is om kort te reviewen hoe iedereen ervoor staat met de opdrachten en wat de plannen voor vandaag zijn. Dit is ook het moment waarop studenten weer even met elkaar kunnen afspreken, bijvoorbeeld om elkaar te helpen, of om samen een vraag te stellen tijdens de assistentie. Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
+Studenten doen elke dag voordat de assistentie begint een meeting met hun mentorgroep, zonder de mentor. De bedoeling is om kort te reviewen hoe iedereen ervoor staat met de opdrachten en wat de plannen voor vandaag zijn. Dit is ook het moment waarop studenten weer even met elkaar kunnen afspreken, bijvoorbeeld om elkaar te helpen, of om samen een vraag te stellen tijdens de assistentie.
+
+Ze bespreken bijvoorbeeld:
+
+  - Hoe is het gisteren gegaan
+  - Wat is het doel voor vandaag
+  - Zijn er anderen met dezelfde vragen
+
+De studenten mogen zelf dit moment inrichten, en dus ook andere dingen bespreken. De bedoeling is om ervoor te zorgen dat de groep van elkaar weet waar in de planning iedereen is, en ze vragen onderling kunnen oplossen. Hierdoor verloopt de assistentie een stuk efficiënter; als een aantal studenten er samen ook niet uitkomen, of alsnog vragen hebben, kunnen die tegelijkertijd behandeld worden. Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
 
 ## 2.4 Assistentie
 
@@ -145,7 +153,7 @@ Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (m
 
 # 3 Taakverdeling
 
-Bij de uitvoering van de cursus zijn de verantwoordelijkheden verdeeld over de verschillende medewerkers. Als assistent heb je allereerst de verantwoordelijkheid om een aantal uur per week studenten uit de hele groep te **assisteren** met hun programmeeropdrachten. Daarnaast ben je voor een vaste groep studenten de **mentor**. Als mentor ben je het eerste aanspreekpunt voor de studenten in jouw groep. Het is daarom belangrijk dat je als mentor precies weet hoe de cursus in elkaar steekt en welke regels van toepassing zijn, voor zover die in de studiewijzer vermeld staan. Je leert de studenten uit je groep goed kennen en houdt nauwkeurig hun voortgang bij. Dit is bovendien de groep studenten van wie je het werk nakijkt.
+Bij de uitvoering van de cursus zijn de verantwoordelijkheden verdeeld over de verschillende medewerkers. Als assistent heb je allereerst de verantwoordelijkheid om een aantal uur per week studenten uit de hele groep te **assisteren** met hun programmeeropdrachten. Daarnaast ben je voor een vaste groep studenten de **mentor**. Als mentor ben je het eerste aanspreekpunt voor de studenten in jouw groep. Het is daarom belangrijk dat je als mentor precies weet hoe de cursus in elkaar steekt en welke regels van toepassing zijn, voor zover die in de syllabus vermeld staan. Je leert de studenten uit je groep goed kennen en houdt nauwkeurig hun voortgang bij. Dit is bovendien de groep studenten van wie je het werk nakijkt.
 
 ![](images/rollen.png)
 
@@ -153,6 +161,16 @@ De **coördinator** van een cursus werkt met de mentoren om de voortgang van all
 
 De **examinator** heeft het totaaloverzicht over hoe de cursus in elkaar zit en heeft de verantwoordelijkheid om te zorgen dat elke student de cursus goed kan doorlopen en daarvoor uiteindelijk een passend cijfer ontvangt. Ook kan de examinator studenten helpen die niet goed meekomen en tussentijds hun plannen willen omgooien. De examinator dient bovendien als contactpersoon voor studieadviseurs en examencommissie.
 
+# 3.1 Verdeling werktijd
+
+In principe nemen we alle assistenten voor 12 uur per week aan. Deze tijd is verdeeld over de verschillende taken van de assistent.
+
+- Een assistent assisteert 6 uur per week
+- Een assistent geeft iedere week een werkcollege van 2 uur
+- Een assistent kijkt modules na van alle studenten in de mentorgroep. Hiervoor krijgt de assistent 30 minuten per gecombineerde module. Dit bestaat uit het programmeerwerk voor het Python vak, en het programmeerwerk en de written voor het Machine Learning vak voor één module.
+- De resterende tijd in de week gaat naar voorbereiding en communicatie met studenten.
+
+Dit semester krijgt iedere mentor ongeveer 8 studenten onder zijn of haar hoede. Ieder vak heeft 6 modules, dus je kijkt in 8 weken tijd $$6*8*0.5u = 24u$$ na. De laatste week van het blok is er geen assistentie en ook geen werkcolleges. Dit betekent dat er $$(8*12u - 7*8u - 24u)/8 = 2u$$ per week overblijft voor voorbereiding en communicatie met studenten.
 
 # 4 Informatievergaring
 
@@ -160,50 +178,53 @@ Het contact dat we met studenten hebben is een belangrijke bron van informatie o
 
 ⚠️ Het is een essentieel onderdeel van je werk dat je deze signaleringsfunctie vervult.
 
-Informatie delen we binnen het team via twee systemen: enerzijds de website van de cursus, zoals <https://ml1.mprog.nl/>, en anderzijds de tool voor interne communicatie genaamd [Basecamp](https://www.basecamp.com/). Verderop in de handleiding vind je hier en daar meer informatie over beide systemen.
+Informatie over studenten delen we binnen het team via [Basecamp](https://www.basecamp.com/). Dit is onze tool voor interne communicatie. Verderop in de handleiding vind je meer informatie over dit systeem.
 
-- **Verslaglegging over individuele studenten** doe je via de <u>website</u> van de cursus. Het doel is om later terug te kunnen lezen hoe het gaat.
-    - Omstandigheden van de student uitleggen (mentor).
-    - Ziekmelding van een student (coördinator).
-    - Verslag na assisteren: waar zat de student (echt) mee, hoe heb je geholpen, zijn er nog losse eindjes.
-
-⚠️ Let op dat deze notities op de website alleen worden gelezen wanneer er gezocht wordt naar extra informatie over een student. Urgente problemen moeten altijd los gemeld worden!
-
-- **Urgente problemen van individuele studenten** meld je via een *Todo* op <u>Basecamp</u> en wordt overgenomen door de coördinator.
+- **Problemen van individuele studenten** meld je via een *Todo* op <u>Basecamp</u> en assign je altijd aan de coördinator.
     - Student is onbereikbaar.
     - Student houdt zich niet aan een speciale afspraak.
-    - Student mist de normale deadline.
+    - Student moet gesproken worden door coördinator om welke reden dan ook.
+    - Ziekmelding van een student.
+
+- **Verbeteringen voor de cursus** meld je ook via een *Todo* op <u>Basecamp</u>.
+    - Spel-/typefouten in teksten.
+    - Suggesties voor opgaven of aanpassingen aan opdrachten.
 
 - **Verslaglegging of vragen over de cursus**, ofwel zaken die op meerdere studenten betrekking hebben of zelfs de hele groep doe je via een *Message* op <u>Basecamp</u> zodat iedereen kan meedenken.
     - Melding van problemen van diverse studenten bij een opdracht.
     - Het nut van een opdracht ter discussie stellen.
     - Vraag naar de bedoeling van een onderdeel.
 
-- **Vastlopers in de cursus**, ofwel dingen waar "iedereen" in de problemen komt en snel opgelost moeten worden meld je ook via een *Message* op <u>Basecamp</u>.
+- **Vastlopers in de cursus**, ofwel dingen waar "iedereen" in de problemen komt en snel opgelost moeten worden meld je via de *Campfire* op <u>Basecamp</u>.
     - Opdracht staat niet open.
     - Download werkt niet.
     - Er zijn geen instructies doorgestuurd naar iedereen.
 
-Op de volgende pagina voorbeelden van verslaglegging en probleemmelding over een enkele student.
+- **Verslaglegging over individuele studenten** doe je via een *file* op Basecamp. Het doel is om later terug te kunnen lezen hoe het gaat. Hier volgt nog informatie over
+    - Omstandigheden van de student uitleggen; studie, programmeerervaring, baan, heeft het moeilijk/makkelijk, etc
+    - Student mist de normale deadline en gebruikt een late day
 
-<div style="text-align:center; break-before: page;" markdown="1">
+Als een algemene regel is het handig om te onthouden:
 
-Verslaglegging in de cursuswebsite:
+- Urgent en iedereen heeft er wat aan of er moet direct iets gebeuren? Campfire.
+- Niet urgent en iedereen heeft er wat aan? Message.
+- Er moet actie ondernomen worden omtrent een student? Todo.
+- Er moet ooit iets veranderd worden, of ergens naar worden gekeken? Todo.
+- Je moet iets opschrijven over een student voor later? File.
 
-![](images/opmerkingen.png)
-{: style="max-width:60%; margin: 0 auto; "}
-
-Verzoek om actie in Basecamp:
+Een voorbeeld voor een verzoek om actie in Basecamp:
 {: style="margin-top:3rem"}
 
 ![](images/studenten.png)
 {: style="max-width:60%; margin: 0 auto; "}
 
-</div>
+Verdere uitleg over het gebruik van Basecamp vind je onder het kopje Interne communicatie.
+
+> Een kleine uitzondering op de regel is commentaar voor jezelf voor bij het nakijken. Dit kan je kwijt op de website. Hier vind je meer informatie over onder het kopje Nakijken.
 
 # 5 Mentoren
 
-Mentoren krijgen een groep van ongeveer 10 studenten voor wie zij het eerste aanspreekpunt zijn. Hieronder een uitwerking van de verschillende verantwoordelijkheden.
+Mentoren krijgen een groep van ongeveer 10 studenten voor wie zij het eerste aanspreekpunt zijn. Hieronder vind je een uitwerking van de verschillende verantwoordelijkheden.
 
 ## 5.1 Aanspreekpunt
 
@@ -217,22 +238,21 @@ Als mentor leer je alle studenten uit je mentorgroep goed kennen. Dat betekent d
 - Levert tijdig in
 - Neemt goed deel aan de cursus en de werkcolleges
 
-Het kan handig zijn om dit ergens voor jezelf te noteren, op de website bijvoorbeeld. Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs.
+Het is handig om deze dingen te noteren op Basecamp. Dit doe je in jouw file onder "Docs & Files" per student. Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs. Dit doe je in
 
 Dat je je studenten goed kent maakt je ook het juiste aanspreekpunt voor de cursus. Dat betekent dat studenten zich al gauw bij jou zullen melden als ze een organisatorische vraag hebben waarvoor ze het antwoord niet kunnen vinden. Maar ook bij persoonlijke problemen zullen ze ongetwijfeld naar jou toe komen.
 
-⚠️ Doe geen beloftes aan studenten over het verloop van de cursus of regelingen anders dan wat er al letterlijk in de studiewijzers staat. Studenten zullen zeer vaak tussen neus en lippen door even "naar de bekende weg vragen". Maar als het niet in een van de studiewijzers staat dan nemen de docenten beslissingen op individuele basis. Ga dus niet in op dit soort vragen en verwijs naar de juiste kanalen.
+⚠️ Doe geen beloftes aan studenten over het verloop van de cursus of regelingen anders dan wat er al letterlijk in de syllabus staat. Studenten zullen zeer vaak tussen neus en lippen door even "naar de bekende weg vragen". Maar als het niet in een van de syllabi staat dan nemen de docenten beslissingen op individuele basis. Ga dus niet in op dit soort vragen en verwijs naar de juiste kanalen.
 
 ## 5.2 Doorverwijzen
 
 Jij hoeft je als assistent niet bezig te houden met:
 
 - plagiaat
-- ziekmeldingen
 - serieuze studieproblemen
 - problemen op persoonlijk vlak
 
-Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar <minorai@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een _Todo_ in Basecamp). Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
+Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar <minorai@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een _Todo_ in Basecamp). Deze assign je aan de coördinator. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
 
 Bij meer persoonlijke problemen proberen we altijd goed gebruik te maken van de faciliteiten van de universiteit, zoals studieadviseurs en studentendecanen. De examinator weet meer over de mogelijkheden en kan studenten verwijzen. De mentor hoeft dat niet zelf te doen, maar is vaak wel de eerste die de problemen signaleert.
 
@@ -273,6 +293,8 @@ Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duide
 # 6 Assisteren
 
 Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (maar niet teveel). 🆕 Deze assistentie wordt volledig op locatie georganiseerd in ons lokaal. Studenten kunnen een hulpvraag indienen via de website. Hierbij geven ze hun locatie aan, de opdracht waar ze mee bezig zijn, en beschrijven ze het probleem dat ze hebben. Deze hands verschijnen voor de assistenten op de website en kunnen zo overzichtelijk behandeld worden. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je de hands af.
+
+Iedere dag zijn er 3 uren ingeroosterd waarop er assistentie aanwezig is. Er zijn in principe altijd minimaal twee TAs aanwezig tijdens assistentieuren. Deze zijn ingepland van 10 tot 13, tenzij er op die dag een Q&A is, dan is het van 11 tot 14. Op maandagochtend zijn er werkcolleges en is de assistentie van 13 tot 16. Tijdens assistentie wordt door een van de aanwezige TAs de aanwezigheid opgenomen. Overleg even wie van jullie dit doet en wanneer. Verderop volgt meer informatie die uitlegt hoe je dit doet.
 
 ⚠️ Roostering voor het assisteren wordt pas kort voor de start van het vak gedaan omdat veel assistenten pas laat horen in welke werkcolleges zij zelf geroosterd zijn.
 
@@ -413,6 +435,18 @@ Wanneer er geen vragen zijn, krijg je het scherm hieronder te zien.
 
 ![](images/hands_geen_studenten.png)
 
+## 6.6 Aanwezigheid opnemen
+
+Voor de studenten geld een aanwezigheidsplicht. We verwachten dat ze iedere dag van 9 tot 17 op de campus aanwezig zijn. We dwingen dit niet af met constante controles en er zijn ook geen "straffen" voor studenten die niet aanwezig zijn. Indirect is de straf dat ze door niet aanwezig te zijn geen vragen kunnen stellen en ze dus vaker en sneller vast zullen komen te zitten.
+
+We nemen tijdens de assistentie wel aanwezigheid op. Dit geeft ons (de coördinator en examinator) een indicatie voor de moeite die studenten in het vak stoppen. Wanneer een student om extra uitstel of een uitzondering vraagt nemen we dit mee in onze beslissing. Bij een student die eigenlijk altijd aanwezig is zullen we eerder geneigd zijn om een uitzondering te geven.
+
+Tijdens het assisteren wordt de aanwezigheid opgenomen door de TAs die op dat moment assisteren. Deze overleggen samen wie het doet, en wanneer tijdens de assistentie. Probeer dit niet altijd op hetzelfde tijdstip te doen. Het doel is om een steekproef te nemen; het is dus niet erg als je een persoon per ongeluk mist omdat diegene naar de wc is of iets dergelijks. Je hoeft hierbij ook geen rekening te houden met mensen die ziek zijn.
+
+Aangeven van aanwezigheid doe je via de sheet die hiervoor beschikbaar is op Basecamp. Je kunt de sheet vinden onder Docs & Files. Zet een "x" neer voor studenten die aanwezig zijn. Studenten die niet aanwezig zijn hoef je niets voor neer te zetten. Als iemand binnen komt lopen nadat je de aanwezigheid hebt opgenomen kruis je deze persoon niet alsnog aan in de sheet.
+
+Het is natuurlijk mogelijk dat er studenten zijn die al klaar zijn met de modules van die week. Deze studenten hebben de instructie gekregen om dit aan te geven bij een assistent. Controleer of de student daadwerkelijk klaar is met alle opgaven; ook design, style, de open vragen, en de written moeten volledig **af** zijn.
+
 # 7 Deadlines en ziekmelding
 
 Bij onze cursussen gebruiken we zowel deadlines als een dagschema om te zorgen dat studenten de cursus op tijd af krijgen en wij regelmatig ons nakijkwerk kunnen doen.
@@ -431,33 +465,54 @@ Bij fulltime is het belangrijk dat ze dit schema echt dagelijks volgen. Als een 
 
 Naast het dagschema zijn er ook gewoon deadlines. Deze staan aangegeven bij de dagschema's.
 
-De **implementatie** of uitwerking van alle opdrachten moet steeds aan het eind van het schema zijn ingeleverd. De opdrachten moeten dan volledig voldoen aan de specificaties. Als er een `checkpy` beschikbaar is, moet de uitwerking hierdoor goedgekeurd worden.
+De **implementatie** of uitwerking van alle opdrachten moet steeds aan het eind van het schema zijn ingeleverd. De opdrachten moeten dan volledig voldoen aan de specificaties en alle opdrachten moeten zijn gedaan. Als er een `checkpy` beschikbaar is, moet de uitwerking hierdoor goedgekeurd worden.
 
 ## 7.3 Ziekmelding
 
-Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat via <minorai@mprog.nl>.
+Bij ziekte loopt de planning al gauw in de soep. Als een student meerdere dagen niet aan de opdrachten kan werken, dan ligt het voor de hand dat het niet vóór het weekend af is. Daarom willen wij dat studenten zich ziekmelden. Die melding gaat via Slack naar de mentor.
 
-Wanneer je toch zelf zo'n melding krijgt dan ga je zo te werk:
+Wanneer je zo'n melding krijgt dan ga je zo te werk:
 
 - Je wenst je student beterschap
-- Je vraagt de student een mail te sturen naar <minorai@mprog.nl>
-- Je maakt een TODO aan op Basecamp, die afgevinkt kan worden door de coördinator zodra de mail van de student daadwerkelijk is ontvangen
+- Je vraagt je student je op de hoogte te houden over gedaan werk tijdens ziekte
+- Je vraagt je student om het te melden wanneer deze weer beter is
+- Je maakt een TODO aan op Basecamp en assigned die aan jezelf en de coördinator
+
+Wanneer de student weer beter is
+
+- Vraag de student waar ze precies zijn in de opgaves die week
+- Je zet een bericht onder de TODO op Basecamp dat de student weer beter is met informatie over waar ze zijn in de opgaves
+
+De coördinator bepaalt vervolgens of het nodig is met deze student te spreken. Wanneer dit gedaan is wordt de Todo afgevinkt door de coördinator. Als het nodig is geeft de coördinator hier ook meer informatie voor de TA. Met de coördinator gemaakte afspraken over uitstel voor deadlines worden in het logboek van de student gezet door de coördinator.
+
+### 7.3.1 Studenten met Corona
+
+Wanneer een student Corona-gerelateerde symptomen heeft, maar zich verder goed genoeg voelt om aan de opgaven te werken, doet deze een zelftest. Als deze zelftest negatief is komt de student gewoon naar de universiteit. Als de test positief is meldt de student zich ziek zoals normaal en geeft aan dat dit vanwege een positieve zelftest is. Deze studenten zitten thuis en kan je extra hulp aanbieden via Slack. Let op dat je hier niet te veel tijd aan besteed; niet meer dan dat je normaliter tijdens assistentie zou doen. Dit valt onder je werktijd voor communicatie met studenten.
+
+### 7.3.2 Assistenten met Corona
+
+Wanneer je zelf Corona-gerelateerde symptomen hebt, gelden dezelfde regels. Je doelt een zelftest. Als deze negatief is kom je gewoon naar de universiteit. Wanneer de test negatief is moet dat gemeld worden bij de coördinator. Als je je goed genoeg voelt om te assisteren kunnen we een digitale assistentieomgeving opzetten. Voor de werkcolleges kijken we case-by-case wat handig is.
 
 ## 7.4 Te-laatmelding
 
 🆕 Als de planning dan niet gehaald wordt en de deadline dreigt te worden overschreden, dan verwachten wij ook weer een melding van de studenten. Het maakt daarbij niet uit of het een grote opdracht of een kleine oefening is, studenten moeten actief hun achterstand melden.
 
-Als je zo'n melding krijgt dan ga je zo te werk:
+- Studenten krijgen voor ieder blok twee late days. Elk van deze late days kunnen ze gebruiken om eenmalig 24 uur later dan de deadline iets in te leveren.
+- Dit **moet** via Slack gemeld worden aan de mentor _voordat_ de deadline voorbij is. Alles wat te ver na de deadline ingeleverd wordt hoef je niet na te kijken. We houden hier een zekere mate van coulance aan; als het ingeleverd wordt voor de ochtend de dag na de deadline kijk je het gewoon na.
+- Studenten kunnen gebruik maken van één late day per module. Deze geld dan voor beide vakken die tegelijk draaien.
+- Als de deadline op een vrijdag is, geeft gebruik van de late day 48 uur uitstel. De deadline verplaatst dan naar zondag.
+- Wanneer een student geen late day meer heeft, maar ze willen toch uitstel, moet de student dit bespreken met de coördinator of examinator via de mail.
+- De late days worden bijgehouden door de mentor van de student in het logboek.
 
-- Je neemt deze melding gewoon aan als feit.
-- Je maakt een Todo op Basecamp voor de coördinator.
-- Je vraagt de student een mail te sturen naar <minorai@mprog.nl>
+Als je een aanvraag voor een late day krijgt dan ga je zo te werk:
 
-De coördinator krijgt dus de verantwoordelijkheid om het contact over te nemen en te kijken of deze student nog op de rails te krijgen is.
+- Je neemt dit gewoon aan als feit. Je hoeft niet te vragen waarom of waardoor de student deze late day nodig heeft.
+- Je checkt of de student nog genoeg late-days heeft in het logboek. Wanneer dit niet zo is meld je dat aan de student en leg je uit dat ze moeten mailen naar minorai@mprog.nl.
+- Je schrijft op in het logboek dat de student een late day gebruikt, en ook voor welke module dit is.
 
-Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken. Ze gaan dus z.s.m. naar het spreekuur.
+Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken.
 
-⚠️ Zoals je hierboven kunt afleiden geef jij als mentor in feite geen uitzonderingen of uitstel. In plaats daarvan zorg je voor goede communicatie en doorverwijzing.
+⚠️ Zoals je hierboven kunt afleiden geef jij als mentor in feite geen uitzonderingen op de regel. In plaats daarvan zorg je voor goede communicatie en doorverwijzing wanneer dit nodig is. Alle problemen hiermee schuif je door naar de coördinator. (student is het niet eens, uitzondering, etc.)
 
 ## 7.5 Studenten die niks melden
 
@@ -468,7 +523,7 @@ Het kan ook zijn dat een student een keer niks inlevert en ook niks meldt. Daaro
 
 # 8 Nakijken
 
-De eindcijfers van de studenten zijn van een aantal verschillende cijfers afhankelijk. De onderdelen die worden nagekeken door de assistenten worden beoordeelt op een schaal van 0 tot en met 4. Wanneer er voldoende gemaakt is van de opgave wordt er 6 bij deze score opgeteld, voor een uiteindelijk cijfer van 6 tot en met 10. Wanneer een student stukken van de opgave niet maakt, of wel érg weinig moeite doet voor een opgave, kan er in overleg met de coördinator een cijfer gegeven worden onder de 6. In de studiewijzer van ieder van de vakken staan alle componenten van het eindcijfer opgesomd.
+De eindcijfers van de studenten zijn van een aantal verschillende cijfers afhankelijk. De onderdelen die worden nagekeken door de assistenten worden beoordeelt op een schaal van 0 tot en met 4. Wanneer er voldoende gemaakt is van de opgave wordt er 6 bij deze score opgeteld, voor een uiteindelijk cijfer van 6 tot en met 10. Wanneer een student stukken van de opgave niet maakt, of wel érg weinig moeite doet voor een opgave, kan er in overleg met de coördinator een cijfer gegeven worden onder de 6. In de syllabus van ieder van de vakken staan alle componenten van het eindcijfer opgesomd.
 
 ## 8.1 Nakijkdeadline
 
@@ -551,16 +606,27 @@ Dat gezegd hebbende, als je merkt dat een student de feedback negeert, spreek he
 
 Tot slot: je schrijft uiteindelijk op je eigen manier. Daarom is het zinvol om tijdens de werkcolleges af en toe expliciet jouw manier van feedback geven wat meer toe te lichten. Dan kun je ook noemen dat studenten altijd mogen vragen als ze iets niet begrijpen of niet weten hoe ze het beter kunnen maken.
 
-## 8.4 Plagiaat
+## 8.4 Notities
+
+Tijdens het nakijken kan je dingen tegenkomen die je wilt onthouden voor een week daarna. Deze notities kan je kwijt op de website. Linksboven de website kan je zoeken naar studenten:
+
+![](images/search.png)
+
+Wanneer je hier op een student klikt, krijg je het volgende scherm waar je notities op kunt slaan:
+
+![](images/notities.png)
+
+Deze notities zijn _niet_ zichtbaar voor de student, wel voor andere assistenten.
+
+## 8.5 Plagiaat
 
 Het is helemaal prima als studenten elkaar helpen. Het allerbelangrijkste is dat de student die geholpen wordt nooit voorbeeldcode te zien krijgt of zodanig wordt geïnstrueerd dat de code gedeeltelijk door een ander bedacht is.
 
-Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit dan _altijd_ bij de coördinator. Ter aanvulling wordt na elke inleverronde een plagiaatcheck gedaan.
+Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel op de opdracht van een andere student lijkt, of oplossingen bevat die ook op het internet te vinden zijn. Indien je serieus plagiaat vermoedt, meld dit dan _altijd_ bij de coördinator. Ter aanvulling wordt na elke inleverronde door de coördinator een plagiaatcheck gedaan.
 
 Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met deze student. Het gesprek bestaat uit voorlichting en een aanbod om te helpen met de beste aanpak om het vak te halen. Van belang is dat studenten zich niet teveel zorgen maken hierover. Aantoonbaar plagiaat moet natuurlijk naar de examencommissie, maar ons doel is vooral om te zorgen dat studenten de cursus alsnog zelfstandig halen.
 
 > **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <minorai@mprog.nl>. Een persoonlijk gesprek is altijd mogelijk.
-
 
 # 9 Interne communicatie
 
@@ -587,7 +653,7 @@ Belangrijkste is dat je Basecamp niet gebruikt alsof het Whatsapp is: je stuurt 
 
 - Heb je dus een vraag, wil je iets ter discussie stellen, heb je een mooi voorstel: schrijf een **Message** in één van de Basecamp-projecten.
 - Heb je informatie over een student, een concreet verzoek om iets gedaan te krijgen, dan moet iemand anders iets voor jou doen. Schroom dan niet en maak direct een **Todo** aan.
-- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator of Martijn en spreek even af. Maar "domme" vragen toch graag via een **Message** naar iedereen hoor!
+- Heb je zelf persoonlijke problemen die je liever niet aan de grote klok hangt? **Ping** dan je coördinator en spreek even af. Maar "domme" vragen toch graag via een **Message** naar iedereen hoor!
 - Heb je een urgent en concreet probleem, bijvoorbeeld tijdens het assisteren, dan kan iedereen je potentieel helpen en schrijf je dus een bericht in de **Campfire** van jouw cursus. Weet je wie aan het werk is? Doe dan ook een @mention.
 - Heb je gewoon zin om wat te delen met de rest van het team (bijvoorbeeld een meme) dan kun je dat ook doen in de **Campfire** van jouw cursus.
 
@@ -605,9 +671,11 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Maak een account voor **Python for Data Processing** via <https://pdp.mprog.nl/> en **Introduction to Machine Learning 1** via <https://ml1.mprog.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
-- Lees de **studiewijzer** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de studiewijzer of heb je een vraag? Post dan meteen een vraag in Basecamp.
+- Lees de **syllabus** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de syllabus of heb je een vraag? Post dan meteen een vraag in Basecamp.
 
 - Maak zelf een nieuwe **Slack** aan via <https://slack.com/get-started#/create>. Deze gebruik je voor informeel contact met je mentorgroep. Ken je Slack nog niet? Kijk dan bij [Slack 101](https://slack.com/intl/en-nl/resources/slack-101/set-up-slack) voor de basis. Zorg in verband met privacy dat de groep alleen voor hen is en dat deze weer wordt verwijderd zodra je geen mentor van deze groep meer bent.
+
+- Bereid het eerste werkcollege goed voor.
 
 # Eindnoten
 

@@ -64,7 +64,7 @@ In the exercises below you will practice the very basics of the terminal. Don't 
 
 ### Options / flags
 
-![](images/shell_command_syntax.svg)
+![](images/shell_command_syntax2.png)
 
 Sometimes options are referred to as parameters or flags. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option.  Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-r` displays folders/directories in reverse order. Just like commands and folders, options are case sensitive. In this specific case, if we would have used `-R` the directory tree would be displayed recursively. The computer would have listed _all_ nested folders and files inside the directory provided by the argument. Another example of this is the option `-s`, which for `ls` will display the size of files and directories alongside the names, while `ls -S` will sort the files and directories by size.
 
@@ -81,7 +81,7 @@ Sometimes options are referred to as parameters or flags. A command can be calle
     2. `ls -r -F`
     3. `ls -r -F /Users/backup`
 
-<details markdown="1"><summary  markdown="span">Answers</summary>
+<details markdown="1"><summary  markdown="span">Answer</summary>
 
 **Exercise 3**
 

@@ -65,10 +65,15 @@ Leg ten slotte uit dat alles wat ingeleverd wordt door de studenten door onze pl
 
 Doel: de studenten raken bekend met de terminal.
 
-Tijdens de vakken in de minor AI zullen de studenten regelmatig in aanraking komen met de terminal. De meeste studenten zijn hier niet mee bekend en begrijpen nog niet goed wat de terminal is. Deze oefeningen zijn bedoeld om dat uit te leggen en dienen tegelijk als naslagwerk voor de studenten als ze een keer weer een stukje uitleg op willen zoeken. De antwoorden staan bij de oefeningen en de studenten hoeven niets in te leveren. De studenten kunnen de oefeningen vinden in hun schema op deze website. (hier kan jij er ook bij)
+🧑‍🏫 Uitleg aan studenten
 
-Laat iedereen beginnen met de oefeningen en loop rond om hier en daar te helpen. Vraag ook regelmatig bij iedereen of alles lukt, en of je nog iets uit moet leggen.
-Als er meerdere studenten zijn die tegen iets soortgelijks aanlopen geef je hier centraal een korte uitleg over voordat iedereen weer door gaat.
+Leg uit dat tijdens de vakken in de minor AI de studenten regelmatig in aanraking zullen komen met de terminal. De meeste studenten zijn hier niet mee bekend of begrijpen nog niet goed wat de terminal is. Deze oefeningen zijn bedoeld om dat uit te leggen en dienen tegelijk als naslagwerk als je weer een keer weer een stukje uitleg op wilt zoeken. De antwoorden staan bij de oefeningen en er hoeft niets ingeleverd te worden. Natuurlijk kijk je pas naar de antwoorden als je wilt controleren of je eigen antwoord goed is. Als je er niet uit komt kan je een vraag stellen bij de TA.
+
+Laat iedereen beginnen met oefeningen 1 tot en met 6 en loop rond om hier en daar te helpen. Dit zijn vragen waarbij de studenten niet hoeven te werken in de terminal, maar dat betekent natuurlijk niet dat ze de commando's niet zelf kunnen testen in de terminal! Vraag regelmatig bij iedereen of alles lukt, en of je nog iets uit moet leggen of ergens bij kunt helpen. Probeer bij het uitleggen altijd te laten zien hoe het werkt door een klein voorbeeldje te geven in de terminal op je eigen computer. Als er meerdere studenten zijn die tegen iets soortgelijks aanlopen geef je hier centraal een korte uitleg over voordat iedereen weer door gaat.
+
+Voor oefeningen 7 tot en met 11 moeten de studenten een zip downloaden en uitzoeken welke commandos er nodig zijn om bepaalde taken uit te voeren. Dit kunnen ze natuurlijk het beste doen door het daadwerkelijk ook te proberen. Ongetwijfeld zijn er studenten die de gedownloade bestanden niet kunnen vinden. Begeleid deze door dit process, en laat het ze zelf uitvoeren en noteren hoe ze dit gedaan hebben. Tijdens de vakken zullen ze vaker zipjes moeten uitpakken en verplaatsen van de downloads folder naar hun werkfolders. Het is dus belangrijk dat ze dit ook echt zelf kunnen.
+
+Studenten die klaar zijn kan je alvast laten werken aan het werk uit het schema van deze week. Help de studenten die wat achterlopen op de rest, en als iedereen klaar is kan je door naar het volgende werkcollegeonderdeel.
 
 ### Grote vragen (15--20 minuten)
 

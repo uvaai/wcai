@@ -76,7 +76,19 @@ Dit werkcollege praten en discussiëren we klassikaal over de schrijfopdracht va
 
 ⚠️ Deelname aan de gesprekken over de schrijfopdrachten is niet verplicht voor de studenten. Studenten kunnen er zelf voor kiezen om met iets anders aan de slag te gaan. Geef bij de studenten die niet meedoen duidelijk aan dat half-meedoen geen optie is, en dat jij zelf niet beschikbaar bent voor vragen. Je bent zelf namelijk nodig bij het gesprek.
 
-<!-- TODO -->
+De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang te krijgen. Je kunt natuurlijk je eigen vragen stellen. Als het gesprek loopt of de studenten hun opdrachten aan het bespreken zijn, hoef je ook niet per se alle vragen langs te gaan.
+
+- Poll: Wie was er voor/tegen "understanding" bij:
+    1. Het Naive Bayes programma
+    2. Zelf tweets lezen en classificeren
+    3. Zelf tweet labels reproduceren
+    4. Het gecombineerd systeem van Naive Bayes en programmeur
+    Bespreek hierbij ook gelijk de verschillen, als die er zijn
+- Denken jullie dat gecombineerde systemen ooit begrip kunnen hebben?
+    - De chinese room is ook een gecombineerd systeem, met de persoon in de kamer en een groot boek van herschrijfregels voor symbolen
+        - Heeft de kamer als geheel dan begrip?
+    - Is het voorbeeld met de Naive Bayes en programmeur daarin anders of hetzelfde?
+        - Waarom heeft deze combinatie wel/geen begrip?
 
 ## Administratie
 

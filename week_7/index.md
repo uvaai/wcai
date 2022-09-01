@@ -69,7 +69,7 @@ De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang 
 - Was er iemand die twijfelde tussen selection of historic bias voor hun artikel?
     - Bespreek die gevallen met de groep (hier hoeft geen "goed" antwoord uit te komen, soms zijn er effecten van beiden)
 - Was er iemand bij wiens artikel de bias heel makkelijk of juist heel moeilijk te voorkomen had kunnen worden door de ontwikkelaars?
-    - Bespreek die gevallen met de groep (hier hoeft ook geen "goed" antwoord uit te komen, soms is dit lastig in te schatten op basis van het artikel)
+    - Bespreek die gevallen met de groep (hier hoeft ook geen "goed" antwoord uit te komen, vaak is dit lastig in te schatten op basis van het artikel)
 
 ## Administratie
 

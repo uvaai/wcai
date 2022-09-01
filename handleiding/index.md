@@ -62,7 +62,7 @@ Tijdens de eerste twee blokken van ieder 8 weken volgen de studenten dus twee va
 
 Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
-- **Python for Data Processing** <https://pdp.mprog.nl>
+- **Python for Data Processing** <https://pdp.proglab.nl>
 
   1. Introduction to Python; loops, lists, and plotting
   2. Introduction to Python; functions and random numbers
@@ -72,7 +72,7 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
   6. Pandas + Survival
   {: start="1"}
 
-- **Introduction to Machine Learning 1** <https://ml1.mprog.nl>
+- **Introduction to Machine Learning 1** <https://ml1.proglab.nl>
 
   1. Probability + Turings paper + Eliza
   2. Types of data + k-NN
@@ -82,7 +82,7 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
   6. Exponentials and Logarithms + K-means + Filter Bubbles
   {: start="1"}
 
-- **Data Processing and Representations** <https://dpr.mprog.nl>
+- **Data Processing and Representations** <https://dpr.proglab.nl>
 
   1. Object Oriented Programming: Populations
   2. SQL
@@ -94,7 +94,7 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
 
 Het programma voor DPR staat nog niet vast.
 
-- **Introduction to Machine Learning 2** <https://ml2.mprog.nl>
+- **Introduction to Machine Learning 2** <https://ml2.proglab.nl>
 
   1. Logistic Regression + Automation and Labour
   2. Neural Networks (Forward) + Model Release Strategies
@@ -116,7 +116,7 @@ Er zijn vier manieren waarop studenten actief betrokken worden bij de cursus: we
 
 ## 2.1 Werkcolleges
 
-Werkcolleges vinden wekelijks plaats en worden georganiseerd door mentoren (zie volgende hoofdstuk). In de werkcolleges krijgen studenten de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen, en medestudenten en mentor beter te leren kennen. Mentoren krijgen inhoud voor de werkcolleges aangereikt via de <https://wcai.mprog.nl> website. Lees die voor ieder werkcollege goed door!
+Werkcolleges vinden wekelijks plaats en worden georganiseerd door mentoren (zie volgende hoofdstuk). In de werkcolleges krijgen studenten de kans om samen de voortgang te bespreken, de oefeningen door te nemen, tips uit te wisselen over het aanpakken van problemen, en medestudenten en mentor beter te leren kennen. Mentoren krijgen inhoud voor de werkcolleges aangereikt via de <https://wcai.proglab.nl> website. Lees die voor ieder werkcollege goed door!
 
 Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd, *in het lokaal waarin het werkcollege geroosterd is*, aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel.
 
@@ -247,7 +247,7 @@ Jij hoeft je als assistent niet bezig te houden met:
 - serieuze studieproblemen
 - problemen op persoonlijk vlak
 
-Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar <minorai@mprog.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een _Todo_ in Basecamp). Deze assign je aan de coördinator. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
+Komt een van deze dingen naar voren, verwijs dit altijd door naar de cursuscoördinator. Vraag de student **allereerst** om zelf een mail te sturen naar <minorai@proglab.nl>. Maar studenten vinden het vaak moeilijk om verdere hulp te vragen, dus de mentor moet het ook direct melden (via een _Todo_ in Basecamp). Deze assign je aan de coördinator. Het is belangrijk dat wij vanaf de eerste vraag om hulp medeverantwoordelijkheid nemen en een student niet aan het lot overlaten. De examinator kan wanneer nodig de mentor vervolgens inlichten over afspraken die gemaakt zijn.
 
 Bij meer persoonlijke problemen proberen we altijd goed gebruik te maken van de faciliteiten van de universiteit, zoals studieadviseurs en studentendecanen. De examinator weet meer over de mogelijkheden en kan studenten verwijzen. De mentor hoeft dat niet zelf te doen, maar is vaak wel de eerste die de problemen signaleert.
 
@@ -502,7 +502,7 @@ Wanneer je zelf Corona-gerelateerde symptomen hebt, gelden dezelfde regels. Je d
 Als je een aanvraag voor een late day krijgt dan ga je zo te werk:
 
 - Je neemt dit gewoon aan als feit. Je hoeft niet te vragen waarom of waardoor de student deze late day nodig heeft.
-- Je checkt of de student nog genoeg late-days heeft in het logboek. Wanneer dit niet zo is meld je dat aan de student en leg je uit dat ze moeten mailen naar minorai@mprog.nl.
+- Je checkt of de student nog genoeg late-days heeft in het logboek. Wanneer dit niet zo is meld je dat aan de student en leg je uit dat ze moeten mailen naar minorai@proglab.nl.
 - Je schrijft op in het logboek dat de student een late day gebruikt, en ook voor welke module dit is.
 
 Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken.
@@ -621,7 +621,7 @@ Het kan gebeuren dat tijdens het nakijken blijkt dat een opdracht verdacht veel 
 
 Scoort iemand hoog wat betreft plagiaat dan neemt de coördinator contact op met deze student. Het gesprek bestaat uit voorlichting en een aanbod om te helpen met de beste aanpak om het vak te halen. Van belang is dat studenten zich niet teveel zorgen maken hierover. Aantoonbaar plagiaat moet natuurlijk naar de examencommissie, maar ons doel is vooral om te zorgen dat studenten de cursus alsnog zelfstandig halen.
 
-> **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <minorai@mprog.nl>. Een persoonlijk gesprek is altijd mogelijk.
+> **Vragen** over plagiaat moeten studenten zelf stellen aan de coördinator, via <minorai@proglab.nl>. Een persoonlijk gesprek is altijd mogelijk.
 
 # 9 Interne communicatie
 
@@ -664,7 +664,7 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak via die uitnodiging direct dit account aan.
 
-- Maak een account voor **Python for Data Processing** via <https://pdp.mprog.nl/> en **Introduction to Machine Learning 1** via <https://ml1.mprog.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
+- Maak een account voor **Python for Data Processing** via <https://pdp.proglab.nl/> en **Introduction to Machine Learning 1** via <https://ml1.proglab.nl/>. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **syllabus** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de syllabus of heb je een vraag? Post dan meteen een vraag in Basecamp.
 

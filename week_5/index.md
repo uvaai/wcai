@@ -83,6 +83,7 @@ De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang 
     2. Zelf tweets lezen en classificeren
     3. Zelf tweet labels reproduceren
     4. Het gecombineerd systeem van Naive Bayes en programmeur
+
     Bespreek hierbij ook gelijk de verschillen, als die er zijn
 - Denken jullie dat gecombineerde systemen ooit begrip kunnen hebben?
     - De chinese room is ook een gecombineerd systeem, met de persoon in de kamer en een groot boek van herschrijfregels voor symbolen

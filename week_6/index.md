@@ -39,7 +39,15 @@ Dit werkcollege praten en discussiëren we klassikaal over de schrijfopdracht va
 
 ⚠️ Deelname aan de gesprekken over de schrijfopdrachten is niet verplicht voor de studenten. Studenten kunnen er zelf voor kiezen om met iets anders aan de slag te gaan. Geef bij de studenten die niet meedoen duidelijk aan dat half-meedoen geen optie is, en dat jij zelf niet beschikbaar bent voor vragen. Je bent zelf namelijk nodig bij het gesprek.
 
-<!-- TODO -->
+De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang te krijgen. Je kunt natuurlijk je eigen vragen stellen. Als het gesprek loopt of de studenten hun opdrachten aan het bespreken zijn, hoef je ook niet per se alle vragen langs te gaan.
+
+- Heeft iemand een goede definitie gevonden van creativiteit die ze willen delen?
+    - Rondvraag: Zijn er studenten die daar nog een aspect aan willen toevoegen
+    - Voldoet het doorrekenen van heel veel opties volgens eerder gedefinieerde regels en daarbij een nieuwe optie vinden aan die definitie(s)?
+- Lee Sedol is in 2019 (3 jaar na de wedstrijden tegen AlphaGo) gestopt met Go spelen, omdat computers niet te verslaan zijn
+    - [Zie ook het artikel hier](https://www.theverge.com/2019/11/27/20985260/ai-go-alphago-lee-se-dol-retired-deepmind-defeat)
+    - Wat vinden jullie daarvan?
+        - Is menselijk en computer presteren met elkaar te vergelijken?
 
 ## Administratie
 

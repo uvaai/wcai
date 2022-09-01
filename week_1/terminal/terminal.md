@@ -39,23 +39,6 @@ In the exercises below you will practice the very basics of the terminal. Don't 
 
 ![](images/filesystem-challenge.svg)
 
-### Options
-
-![](images/shell_command_syntax.svg)
-<!-- TODO INTEGRATE -->
-Sometimes options a are referred to as parameters. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option. Options are sometimes also called flags. Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-F` makes sure that folders/directories are displayed with a `/` behind their name (this is default behavior on Windows). will display the size of files and directories alongside the names, while `ls -S` will sort the files and directories by size.
-
-**Exercise 3** Using the filesystem diagram below, if `pwd` displays `/Users/backup`, and `-r` tells `ls` to display things in reverse order, what command(s) will result in the following output:
-
-    pnas_sub/ pnas_final/ original/
-
-
-![](images/filesystem-challenge2.svg)
-
-    1. `ls pwd`
-    2. `ls -r -F`
-    3. `ls -r -F /Users/backup`
-
 <details markdown="1"><summary  markdown="span">Answers</summary>
 
 **Exercise 1**
@@ -76,6 +59,29 @@ Sometimes options a are referred to as parameters. A command can be called with 
     2. No: this is the content of `Users/thing/backup`, but with .., we asked for one level further up.
     3. No: see previous explanation.
     4. Yes: `../backup/` refers to `/Users/backup/`.
+
+</details>
+
+### Options / flags
+
+![](images/shell_command_syntax.svg)
+
+Sometimes options are referred to as parameters or flags. A command can be called with more than one option and more than one argument, but a command doesn’t always require an argument or an option.  Options change the behavior of a command and arguments tell the command what to operate on (e.g. files and directories). In this case, the option `-r` displays folders/directories in reverse order. Just like commands and folders, options are case sensitive. In this specific case, if we would have used `-R` the directory tree would be displayed recursively. The computer would have listed _all_ nested folders and files inside the directory provided by the argument. Another example of this is the option `-s`, which for `ls` will display the size of files and directories alongside the names, while `ls -S` will sort the files and directories by size.
+
+> In the exercises below you will come across the option `-F`. On Windows, this function doesn't do much, but on other platforms the option makes sure that folders and executables are recognisable by adding the character `/` or `*` respectively to the end of their names.
+
+**Exercise 3** Using the filesystem diagram below, if `pwd` displays `/Users/backup`, and `-r` tells `ls` to display things in reverse order, what command(s) will result in the following output:
+
+    pnas_sub/ pnas_final/ original/
+
+
+![](images/filesystem-challenge2.svg)
+
+    1. `ls pwd`
+    2. `ls -r -F`
+    3. `ls -r -F /Users/backup`
+
+<details markdown="1"><summary  markdown="span">Answers</summary>
 
 **Exercise 3**
 

@@ -62,7 +62,14 @@ Dit werkcollege praten en discussiëren we klassikaal over de schrijfopdracht va
 
 ⚠️ Deelname aan de gesprekken over de schrijfopdrachten is niet verplicht voor de studenten. Studenten kunnen er zelf voor kiezen om met iets anders aan de slag te gaan. Geef bij de studenten die niet meedoen duidelijk aan dat half-meedoen geen optie is, en dat jij zelf niet beschikbaar bent voor vragen. Je bent zelf namelijk nodig bij het gesprek.
 
-<!-- TODO -->
+De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang te krijgen. Je kunt natuurlijk je eigen vragen stellen. Als het gesprek loopt of de studenten hun opdrachten aan het bespreken zijn, hoef je ook niet per se alle vragen langs te gaan.
+
+- Rondvraag bij de studenten: Geef korte omschrijving van het artikel en de bias die je hebt gevonden.
+    - Waren jullie verbaasd over de gevallen die je gevonden hebt of hadden jullie hier al eerder van gehoord?
+- Was er iemand die twijfelde tussen selection of historic bias voor hun artikel?
+    - Bespreek die gevallen met de groep (hier hoeft geen "goed" antwoord uit te komen, soms zijn er effecten van beiden)
+- Was er iemand bij wiens artikel de bias heel makkelijk of juist heel moeilijk te voorkomen had kunnen worden door de ontwikkelaars?
+    - Bespreek die gevallen met de groep (hier hoeft ook geen "goed" antwoord uit te komen, soms is dit lastig in te schatten op basis van het artikel)
 
 ## Administratie
 

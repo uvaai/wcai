@@ -45,7 +45,14 @@ Dit werkcollege praten en discussiëren we klassikaal over de schrijfopdracht va
 
 ⚠️ Deelname aan de gesprekken over de schrijfopdrachten is niet verplicht voor de studenten. Studenten kunnen er zelf voor kiezen om met iets anders aan de slag te gaan. Geef bij de studenten die niet meedoen duidelijk aan dat half-meedoen geen optie is, en dat jij zelf niet beschikbaar bent voor vragen. Je bent zelf namelijk nodig bij het gesprek.
 
-<!-- TODO lijst onderwerpen -->
+De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang te krijgen. Je kunt natuurlijk je eigen vragen stellen. Als het gesprek loopt of de studenten hun opdrachten aan het bespreken zijn, hoef je ook niet per se alle vragen langs te gaan.
+
+- Poll: Wie heeft "4 The Argument from Conciousness" gekozen en wie "6 Lady Lovelace's objection"?
+    - Heeft iemand nog een andere optie gekozen of overwogen?
+- Wat is eigenlijk het verschil tussen objection 4 en 6 denken jullie?
+    - Welke objection lijkt je sterker en waarom?
+- Wat vonden jullie de raarste of meest verrassende objection in de paper?
+    - Waren jullie verbaasd dit soort objections een paper van een wereldberoemde wetenschapper uit die tijd te vinden?
 
 ### Grote vragen (10 minuten)
 

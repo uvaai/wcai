@@ -1,7 +1,3 @@
-Studenten:
-    Week 1: /week_1/terminal
-    Week 2: /week_2/sums
-
 Assistenten:
     Algemeen:
         Assistentenhandleiding: /handleiding
@@ -14,3 +10,7 @@ Assistenten:
         Week 6: /week_6
         Week 7: /week_7
         Week 8: /week_8
+
+Studenten:
+    Week 1: /week_1/terminal
+    Week 2: /week_2/sums

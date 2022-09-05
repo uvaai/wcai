@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css">.turbo-progress-bar {
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #0076ff;
+  z-index: 9999;
+  transition:
+    width 300ms ease-out,
+    opacity 150ms 150ms ease-in;
+  transform: translate3d(0, 0, 0);
+}
+</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="DmBpfPUluMm5ZJW6tU5vHtN32uRYjd7qKmQVRMkogeqxGUIHS-5rtt5Dt7cQM2zjYeS-E9ICautVcvn0--NWDA">
+
+    <title>Terminal - Werkcolleges AI</title>
+
+    <link rel="stylesheet" href="terminal_bestanden/application-d95d988793efc7d9435c44fd3b565bf216fa22dc53d1c2a7.css" media="all">
+    <script src="terminal_bestanden/legacy-application-d6fa7d2e0414acd6906e4b553263c2738a22ba26f7.js" data-turbolinks-track="reload"></script>
+
+    <script src="terminal_bestanden/math-5f228b72c2d37c68325dc3d2750f82de568632cbecf8ad926ffc8014.js"></script>
+    <script src="terminal_bestanden/polyfill.min.js"></script>
+    <script src="terminal_bestanden/tex-mml-chtml.js" async="async" id="MathJax-script"></script>
+
+    <link rel="icon" type="image/png" href="https://wcai.proglab.nl/images/minor.png">
+
+
+    <script type="importmap" data-turbo-track="reload">{
+  "imports": {
+    "application": "/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js",
+    "@hotwired/turbo-rails": "/assets/turbo.min-e5023178542f05fc063cd1dc5865457259cc01f3fba76a28454060d33de6f429.js",
+    "@hotwired/stimulus": "/assets/stimulus.min-b8a9738499c7a8362910cd545375417370d72a9776fb4e766df7671484e2beb7.js",
+    "@hotwired/stimulus-loading": "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js",
+    "controllers/input_buttons_controller": "/assets/controllers/input_buttons_controller-c80a562721b059047e98bfd3ac5467d63f1f97b9c263df09c2b227bbabd52b67.js",
+    "controllers/application": "/assets/controllers/application-368d98631bccbf2349e0d4f8269afb3fe9625118341966de054759d96ea86c7e.js",
+    "controllers/auto_save_controller": "/assets/controllers/auto_save_controller-b8752998d580dd6262b484bbab0a492bc7e80a55d114d7a1de5197d412767c32.js",
+    "controllers/form_cache_controller": "/assets/controllers/form_cache_controller-7b3cbcc9dcb38d1c6378ee9098c713881b08728c398d6aac632e461d9538dd92.js",
+    "controllers": "/assets/controllers/index-2db729dddcc5b979110e98de4b6720f83f91a123172e87281d5a58410fc43806.js"
+  }
+}</script>
+<link rel="modulepreload" href="https://wcai.proglab.nl/assets/application-37f365cbecf1fa2810a8303f4b6571676fa1f9c56c248528bc14ddb857531b95.js">
+<link rel="modulepreload" href="https://wcai.proglab.nl/assets/turbo.min-e5023178542f05fc063cd1dc5865457259cc01f3fba76a28454060d33de6f429.js">
+<link rel="modulepreload" href="https://wcai.proglab.nl/assets/stimulus.min-b8a9738499c7a8362910cd545375417370d72a9776fb4e766df7671484e2beb7.js">
+<link rel="modulepreload" href="https://wcai.proglab.nl/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js">
+<script src="terminal_bestanden/es-module-shims.min-d89e73202ec09dede55fb74115af9c5f9f2bb9654.js" async="async" data-turbo-track="reload"></script>
+<script type="module">import "application"</script>
+<style type="text/css">.CtxtMenu_InfoClose {  top:.2em; right:.2em;}
+.CtxtMenu_InfoContent {  overflow:auto; text-align:left; font-size:80%;  padding:.4em .6em; border:1px inset; margin:1em 0px;  max-height:20em; max-width:30em; background-color:#EEEEEE;  white-space:normal;}
+.CtxtMenu_Info.CtxtMenu_MousePost {outline:none;}
+.CtxtMenu_Info {  position:fixed; left:50%; width:auto; text-align:center;  border:3px outset; padding:1em 2em; background-color:#DDDDDD;  color:black;  cursor:default; font-family:message-box; font-size:120%;  font-style:normal; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 15px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius:15px;               /* Safari and Chrome */  -moz-border-radius:15px;                  /* Firefox */  -khtml-border-radius:15px;                /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color="gray", Positive="true"); /* IE */}
+</style><style type="text/css">.CtxtMenu_MenuClose {  position:absolute;  cursor:pointer;  display:inline-block;  border:2px solid #AAA;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  font-family: "Courier New", Courier;  font-size:24px;  color:#F0F0F0}
+.CtxtMenu_MenuClose span {  display:block; background-color:#AAA; border:1.5px solid;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  line-height:0;  padding:8px 0 6px     /* may need to be browser-specific */}
+.CtxtMenu_MenuClose:hover {  color:white!important;  border:2px solid #CCC!important}
+.CtxtMenu_MenuClose:hover span {  background-color:#CCC!important}
+.CtxtMenu_MenuClose:hover:focus {  outline:none}
+</style><style type="text/css">.CtxtMenu_Menu {  position:absolute;  background-color:white;  color:black;  width:auto; padding:5px 0px;  border:1px solid #CCCCCC; margin:0; cursor:default;  font: menu; text-align:left; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 5px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius: 5px;             /* Safari and Chrome */  -moz-border-radius: 5px;                /* Firefox */  -khtml-border-radius: 5px;              /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */}
+.CtxtMenu_MenuItem {  padding: 1px 2em;  background:transparent;}
+.CtxtMenu_MenuArrow {  position:absolute; right:.5em; padding-top:.25em; color:#666666;  font-family: null; font-size: .75em}
+.CtxtMenu_MenuActive .CtxtMenu_MenuArrow {color:white}
+.CtxtMenu_MenuArrow.CtxtMenu_RTL {left:.5em; right:auto}
+.CtxtMenu_MenuCheck {  position:absolute; left:.7em;  font-family: null}
+.CtxtMenu_MenuCheck.CtxtMenu_RTL { right:.7em; left:auto }
+.CtxtMenu_MenuRadioCheck {  position:absolute; left: .7em;}
+.CtxtMenu_MenuRadioCheck.CtxtMenu_RTL {  right: .7em; left:auto}
+.CtxtMenu_MenuInputBox {  padding-left: 1em; right:.5em; color:#666666;  font-family: null;}
+.CtxtMenu_MenuInputBox.CtxtMenu_RTL {  left: .1em;}
+.CtxtMenu_MenuComboBox {  left:.1em; padding-bottom:.5em;}
+.CtxtMenu_MenuSlider {  left: .1em;}
+.CtxtMenu_SliderValue {  position:absolute; right:.1em; padding-top:.25em; color:#333333;  font-size: .75em}
+.CtxtMenu_SliderBar {  outline: none; background: #d3d3d3}
+.CtxtMenu_MenuLabel {  padding: 1px 2em 3px 1.33em;  font-style:italic}
+.CtxtMenu_MenuRule {  border-top: 1px solid #DDDDDD;  margin: 4px 3px;}
+.CtxtMenu_MenuDisabled {  color:GrayText}
+.CtxtMenu_MenuActive {  background-color: #606872;  color: white;}
+.CtxtMenu_MenuDisabled:focus {  background-color: #E8E8E8}
+.CtxtMenu_MenuLabel:focus {  background-color: #E8E8E8}
+.CtxtMenu_ContextMenu:focus {  outline:none}
+.CtxtMenu_ContextMenu .CtxtMenu_MenuItem:focus {  outline:none}
+.CtxtMenu_SelectionMenu {  position:relative; float:left;  border-bottom: none; -webkit-box-shadow:none; -webkit-border-radius:0px; }
+.CtxtMenu_SelectionItem {  padding-right: 1em;}
+.CtxtMenu_Selection {  right: 40%; width:50%; }
+.CtxtMenu_SelectionBox {  padding: 0em; max-height:20em; max-width: none;  background-color:#FFFFFF;}
+.CtxtMenu_SelectionDivider {  clear: both; border-top: 2px solid #000000;}
+.CtxtMenu_Menu .CtxtMenu_MenuClose {  top:-10px; left:-10px}
+</style><style id="MJX-CHTML-styles">
+mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-container [space="1"] {
+  margin-left: .111em;
+}
+
+mjx-container [space="2"] {
+  margin-left: .167em;
+}
+
+mjx-container [space="3"] {
+  margin-left: .222em;
+}
+
+mjx-container [space="4"] {
+  margin-left: .278em;
+}
+
+mjx-container [space="5"] {
+  margin-left: .333em;
+}
+
+mjx-container [rspace="1"] {
+  margin-right: .111em;
+}
+
+mjx-container [rspace="2"] {
+  margin-right: .167em;
+}
+
+mjx-container [rspace="3"] {
+  margin-right: .222em;
+}
+
+mjx-container [rspace="4"] {
+  margin-right: .278em;
+}
+
+mjx-container [rspace="5"] {
+  margin-right: .333em;
+}
+
+mjx-container [size="s"] {
+  font-size: 70.7%;
+}
+
+mjx-container [size="ss"] {
+  font-size: 50%;
+}
+
+mjx-container [size="Tn"] {
+  font-size: 60%;
+}
+
+mjx-container [size="sm"] {
+  font-size: 85%;
+}
+
+mjx-container [size="lg"] {
+  font-size: 120%;
+}
+
+mjx-container [size="Lg"] {
+  font-size: 144%;
+}
+
+mjx-container [size="LG"] {
+  font-size: 173%;
+}
+
+mjx-container [size="hg"] {
+  font-size: 207%;
+}
+
+mjx-container [size="HG"] {
+  font-size: 249%;
+}
+
+mjx-container [width="full"] {
+  width: 100%;
+}
+
+mjx-box {
+  display: inline-block;
+}
+
+mjx-block {
+  display: block;
+}
+
+mjx-itable {
+  display: inline-table;
+}
+
+mjx-row {
+  display: table-row;
+}
+
+mjx-row > * {
+  display: table-cell;
+}
+
+mjx-mtext {
+  display: inline-block;
+}
+
+mjx-mstyle {
+  display: inline-block;
+}
+
+mjx-merror {
+  display: inline-block;
+  color: red;
+  background-color: yellow;
+}
+
+mjx-mphantom {
+  visibility: hidden;
+}
+
+_::-webkit-full-page-media, _:future, :root mjx-container {
+  will-change: opacity;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display="block"] {
+  width: 100% !important;
+}
+
+mjx-c::before {
+  display: block;
+  width: 0;
+}
+
+.MJX-TEX {
+  font-family: MJXZERO, MJXTEX;
+}
+
+.TEX-B {
+  font-family: MJXZERO, MJXTEX-B;
+}
+
+.TEX-I {
+  font-family: MJXZERO, MJXTEX-I;
+}
+
+.TEX-MI {
+  font-family: MJXZERO, MJXTEX-MI;
+}
+
+.TEX-BI {
+  font-family: MJXZERO, MJXTEX-BI;
+}
+
+.TEX-S1 {
+  font-family: MJXZERO, MJXTEX-S1;
+}
+
+.TEX-S2 {
+  font-family: MJXZERO, MJXTEX-S2;
+}
+
+.TEX-S3 {
+  font-family: MJXZERO, MJXTEX-S3;
+}
+
+.TEX-S4 {
+  font-family: MJXZERO, MJXTEX-S4;
+}
+
+.TEX-A {
+  font-family: MJXZERO, MJXTEX-A;
+}
+
+.TEX-C {
+  font-family: MJXZERO, MJXTEX-C;
+}
+
+.TEX-CB {
+  font-family: MJXZERO, MJXTEX-CB;
+}
+
+.TEX-FR {
+  font-family: MJXZERO, MJXTEX-FR;
+}
+
+.TEX-FRB {
+  font-family: MJXZERO, MJXTEX-FRB;
+}
+
+.TEX-SS {
+  font-family: MJXZERO, MJXTEX-SS;
+}
+
+.TEX-SSB {
+  font-family: MJXZERO, MJXTEX-SSB;
+}
+
+.TEX-SSI {
+  font-family: MJXZERO, MJXTEX-SSI;
+}
+
+.TEX-SC {
+  font-family: MJXZERO, MJXTEX-SC;
+}
+
+.TEX-T {
+  font-family: MJXZERO, MJXTEX-T;
+}
+
+.TEX-V {
+  font-family: MJXZERO, MJXTEX-V;
+}
+
+.TEX-VB {
+  font-family: MJXZERO, MJXTEX-VB;
+}
+
+mjx-stretchy-v mjx-c, mjx-stretchy-h mjx-c {
+  font-family: MJXZERO, MJXTEX-S1, MJXTEX-S4, MJXTEX, MJXTEX-A ! important;
+}
+
+@font-face /* 0 */ {
+  font-family: MJXZERO;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Zero.woff") format("woff");
+}
+
+@font-face /* 1 */ {
+  font-family: MJXTEX;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff") format("woff");
+}
+
+@font-face /* 2 */ {
+  font-family: MJXTEX-B;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff") format("woff");
+}
+
+@font-face /* 3 */ {
+  font-family: MJXTEX-I;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff") format("woff");
+}
+
+@font-face /* 4 */ {
+  font-family: MJXTEX-MI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff") format("woff");
+}
+
+@font-face /* 5 */ {
+  font-family: MJXTEX-BI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff") format("woff");
+}
+
+@font-face /* 6 */ {
+  font-family: MJXTEX-S1;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff") format("woff");
+}
+
+@font-face /* 7 */ {
+  font-family: MJXTEX-S2;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff") format("woff");
+}
+
+@font-face /* 8 */ {
+  font-family: MJXTEX-S3;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff") format("woff");
+}
+
+@font-face /* 9 */ {
+  font-family: MJXTEX-S4;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff") format("woff");
+}
+
+@font-face /* 10 */ {
+  font-family: MJXTEX-A;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff") format("woff");
+}
+
+@font-face /* 11 */ {
+  font-family: MJXTEX-C;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff") format("woff");
+}
+
+@font-face /* 12 */ {
+  font-family: MJXTEX-CB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff") format("woff");
+}
+
+@font-face /* 13 */ {
+  font-family: MJXTEX-FR;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff") format("woff");
+}
+
+@font-face /* 14 */ {
+  font-family: MJXTEX-FRB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff") format("woff");
+}
+
+@font-face /* 15 */ {
+  font-family: MJXTEX-SS;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff") format("woff");
+}
+
+@font-face /* 16 */ {
+  font-family: MJXTEX-SSB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff") format("woff");
+}
+
+@font-face /* 17 */ {
+  font-family: MJXTEX-SSI;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff") format("woff");
+}
+
+@font-face /* 18 */ {
+  font-family: MJXTEX-SC;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff") format("woff");
+}
+
+@font-face /* 19 */ {
+  font-family: MJXTEX-T;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff") format("woff");
+}
+
+@font-face /* 20 */ {
+  font-family: MJXTEX-V;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff") format("woff");
+}
+
+@font-face /* 21 */ {
+  font-family: MJXTEX-VB;
+  src: url("https://cdn.jsdelivr.net/npm/mathjax@3/es5/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff") format("woff");
+}
+</style></head>
+
+<body class="page">
+    <div class="container-fluid">
+    <div class="row ">
+
+        <div>
+
+
+
+
+
+
+<div id="content">
+    <section class="markdown" id="week_1/terminal/terminal-content">
+        <h2 id="the-command-line-interface">The command-line interface</h2>
+
+<p>Interaction with a computer is typically done through a graphical
+user interface (GUI). With a GUI, instructions are sent to the computer
+by clicking a mouse and interacting with menus. GUIs are often designed
+to be used intuitively, and basic interaction with one can be done from
+the first moment a user sees it. However, this way of delivering
+instructions to a computer involves a lot of user interaction, which can
+ greatly reduce productivity and is prone to user-error.</p>
+
+<p>Imagine the following task: for a literature search, you have to copy
+ the third line of one thousand text files in one thousand different
+directories and paste it into a single file. Using a GUI, you would not
+only be clicking at your desk for several hours, but you could
+potentially also commit an error in the process of completing this
+repetitive task.</p>
+
+<p>In such tasks we can take advantage of a Unix shell, which is often
+referred to as a terminal. A Unix shell is both a command-line interface
+ (CLI) and a scripting language. With the proper commands, the shell
+enables us to repeat specific tasks with or without modification as many
+ times as we would want. The task we describe above can be completed in
+seconds using the shell.</p>
+
+<h3 id="basic-commands">Basic commands</h3>
+
+<p>During the installation of the software we use in our courses you
+have watched a video on how to use the Mac OS terminal. You have
+encountered the prompt, commands, and arguments:</p>
+
+<p><img src="terminal_bestanden/shell_command_syntax.png" alt=""></p>
+
+<p>Where <code>cd</code> is the command, with the argument <code>..</code>. Each part is always separated by spaces. If you omit the space between <code>cd</code> and <code>..</code> the shell will look for a command called <code>cd..</code>, which doesn’t exist. Capitalization is also important. For example, after entering <code>CD ..</code>, the terminal will respond with <code>command not found</code>.</p>
+
+<p>In the exercises below you will practice the very basics of the
+terminal. Don’t worry; the exercises won’t be as intricate as the task
+described in the example above.</p>
+
+<blockquote>
+  <p><strong>You don’t have to hand in these practice exercises.</strong> They’re here for you to test yourself.</p>
+</blockquote>
+
+<p><strong>Exercise 1</strong> Starting from <code>/Users/amanda/data</code>, which of the following commands could Amanda use to navigate to her home directory, which is <code>/Users/amanda</code>?</p>
+
+<pre><code>1. `cd .`
+2. `cd /`
+3. `cd /home/amanda`
+4. `cd ../..`
+5. `cd ~`
+6. `cd home`
+7. `cd ~/data/..`
+8. `cd`
+9. `cd ..`
+</code></pre>
+
+<p><strong>Exercise 2</strong> Using the filesystem diagram below, if <code>pwd</code> displays <code>/Users/thing</code>, what will <code>ls -F ../backup</code> display?</p>
+
+<pre><code>1. `../backup: No such file or directory`
+2. `2012-12-01 2013-01-08 2013-01-27`
+3. `2012-12-01/ 2013-01-08/ 2013-01-27/`
+4. `original/ pnas_final/ pnas_sub/`
+</code></pre>
+
+<p><img src="terminal_bestanden/filesystem-challenge.svg" alt=""></p>
+
+<details>
+  <summary>Answers</summary>
+
+  <p><strong>Exercise 1</strong></p>
+
+  <pre><code>1. No: `.` stands for the current directory.
+2. No: `/` stands for the root directory.
+3. No: Amanda’s `home` directory is `/Users/amanda`.
+4. No: this command goes up two levels, i.e. ends in `/Users`.
+5. Yes: `~` stands for the user’s home directory, in this case `/Users/amanda`.
+6. No: this command would navigate into a directory home in the current  directory if it exists.
+7. Yes: unnecessarily complicated, but correct.
+8. Yes: shortcut to go back to the user’s home directory.
+9. Yes: goes up one level.
+</code></pre>
+
+  <p><strong>Exercise 2</strong></p>
+
+  <pre><code>1. No: there is a directory backup in `/Users`.
+2. No: this is the content of `Users/thing/backup`, but with .., we asked for one level further up.
+3. No: see previous explanation.
+4. Yes: `../backup/` refers to `/Users/backup/`.
+</code></pre>
+
+</details>
+
+<h3 id="options--flags">Options / flags</h3>
+
+<p><img src="terminal_bestanden/shell_command_syntax2.png" alt=""></p>
+
+<p>Sometimes options are referred to as parameters or flags. A command
+can be called with more than one option and more than one argument, but a
+ command doesn’t always require an argument or an option.  Options
+change the behavior of a command and arguments tell the command what to
+operate on (e.g. files and directories). In this case, the option <code>-r</code>
+ displays folders/directories in reverse order. Just like commands and
+folders, options are case sensitive. In this specific case, if we would
+have used <code>-R</code> the directory tree would be displayed recursively. The computer would have listed <em>all</em> nested folders and files inside the directory provided by the argument. Another example of this is the option <code>-s</code>, which for <code>ls</code> will display the size of files and directories alongside the names, while <code>ls -S</code> will sort the files and directories by size.</p>
+
+<blockquote>
+  <p>In the exercises below you will come across the option <code>-F</code>.
+ On Windows, this function doesn’t do much, but on other platforms the
+option makes sure that folders and executables are recognisable by
+adding the character <code>/</code> or <code>*</code> respectively to the end of their names.</p>
+</blockquote>
+
+<p><strong>Exercise 3</strong> Using the filesystem diagram below, if <code>pwd</code> displays <code>/Users/backup</code>, and <code>-r</code> tells <code>ls</code> to display things in reverse order, what command(s) will result in the following output:</p>
+
+<pre><code>pnas_sub/ pnas_final/ original/
+</code></pre>
+
+<p><img src="terminal_bestanden/filesystem-challenge2.svg" alt=""></p>
+
+<pre><code>1. `ls pwd`
+2. `ls -r -F`
+3. `ls -r -F /Users/backup`
+</code></pre>
+
+<details>
+  <summary>Answer</summary>
+
+  <p><strong>Exercise 3</strong></p>
+
+  <pre><code>1. No: `pwd` is not the name of a directory.
+2. Yes: `ls` without directory argument lists files and directories in the current directory.
+4. Yes: uses the absolute path explicitly.
+</code></pre>
+
+</details>
+
+<h3 id="moving-files">Moving files</h3>
+
+<p>Moving files and directories can be done with the command <code>mv</code>, which is short for ‘move’. Let’s say that we have a file named <code>draft.txt</code>
+ that we have made while writing our thesis. This file actually contains
+ a bunch of quotes, so a much more descriptive name would be <code>quotes.txt</code>. Renaming the file can be done using move as well:</p>
+
+<pre><code>$ mv thesis/draft.txt thesis/quotes.txt
+</code></pre>
+
+<p>The first argument tells mv what we are ‘moving’, while the last argument is where it is to go. In this case, we are moving <code>thesis/draft.txt</code> to <code>thesis/quotes.txt</code>, which has the same effect as renaming the file.</p>
+
+<p><code>mv</code> can also be used to move files to directories. We use <code>mv</code> once again, but this time we use just the name of a directory as the second argument to tell <code>mv</code> that we want to keep the filename but put the file somewhere new.:</p>
+
+<pre><code>$ mv thesis/quotes.txt .
+</code></pre>
+
+<p>In this case, the directory name we use is the special directory name <code>.</code>. This moves <code>quotes.txt</code> into the <em>current working directory</em>. We can even move multiple files at once:</p>
+
+<pre><code>$ mv textfile1.txt textfile2.txt some_directory
+</code></pre>
+
+<blockquote>
+  <p>Be careful when specifying the target file name, since <code>mv</code> will silently overwrite any existing file with the same name, which could lead to data loss.</p>
+</blockquote>
+
+<p><strong>Exercise 4</strong> After running the following commands, Jamie realizes that she put the files <code>sucrose.dat</code> and <code>maltose.dat</code> into the wrong folder. The files should have been placed in the <code>raw/</code> folder.</p>
+
+<pre><code>$ ls -F
+ analyzed/ raw/
+$ ls -F analyzed
+fructose.dat glucose.dat maltose.dat sucrose.dat
+$ cd analyzed
+</code></pre>
+
+<p>Fill in the blanks to move these files to the <code>raw/</code> folder</p>
+
+<pre><code>$ mv sucrose.dat maltose.dat ____/____
+</code></pre>
+
+<details>
+  <summary>Answer</summary>
+
+  <p><strong>Exercise 4</strong></p>
+
+  <pre><code>$ mv sucrose.dat maltose.dat ../raw
+</code></pre>
+
+  <p>Recall that <code>..</code> refers to the parent directory (i.e. one above the current directory) and that <code>.</code> refers to the current directory.</p>
+
+</details>
+
+<blockquote>
+  <p>You may have noticed that all files you have seen up to now are
+named ‘something dot something’. This is just a convention: we can call a
+ file <code>mythesis</code> or almost anything else we want. However, we
+ use two-part names to help us (and our programs) tell different kinds
+of files apart. The second part of a filename is called the extension
+and indicates what type of data the file holds: <code>.txt</code> signals a plain text file, <code>.pdf</code> indicates a PDF document, <code>.cfg</code> is a configuration file full of parameters for some program, <code>.png</code>
+ is a PNG image, and so on.
+This is just a convention, albeit an important one. Files contain bytes:
+ it’s up to us and our programs to interpret those bytes according to
+the rules for plain text files, PDF documents, configuration files,
+images, and so on. Naming a PNG image of a whale as <code>whale.mp3</code>
+ doesn’t somehow magically turn it into a recording of whale song,
+though it might cause the operating system to try to open it with a
+music player when someone double-clicks it.
+If at any point you want to check something in Finder, you can use <code>open .</code> to open the folder you are currently in, or <code>open document.pdf</code> if you would like to open a file using the default application for that file extension. On Windows, the equivalent command is <code>explorer</code> or <code>start</code>.</p>
+</blockquote>
+
+<h3 id="copying-files">Copying files</h3>
+
+<p>The <code>cp</code> command works very much like <code>mv</code>, except it copies a file instead of moving it.</p>
+
+<pre><code>$ cp quotes.txt thesis/quotations.txt
+</code></pre>
+
+<p>We can check that it did the right thing using <code>ls</code> with two paths as arguments — like most Unix commands, <code>ls</code> can be given multiple paths at once:</p>
+
+<pre><code>$ ls quotes.txt thesis/quotations.txt
+</code></pre>
+
+<p>We can also copy a directory and all its contents by using the recursive option <code>-r</code> to back up a directory:</p>
+
+<pre><code>$ cp -r thesis thesis_backup
+</code></pre>
+
+<p>We can check the result by listing the contents of both the <code>thesis</code> and <code>thesis_backup</code> directory:</p>
+
+<pre><code>$ cp -r thesis thesis_backup
+$ ls thesis thesis_backup
+thesis:
+quotations.txt
+
+thesis_backup:
+quotations.txt
+</code></pre>
+
+<p><strong>Exercise 5</strong> Suppose that you created a plain-text
+file in your current directory to contain a list of the statistical
+tests you will need to do to analyze your data, and named it <code>statstics.txt</code>.
+ After creating and saving this file you realize you misspelled the
+filename! You want to correct the mistake, which of the following
+commands could you use to do so?</p>
+
+<pre><code>1. `cp statstics.txt statistics.txt`
+2. `mv statstics.txt statistics.txt`
+3. `mv statstics.txt .`
+4. `cp statstics.txt .`
+</code></pre>
+
+<p><strong>Exercise 6</strong> What is the output of the final <code>ls</code> command in the sequence shown below?</p>
+
+<pre><code>$ pwd
+/Users/jamie/data
+$ ls
+proteins.dat
+$ mkdir recombined
+$ mv proteins.dat recombined/
+$ cp recombined/proteins.dat ../proteins-saved.dat
+$ ls
+
+1. `proteins-saved.dat recombined`
+2. `recombined`
+3. `proteins.dat recombined`
+4. `proteins-saved.dat`
+</code></pre>
+
+<details>
+  <summary>Answers</summary>
+
+  <p><strong>Exercise 5</strong></p>
+
+  <pre><code>1. No. While this would create a file with the correct name, the incorrectly named file still exists in the directory and would need to be deleted.
+2. Yes, this would work to rename the file.
+3. No, the period (.) indicates where to move the file, but does not provide a new file name; identical file names cannot be created.
+4. No, the period (.) indicates where to copy the file, but does not provide a new file name; identical file names cannot be created.
+</code></pre>
+
+  <p><strong>Exercise 6</strong> We start in the <code>/Users/jamie/data</code> directory, and create a new folder (<code>mkdir</code>) called <code>recombined</code>. The second line moves (<code>mv</code>) the file <code>proteins.dat</code> to the new folder <code>recombined</code>. The third line makes a copy (<code>cp</code>) of the file we just moved. The tricky part here is where the file was copied to. Recall that <code>..</code> means ‘go up a level’, so the copied file is now in <code>/Users/jamie</code>. Notice that <code>..</code>
+ is interpreted with respect to the current working directory, not with
+respect to the location of the file being copied. So, the only thing
+that will show using ls (in <code>/Users/jamie/data</code>) is the recombined folder.</p>
+
+  <pre><code>1. No, see explanation above. proteins-saved.dat is located at `/Users/jamie`
+2. Yes
+3. No, see explanation above. proteins.dat is located at `/Users/jamie/data/recombined`
+4. No, see explanation above. `proteins-saved.dat` is located at `/Users/jamie`
+</code></pre>
+
+</details>
+
+<h3 id="removing-files">Removing files</h3>
+
+<p>The Unix command associated with removing is <code>rm</code>:</p>
+
+<pre><code>$ rm quotes.txt
+</code></pre>
+
+<p>⚠️ The shell does not have a trash bin that can be used to recover deleted files. Removing a file using <code>rm</code> is permanent and unrecoverable. The <code>-i</code> option will prompt before (every) removal; use <code>Y</code> to confirm deletion or <code>N</code> to keep the file. By using the <code>-i</code> option, we have the chance to check that we are deleting only the files that we want to remove.</p>
+
+<blockquote>
+  <p>When files are deleted, they are unlinked from the file system so
+that their storage space on disk can be recycled. Tools for finding and
+recovering deleted files do exist, but there is no guarantee they will
+work in any particular situation, since the computer may recycle the
+disk space right away.</p>
+</blockquote>
+
+<p>If we try to remove the <code>thesis</code> directory using <code>rm thesis</code>, we get an error message:</p>
+
+<pre><code>$ rm thesis
+rm: cannot remove 'thesis': Is a directory
+</code></pre>
+
+<p>This happens because <code>rm</code> by default only works on files, not directories. <code>rm</code> can remove a directory and all its contents if we use the recursive option <code>-r</code>, and it will do so without any confirmation prompts:</p>
+
+<pre><code>$ rm -r thesis
+</code></pre>
+
+<p>⚠️ Given that there is no way to retrieve files deleted using the shell, <code>rm -r</code> should be used <strong>with great caution</strong>.</p>
+
+<h3 id="applying-knowledge">Applying knowledge</h3>
+
+<p><a href="https://github.com/uvaai/wcai/raw/main/week_1/terminal/file_structure_exercise.zip">Download this zipped file structure</a>, move it to a folder where you can easily access it and navigate to this folder using the terminal using <code>cd</code>. Remember that you can find the current folder using <code>pwd</code> and see whether you are in the folder holding <code>file_structure_exercise.zip</code> by using <code>ls</code>. Unzip the file using the command <code>unzip file_structure_exercise.zip</code>. Use <code>cd</code> to navigate into the file structure you have just unpacked.</p>
+
+<p><strong>Exercise 7</strong> What would be the command to remove the zip you have just unpacked using <code>rm</code>?</p>
+
+<p><strong>Exercise 8</strong> Use <code>ls --help</code> to show information that explains all options that can be applied to the command <code>ls</code>.
+ Can you find an option that can be used to list not only all files and
+directories in the current directory, but also all (sub)subdirectories
+and files? Using this option, create an overview of the directories and
+files in the provided file structure.</p>
+
+<p><strong>Exercise 9</strong> A file was misplaced in the main directory, named <code>notes.txt</code>.
+ This file contains the notes for lecture 2. Find the directory that
+contains the notes for the first lecture and take note of the naming
+convention of the file. Rename <code>notes.txt</code> using this naming convention and move it to the folder containing notes using <code>mv</code>.</p>
+
+<p><strong>Exercise 10</strong> You need more space on your device and
+have decided you can get rid of the music directory and all
+subdirectories and files in there; you use an online music streaming
+service anyway. What is the complete command you would need to use if
+you want to confirm every step in the process of the removal?</p>
+
+<p><strong>Exercise 11</strong> Perform the following tasks using the shell from the main directory:</p>
+
+<ol>
+  <li>Create a folder named <code>ml1</code> in <code>university</code>.</li>
+  <li>Create a file named <code>TODO.txt</code> in <code>university/ml1/</code>`</li>
+  <li>Create a copy of <code>images/</code> named <code>images_backup/</code></li>
+</ol>
+
+<details>
+  <summary>Answers</summary>
+  <p><strong>Exercise 7</strong> <code>rm -i ../file_structure_exercise.zip</code></p>
+
+  <p><strong>Exercise 8</strong> This can be done using the option <code>-R</code>. <code>ls -R</code> (when slightly reformatted) gives the following overview of the whole file structure:</p>
+
+  <pre><code>games/
+  halo.exe*
+  snake.exe*
+images/
+  selfie.png
+  vacation.png
+music/
+  classic/
+  other/
+    'Rick Astley - Never Gonna Give You Up.mp3'
+  rap/
+  rock/
+university/
+  notes/
+    lecture1_notes.txt
+  pdp/
+    module_1/
+      hello.py
+      homework1.txt
+      program.py
+    module_2/
+      homework.txt
+notes.txt
+</code></pre>
+
+  <p>You could also use the option <code>-1</code> to order everything in rows, which makes it easier to read.</p>
+
+  <p><strong>Exercise 9</strong> Assuming you work from the main directory: <code>mv notes.txt university/notes/lecture2_notes.txt</code>.</p>
+
+  <p><strong>Exercise 10</strong> <code>rm -ri music</code>, or <code>rm -r -i music</code></p>
+
+  <p><strong>Exercise 11</strong></p>
+
+  <ol>
+    <li><code>mkdir /university/ml1</code></li>
+    <li><code>touch /university/ml/TODO.txt</code></li>
+    <li><code>cp -r images/ images_backup/</code></li>
+  </ol>
+
+</details>
+
+<h2 id="acknowledgement">Acknowledgement</h2>
+
+<p>The information and exercises on this page have been adapted from <a href="https://swcarpentry.github.io/shell-novice/" target="_blank">content on Software Carpentry</a> under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0 license</a>.</p>
+
+    </section>
+</div>
+
+
+
+
+
+
+
+
+
+</body></html>

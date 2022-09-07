@@ -19,9 +19,13 @@ Doel: studenten comfortabeler maken met het lezen en implementeren van formules.
 
 De eerste reactie van studenten die niet veel, of soms zelfs niets, gedaan hebben met wiskunde tijdens hun studie is vaak om dicht te slaan bij het zien van formules. In de Minor AI zullen de studenten vaak te maken krijgen met wiskundige formules, en is het dus belangrijk dat ze deze leren te begrijpen of de betekenis van onderdelen uit de formule te ontleden. Dit doen we over het algemeen via SOWISO, maar tijdens dit werkcollege gaan we ook even oefenen met het implementeren van som- en product-formules in Python. De studenten hoeven niets in te leveren.
 
-Voor dit stuk van het werkcollege is voor de studenten [een notebook beschikbaar](sums/translating-formulas.zip). In de notebook zijn uitleg en oefeningen te vinden over het somteken en het productteken. De studenten kunnen de notebook vinden in hun schema op deze website. Laat iedereen de notebook downloaden en openen. Zet de studenten aan het werk en loop rond om te kijken of het bij iedereen lukt. Als er meerdere studenten zijn die tegen iets soortgelijks aanlopen geef je hier centraal een korte uitleg over voordat iedereen weer door gaat.
+Voor dit stuk van het werkcollege is voor de studenten [een notebook beschikbaar](sums/translating-formulas.zip). In de notebook zijn uitleg en oefeningen te vinden over het somteken en het productteken. Stuur het bovenstaande bestand in de Slack met al je studenten. Laat iedereen de file uitpakken en de notebook openen met `jupyter notebook`.
 
-Wanneer de studenten (bijna) allemaal klaar zijn, of er iets meer dan een half uur voorbij is, doorloop je samen met de studenten de antwoorden. Laat zien hoe jij zelf de oefeningen zou implementeren. Denk daarbij hardop na en vertel wat je aan het doen bent. Laat de studenten hetzelfde doen.
+Zet de studenten aan het werk en loop rond om te kijken of het bij iedereen lukt. Als er meerdere studenten zijn die tegen iets soortgelijks aanlopen geef je hier centraal een korte uitleg over voordat iedereen weer door gaat.
+
+Het is handig om nadat de meeste studenten een aantal opgaven gemaakt hebben even een moment te nemen om de antwoorden te bespreken. Je kunt dan ook laten zien hoe je het zelf aan zou pakken. Denk daarbij hardop na en vertel wat je aan het doen bent. Laat de studenten hetzelfde doen.
+
+Wanneer de studenten (bijna) allemaal klaar zijn, of er iets meer dan een half uur voorbij is, doorloop je samen met de studenten de rest van de antwoorden.
 
 Het implementeren van oefeningen zoals deze zou een geoefende student aan het einde van dit vak nog geen minuut per stuk moeten kosten.
 

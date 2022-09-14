@@ -23,9 +23,9 @@ Vraag de studenten of er bepaalde concepten zijn die ze moeilijk vonden in de oe
 
 Doel: Duidelijkheid over het verloop van het tentamens voor PDP en ML, en ook de planning van de tentamenweek.
 
-Voor PDP bestaat het tentamen uit een reeks kleine programmeeropgaven gebaseerd op de modules uit het vak. De studenten krijgen 2.5 uur de tijd om de problemen uit te werken _op hun eigen laptop_ en mogen tijdens het tentamen gebruik maken van pdp.mprog.nl.
+Voor PDP bestaat het tentamen uit een reeks kleine programmeeropgaven gebaseerd op de modules uit het vak. De studenten krijgen 2.5 uur de tijd om de problemen uit te werken _op hun eigen laptop_ en mogen tijdens het tentamen gebruik maken van pdp.proglab.nl.
 
-- Er is een overzichtspagina met alle belangrijke onderdelen van de cursus: <https://pdp.mprog.nl/exam>
+- Er is een overzichtspagina met alle belangrijke onderdelen van de cursus: <https://pdp.proglab.nl/exam>
 - Het is niet toegestaan andere bronnen te gebruiken dan onze website.
 - Er is geen gelegenheid tot assistentie tijdens het tentamen.
 - De code zal niet beoordeeld worden op design of style, maar alleen op correctheid.

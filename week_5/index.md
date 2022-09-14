@@ -17,7 +17,7 @@ Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussi�
 
 De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld werden op style en design. De feedback op de Temperature hebben ze als het goed is al gehad. Ze zullen snel ook de volgende opgave in moeten leveren. Dit is _het_ moment om de studenten nog een keer na te laten denken over code design. Dit gaan we doen doormiddel van een code review.
 
-- Geef kort uitleg over de aspecten (hieronder bij de code review).
+- Geef kort uitleg over de aspecten (deze staan hieronder bij de code review).
 - We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn.
 - Studenten werken samen, hardop denkend, achter één computer met de code die op dat moment gereviewd wordt. Als dit klaar is, wisselen ze naar de volgende computer voor het stuk code van de ander.
 - (5-10 minuten) We beginnen met een klassikaal deel over de opgave waarover de code review gaat:
@@ -27,7 +27,7 @@ De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld 
 - (15-20 minuten) Iedereen voert de code review uit, mentor loopt langs en bemoeit zich er soms mee, maar is vooral bezig met kritisch luisteren.
 - (5 minuten) Vraag een aantal tweetallen of er specifieke dingen zijn geweest die hun opgevallen zijn. Probeer deze te relateren aan de opgaves die de studenten deze week in moeten leveren.
 
-De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende:
+Voorbeelden van aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende:
 
 - Design
   - Gebruik van de juiste loops
@@ -37,8 +37,9 @@ De aspecten waar de studenten op kunnen letten voor Temperature zijn de volgende
   - Redundante elementen
   - "Magische" getallen
 - Style
-  - Opdelen van code in blokken
+  - Opdelen van code in blokken mbv witregels
   - Comments
+    - Header bovenaan
     - Inhoudelijke kwaliteit
     - Kwantiteit (te veel/weinig)
     - Consistentie (wel/niet hoofdletters, alles Nederlands/Engels, etc.)

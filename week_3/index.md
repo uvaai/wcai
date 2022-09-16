@@ -76,8 +76,6 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 - Wanneer iedereen met de drie "bugs" klaar is kan je de studenten vragen om ieder van de bugs uit te leggen, en er een goede oplossing voor te geven. Wanneer nodig kan je aanvullen met de uitleg hierboven.
 - Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden:
 
-<br>
-
     from notebook_checker import start_checks
 
     # Start automatic globals checks

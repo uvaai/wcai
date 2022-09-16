@@ -76,12 +76,12 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 - Wanneer iedereen met de drie "bugs" klaar is kan je de studenten vragen om ieder van de bugs uit te leggen, en er een goede oplossing voor te geven. Wanneer nodig kan je aanvullen met de uitleg hierboven.
 - Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden:
 
-```
+~~~
     from notebook_checker import start_checks
 
     # Start automatic globals checks
     %start_checks
-```
+~~~
 
 - Bespreek de resultaten met de studenten. Welke error geeft de checker, en hoe helpt de checker dus snel om dit soort problemen op te lossen?
 - Ga nu door naar het stukje "Slow code". Hierin staat een stuk code dat één voor één random punten in een vierkant plot. Laat de studenten proberen dit te verbeteren. Wanneer dat lukt kan de student die het opgelost heeft uitleg geven over de oplossing. Als dat niet lukt kan je de uitleg hieronder geven:

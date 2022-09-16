@@ -75,7 +75,9 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 - Stuur de notebook via Slack en geef de studenten wat tijd om de eerste 3 oefeningen te doen. Moedig samenwerken aan; het is heel erg waarschijnlijk dat er studenten in de groep zijn die tegen soortgelijke problemen aan zijn gelopen tijdens het maken van eerdere opgaves.
 - Wanneer iedereen met de drie "bugs" klaar is kan je de studenten vragen om ieder van de bugs uit te leggen, en er een goede oplossing voor te geven. Wanneer nodig kan je aanvullen met de uitleg hierboven.
 - Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden:
+
 <br>
+
     from notebook_checker import start_checks
 
     # Start automatic globals checks

@@ -36,26 +36,28 @@ Mogelijk hebben de studenten het al gezien; in de notebooks vanaf module 2 wordt
     # Start automatic globals checks
     %start_checks
 
-Dit is een door ons (specifiek; Tim Doolan) geschreven package dat bepaalde fouten bij studenten voorkomt die erg lastig te vinden zijn. Wanneer de code hierboven uitgevoerd wordt in een notebook voorkomt dit onder andere dat er in functies variabelen gebruikt worden die niet meegegeven worden. Een concreet voorbeeld:
+Dit is een door ons geschreven package dat bepaalde fouten bij studenten voorkomt die erg lastig te vinden zijn. Wanneer de code hierboven uitgevoerd wordt in een notebook voorkomt dit onder andere dat er in functies variabelen gebruikt worden die niet meegegeven worden. Een concreet voorbeeld:
 
-    tekst = "kaas"
+    text = "cheese"
 
-    def functie_die_wat_print(meegegeven_variabele):
-      print(tekst)
+    def function_that_prints_variable(passed_variable):
+    print(text)
 
-    functie_die_wat_print("ham")
+    function_that_prints_variable("ham")
 
-De code hierboven print `"kaas"`, terwijl we volgens de naam van de functie zouden verwachten dat `"ham"` geprint zou worden. Nu is het in dit voorbeeld duidelijk dat er wat mis gaat, maar het wordt een stuk minder duidelijk als er in de code van de student (die verspreid is over een groot aantal cellen) variabelen zijn als hoofdletters: `X`, en `x`. Ook kan er in een functie per ongeluk een globale variabele aangepast worden zoals in het voorbeeld hieronder:
+De code hierboven print `"cheese"`, terwijl we volgens de naam van de functie zouden verwachten dat `"ham"` geprint zou worden. Nu is het in dit voorbeeld duidelijk dat er wat mis gaat, maar het wordt een stuk minder duidelijk als er in de code van de student (die verspreid is over een groot aantal cellen) variabelen zijn als hoofdletters: `X`, en `x`. Ook kan er in een functie per ongeluk een globale variabele aangepast worden zoals in het voorbeeld hieronder:
 
     result = []
 
-    def simulate(iterations):
-        n = 0
-        while n < iterations:
-            n = n + 1
-            result.append(n)
+    def simulate(N):
+    """
+    This function adds integers up to N to a list and returns the list.
+    """
 
-        return result
+    for iteration in range(N):
+        result.append(iteration)
+
+    return result
 
     print(simulate(10))
     print(simulate(10))
@@ -64,14 +66,35 @@ In dit geval wordt `result` globaal aangepast door de functie `simulate()`. De f
 
 Wanneer bovenstaande stukken code in een notebook worden uitgevoerd na het inladen van de notebook checker worden er warnings weergeven. De code wordt verder wel zoals gewoon uitgevoerd.
 
-Download het [voorbeeld notebook](notebook-design/voorbeelden-design.ipynb) voor dit werkcollege.
+In Python zijn er een aantal variabelen die "gereserveerd" zijn, doordat ze al gebruikt worden door functionaliteit die onderdeel is van Python. Dit zijn bijvoorbeeld `int`, `sum`, `list`, `id`, etc. In notebooks kan je deze herkennen aan dat ze een (groene) kleur krijgen. Deze wil je zoals in het voorbeeld notebook wordt laten zien niet overschrijven, dan werken ze namelijk niet meer. In Atom krijgen deze built-ins geen kleur.
+
+Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor dit werkcollege.
 
 🧑‍🏫 Uitleg aan studenten
 
-- Leg het bovenstaande over de notebook checker aan de studenten uit m.b.v. het voorbeeld notebook
-- Leg uit: In Python zijn er een aantal variabelen die "gereserveerd" zijn, doordat ze al gebruikt worden door functionaliteit die onderdeel is van Python. Dit zijn bijvoorbeeld `int`, `sum`, `list`, `id`, etc. In notebooks kan je deze herkennen aan dat ze een (groene) kleur krijgen. Deze wil je zoals in het voorbeeld notebook wordt laten zien niet overschrijven, dan werken ze namelijk niet meer. In Atom krijgen deze built-ins geen kleur.
-- Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. Ook dit staat in het voorbeeld notebook.
+- Stuur de notebook via Slack en geef de studenten wat tijd om de eerste 3 oefeningen te doen. Moedig samenwerken aan; het is heel erg waarschijnlijk dat er studenten in de groep zijn die tegen soortgelijke problemen aan zijn gelopen tijdens het maken van eerdere opgaves.
+- Wanneer iedereen met de drie "bugs" klaar is kan je de studenten vragen om ieder van de bugs uit te leggen, en er een goede oplossing voor te geven. Wanneer nodig kan je aanvullen met de uitleg hierboven.
+- Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden.
+- Ga nu door naar het stukje "Slow code". Hierin staat een stuk code dat één voor één random punten in een vierkant plot. Laat de studenten proberen dit te verbeteren. Wanneer dat lukt kan de student die het opgelost heeft uitleg geven over de oplossing. Als dat niet lukt kan je de uitleg hieronder geven:
+  - Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. (Zie ook de voorbeeldcode hieronder.)
 - In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.
+
+    import matplotlib.pyplot as plt
+    import random
+
+    x_vals = []
+    y_vals = []
+
+    for i in range(20000):
+        x = random.random()
+        y = random.random()
+
+        x_vals.append(x)
+        y_vals.append(y)
+
+    plt.plot(x_vals, y_vals, 'go')
+    plt.show()
+
 
 ### Code review module 2 (30 minuten)
 

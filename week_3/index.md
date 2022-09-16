@@ -2,7 +2,7 @@
 
 Vanaf deze week zullen de studenten ook beoordeelt worden op het design en de style van hun code. Dit werkcollege staat daarom in het teken van design en style. We bespreken de beoordeling, styleguide, en leggen uit over de "globals checker", waarna we een code review gaan doen.
 
-Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit het best even buiten de groep om! ("Kunnen we dat na de werkgroep even bespreken?").
+Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit aan het einde van de werkgroep. ("Kunnen we dat aan het einde van de werkgroep even bespreken?").
 
 ### Terugblik (15 minuten)
 
@@ -41,7 +41,7 @@ Dit is een door ons geschreven package dat bepaalde fouten bij studenten voorkom
     text = "cheese"
 
     def function_that_prints_variable(passed_variable):
-    print(text)
+        print(text)
 
     function_that_prints_variable("ham")
 
@@ -74,7 +74,14 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 
 - Stuur de notebook via Slack en geef de studenten wat tijd om de eerste 3 oefeningen te doen. Moedig samenwerken aan; het is heel erg waarschijnlijk dat er studenten in de groep zijn die tegen soortgelijke problemen aan zijn gelopen tijdens het maken van eerdere opgaves.
 - Wanneer iedereen met de drie "bugs" klaar is kan je de studenten vragen om ieder van de bugs uit te leggen, en er een goede oplossing voor te geven. Wanneer nodig kan je aanvullen met de uitleg hierboven.
-- Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden.
+- Laat zien wat de `notebook_checker` voor een effect heeft op de code door het in de bovenste cell in de notebook in te laden:
+
+    from notebook_checker import start_checks
+
+    # Start automatic globals checks
+    %start_checks
+
+  Bespreek de resultaten met de studenten. Welke error geeft de checker, en hoe helpt de checker dus snel om dit soort problemen op te lossen?
 - Ga nu door naar het stukje "Slow code". Hierin staat een stuk code dat één voor één random punten in een vierkant plot. Laat de studenten proberen dit te verbeteren. Wanneer dat lukt kan de student die het opgelost heeft uitleg geven over de oplossing. Als dat niet lukt kan je de uitleg hieronder geven:
   - Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. (Zie ook de voorbeeldcode hieronder.)
 - In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.

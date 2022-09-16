@@ -79,6 +79,7 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
   - Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. (Zie ook de voorbeeldcode hieronder.)
 - In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.
 
+
     import matplotlib.pyplot as plt
     import random
 

@@ -13,12 +13,14 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Code review Temperature (30 minuten)
 
+**We reviewen in deze codereview Temperature van PDP.**
+
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
 De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld werden op style en design. De feedback op de Temperature hebben ze als het goed is al gehad. Ze zullen snel ook de volgende opgave in moeten leveren. Dit is _het_ moment om de studenten nog een keer na te laten denken over code design. Dit gaan we doen doormiddel van een code review.
 
 - Geef kort uitleg over de aspecten (deze staan hieronder bij de code review).
-- We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn.
+- We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn. Zorg ervoor dat je andere tweetallen maakt dan de vorige keer.
 - Studenten werken samen, hardop denkend, achter één computer met de code die op dat moment gereviewd wordt. Als dit klaar is, wisselen ze naar de volgende computer voor het stuk code van de ander.
 - (5-10 minuten) We beginnen met een klassikaal deel over de opgave waarover de code review gaat:
   - Wat moest er ook alweer gebeuren in de opgave?

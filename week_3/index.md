@@ -113,7 +113,7 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
-Zoals hierboven al besproken is de komende module de eerste waarop de studenten ook beoordeelt zullen worden op style en design. Nu de studenten bekend zijn met een aantal verschillende aspecten uit style en design is er genoeg kennis om een code review te doen.
+Zoals hierboven al besproken is de komende module de eerste waarop de studenten ook beoordeeld zullen worden op style en design. Nu de studenten bekend zijn met een aantal verschillende aspecten uit style en design is er genoeg kennis om een code review te doen.
 
 > Een code review is een systematische evaluatie van code die ervoor bedoeld is om potentiële bugs te vinden, de codekwaliteit te verbeteren, maar ook om kennis en aanpak van verschillende programmeurs uit te wisselen.
 

@@ -8,7 +8,7 @@
 dollars = float(input("How much change is owed?"))
 
 # when the user uses values under 0, make sure to ask again
-while(dollars < 0):
+while dollars < 0:
     dollars = float(input("How much change is owed?"))
 
 # convert to whole cents

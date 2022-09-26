@@ -28,8 +28,8 @@ def greedy_change_calculator(cents, cointypes):
     return nr_coins
 
 
-cointypes = [20, 10, 5, 1]
 
+cointypes = [25, 10, 5, 1]
 cents = get_user_cents()
 nr_coins = greedy_change_calculator(cents, cointypes)
 print(nr_coins)

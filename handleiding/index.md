@@ -28,7 +28,9 @@ P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator
 
 Voor assistenten die er vorig jaar bij waren, maar ook voor oud-studenten die nieuw komen assisteren.
 
-Dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
+_Fall 2022:_ Vanaf dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
+
+_Spring 2023:_ Vanaf dit semester vragen studenten zelf late-days aan op de site. Deze worden dus **niet** via Slack aangevraagd! Verder is de werking niet veranderd. We hebben ook ruimte gemaakt voor sick-days in het schema. Dit zijn twee dagen helemaal aan het einde van het blok. Studenten kunnen bij lange periodes van ziekte uitstel krijgen op al hun deadlines. De deadlines schuiven dan _allemaal_ twee dagen op voor deze studenten. Dit staat niet expliciet vermeld in de syllabus en valt onder "algemene uitzonderingen". Deze vorm van uitstel kan alleen via de docenten geregeld worden.
 
 # 1 De Minor AI
 
@@ -85,11 +87,11 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
 - **Data Processing and Representations** <https://dpr.proglab.nl>
 
   1. Object Oriented Programming: Populations
-  2. SQL
+  2. Vervolg OOP
   3. HTML + Acquisition
+  3. Vervolg HTML + Acquisition
   4. Transformation part one
-  5. Transformation part two
-  6. Git
+  6. Transformation part two
   {: start="1"}
 
 Het programma voor DPR staat nog niet vast.
@@ -108,7 +110,7 @@ Het programma voor DPR staat nog niet vast.
 
 - **Algoritmen en Heuristieken**
 
-  Gegeven is een “onoplosbaar” probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, “cases”, komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld. Dit vak heeft geen modules.
+  Gegeven is een "onoplosbaar" probleem, waarvoor met behulp van klassieke AI-technieken toch nog redelijke oplossingen berekend kunnen worden. De problemen, "cases", komen uit allerlei vakgebieden en zijn vaak zeer realistische benaderingen van problemen uit de echte wereld. Dit vak heeft geen modules.
 
 # 2 Contact
 
@@ -122,7 +124,7 @@ Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onde
 
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen.
 
-Tijdens de werkcolleges maak je ook notities over de studenten. Je houdt een logboek bij voor iedere student in je mentorgroep. Hierin noteer je informatie als studie, programmeerervaring, baan, heeft het moeilijk/makkelijk, maar ook maak je een notitie over hoe het gaat met een persoon. Deze update je als het nodig is iedere week, zodat we een goed beeld kunnen krijgen van hoe het met iedereen gaat. Wanneer er niets is gewijzigd, hoef je de tekst ook niet aan te passen. In deze file je ook bij hoe veel late-days een student gebruikt heeft, en wordt ook door de coördinator genoteerd of er sprake is van uitzonderingen. Hierover volgt later in dit document meer inforrmatie.
+Tijdens de werkcolleges maak je ook notities over de studenten. Je houdt een logboek bij voor iedere student in je mentorgroep. Hierin noteer je informatie als studie, programmeerervaring, baan, heeft het moeilijk/makkelijk, maar ook maak je een notitie over hoe het gaat met een persoon. Deze update je als het nodig is iedere week, zodat we een goed beeld kunnen krijgen van hoe het met iedereen gaat. Wanneer er niets is gewijzigd, hoef je de tekst ook niet aan te passen. In deze file wordt ook door de coördinator genoteerd of er sprake is van uitzonderingen. Hierover volgt later in dit document meer informatie.
 
 ## 2.2 Practica
 
@@ -492,18 +494,12 @@ Wanneer je zelf Corona-gerelateerde symptomen hebt, gelden dezelfde regels. Je d
 
 🆕 Als de planning dan niet gehaald wordt en de deadline dreigt te worden overschreden, dan verwachten wij ook weer een melding van de studenten. Het maakt daarbij niet uit of het een grote opdracht of een kleine oefening is, studenten moeten actief hun achterstand melden.
 
-- Studenten krijgen voor ieder blok twee late days. Elk van deze late days kunnen ze gebruiken om eenmalig 24 uur later dan de deadline iets in te leveren.
-- Dit **moet** via Slack gemeld worden aan de mentor _voordat_ de deadline voorbij is. Alles wat te ver na de deadline ingeleverd wordt hoef je niet na te kijken. We houden hier een zekere mate van coulance aan; als het ingeleverd wordt voor de ochtend de dag na de deadline kijk je het gewoon na.
-- Studenten kunnen gebruik maken van één late day per module. Deze geld dan voor beide vakken die tegelijk draaien.
+- Studenten krijgen voor ieder blok twee late days (in totaal). Elk van deze late days kunnen ze gebruiken om eenmalig 24 uur later dan de deadline iets in te leveren. **De deadline van beide vakken schuift dan met 24 uur op.** Uitstel wordt aangevraagd via de ML websites.
 - Als de deadline op een vrijdag is, geeft gebruik van de late day 48 uur uitstel. De deadline verplaatst dan naar zondag.
+- Dit **moet** via de website aangevraagd worden _voordat_ de deadline voorbij is. Alles wat te ver na de deadline ingeleverd wordt hoef je niet na te kijken. We houden hier een zekere mate van coulance aan; als het ingeleverd wordt voor de ochtend de dag na de deadline kijk je het gewoon na.
+- Studenten kunnen gebruik maken van één late day per module. Deze geld dan voor beide vakken die tegelijk draaien.
 - Wanneer een student geen late day meer heeft, maar ze willen toch uitstel, moet de student dit bespreken met de coördinator of examinator via de mail.
-- De late days worden bijgehouden door de mentor van de student in het logboek.
-
-Als je een aanvraag voor een late day krijgt dan ga je zo te werk:
-
-- Je neemt dit gewoon aan als feit. Je hoeft niet te vragen waarom of waardoor de student deze late day nodig heeft.
-- Je checkt of de student nog genoeg late-days heeft in het logboek. Wanneer dit niet zo is meld je dat aan de student en leg je uit dat ze moeten mailen naar minorai@proglab.nl.
-- Je schrijft op in het logboek dat de student een late day gebruikt, en ook voor welke module dit is.
+- De late days worden bijgehouden door de docenten via de website.
 
 Als je de vraag krijgt of het nog zin heeft om een opdracht te maken is het antwoord altijd "ja", want om het vak te halen moeten alle opdrachten gedaan zijn. Tegelijk meld je dat ze dit echt met de docent moeten bespreken.
 

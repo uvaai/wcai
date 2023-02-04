@@ -20,11 +20,18 @@ Doel: verwachtingen goed neerzetten. Grenzen stellen wat betreft communicatie en
     - Jij kijkt het werk na van deze studenten en geeft feedback. Als ze vragen hebben over de feedback kunnen ze bij jou terecht.
     - Vertel dat ze jou <u>niet</u> altijd via Slack kunnen bereiken, dat het even kan duren voordat je antwoord geeft en dat Slack niet voor grote vragen is (en dit geldt voor alle kanalen waar ze jou kunnen bereiken).
     - En als studenten ziek zijn melden ze zich om te beginnen bij jou, maar mailen ze ook altijd de docenten.
-- Leg uit dat als er **uitzonderingen** nodig zijn, studenten direct met de docenten moeten mailen.
+- Leg uit dat als er **uitzonderingen** nodig zijn, studenten direct met *de docenten* moeten mailen.
     - Jij bent geen doorgeefluik voor individuele gevallen. Als ze willen onderhandelen of niet in de regels vallen moeten ze echt die mail sturen naar de docenten!
     - Als iets onduidelijk is voor een student kan deze ook het beste mailen. Zo lukt het ook beter om alle studenten goed geïnformeerd te houden in plaats van alleen die in jouw eigen groep.
 
 ⚠️ Zorg er direct voor dat alle studenten ook op Slack komen!
+
+Benadruk hierna nog een keer hoe we de communicatie aanpakken. Korte samenvatting:
+
+- **Slack:** Ziekmeldingen, communicatie andere studenten, algemene vragen over het vak
+- **Mail:** persoonlijke-/uitzonderingsvragen
+- **Assistentie:** hulpvragen over de opdracht
+- **Site:** Aanvragen late days
 
 ### Kennismaking (15--20 minuten)
 

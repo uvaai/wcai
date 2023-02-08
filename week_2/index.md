@@ -27,7 +27,7 @@ Het is handig om nadat de meeste studenten een aantal opgaven gemaakt hebben eve
 
 Wanneer de studenten (bijna) allemaal klaar zijn, of er iets meer dan een half uur voorbij is, doorloop je samen met de studenten de rest van de antwoorden.
 
-Het implementeren van oefeningen zoals deze zou een geoefende student aan het einde van dit vak nog geen minuut per stuk moeten kosten.
+Het implementeren van oefeningen zoals deze zou een geoefende student _aan het einde van dit vak_ nog geen minuut per stuk moeten kosten.
 
 [De antwoorden voor de oefeningen zijn hier te vinden.](sums/answers-translating-formulas.zip) Deze zijn alleen voor de TAs bedoeld.
 

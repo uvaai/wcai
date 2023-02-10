@@ -1,8 +1,10 @@
 ## Werkcollege week 3
 
-Vanaf deze week zullen de studenten ook beoordeelt worden op het design en de style van hun code. Dit werkcollege staat daarom in het teken van design en style. We bespreken de beoordeling, styleguide, en leggen uit over de "globals checker", waarna we een code review gaan doen.
+Vanaf deze week zullen de studenten ook beoordeeld worden op het design en de style van hun code. Dit werkcollege staat daarom in het teken van design en style. We bespreken de beoordeling, styleguide, en leggen uit over de "globals checker". Na een korte pauze leggen we nog wat uit over code-design aan de hand van "Greedy", waarna we een code review gaan doen.
 
 Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit aan het einde van de werkgroep. ("Kunnen we dat aan het einde van de werkgroep even bespreken?").
+
+⚠️ Vergeet niet om nog een laatste keer te melden dat er vanaf module 3 ook echt beoordeeld wordt op design en style!
 
 ### Terugblik (15 minuten)
 
@@ -105,6 +107,22 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 
     plt.plot(x_vals, y_vals, 'go')
     plt.show()
+
+### Design (30 min)
+
+Doel: Studenten worden bewust van verschillende design-oplossingen en bijbehorende voor en nadelen. Er is niet één oplossing beter dan alle andere, maar er zijn wel dingen waar we extra op kunnen letten.
+
+Code design is een moeilijk onderwerp waar veel ervaring voor nodig is om goede keuzes te maken. Vaak denken studenten dat er één beste oplossing is, maar vaak zijn er voor en nadelen aan iedere aanpak. Je gaat het met je studenten hebben over verschillende aanpakken voor een probleem wat ze een aantal weken terug hebben geprogrammeerd: greedy.
+
+[Bijgeleverd zijn 6 verschillende manieren om greedy te implementeren.](greedy_design.zip) Alle code geeft dezelfde uitkomst, maar er zijn grote verschillen in de gemaakte designkeuzes. Neem voor het werkcollege ieder van de bestanden goed door. Doorloop met de studenten één voor één deze files en focus daarbij op de volgende design-aspecten:
+
+- Vermijd herhalende structuren
+- Verwijder redundante elementen
+- Vermijd "magische" getallen
+- Houd je code beknopt
+- Verdeel blokken code over functies, en complexe formules over meerdere regels; voeg lagen abstractie toe
+
+Laat de studenten zo veel mogelijk aanwijzen welke elementen van het programma beter kunnen en uitleggen waarom dit zo is. Een aantal van de aspecten lijken elkaar soms tegen te spreken, dan is het belangrijk de juiste balans te vinden.
 
 
 ### Code review module 2 (30 minuten)

@@ -1,6 +1,6 @@
 ## Werkcollege week 7
 
-Het laatste werkcollege voor het tentamen, maar tegelijkertijd ook direct het laatste werkcollege! We bespreken kort het tentamen, benadrukken de belangrijkheid van
+Het laatste werkcollege voor het tentamen, maar tegelijkertijd ook direct het laatste werkcollege van dit blok! We bespreken kort het tentamen, benadrukken de belangrijkheid van het oefenen van Numpy en het gebruik van API's (dit komt in de vervolgcursussen heel vaak voor). 
 
 ### Terugblik (15 minuten)
 
@@ -18,6 +18,21 @@ Doel: Controle dat alle studenten deze oefenopgaven voor Numpy zorgvuldig gemaak
 De studenten hebben aan het begin van module 6 een introductie gedaan van een aantal Numpy concepten. Het begrip van deze concepten is **essentieel** voor k-means en een aantal andere toekomstige modules. Het is belangrijk dat de studenten dit serieus maken en begrijpen.
 
 Vraag de studenten of er bepaalde concepten zijn die ze moeilijk vonden in de oefeningen. Geef extra uitleg waar nodig.
+
+### Hoe lees je een API (5--10 minuten)
+
+Doel: De studenten helpen bij het navigeren en interpreteren van API's.
+
+Pak een voorbeeld van een functie, en laat zien hoe je dit googled. Voor de functie `read_csv` uit `pandas` kan je bijvoorbeeld googlen op `'read_csv pandas API'`. In de API staat een hoop tekst over de verschillende mogelijkheden en functionaliteiten van de `read_csv` functie. Leg uit:
+
+- Allereerst zien we alle mogelijke parameters (op volgorde dat ze ingevoerd moeten worden), met hun "default" waardes. `delimiter=None` geeft bijvoorbeeld aan dat de _optionele parameter_ `delimiter` standaard de waarde `None` toegewezen krijgt.
+- Direct hieronder zien we een kort stukje uitleg van wat de basisfunctionaliteit van deze functie is. In dit geval begint deze uitleg met 'Read a comma-separated values (csv) file into DataFrame.'.
+- Vervolgens krijgen we een lijst met alle mogelijke parameters en het type dat verwacht wordt voor de functie. Voor `sep` staat er `str, default ‘,’`. Dit houdt in dat als je deze waarde wilt aanpassen, het een string moet zijn, en dat de standaardwaarde waarmee `read_csv` de velden in de inputfile van elkaar onderscheid een komma is. Daarna volgt nog wat extra informatie over wat verschillende waardes betekenen. Laat de studenten zien hoe ze dit moeten lezen, en leg ook uit hoe dit werkt voor bijvoorbeeld de parameter `header`.
+- Als je een (flink) stuk naar beneden scrolt, kan je ook zien wat de functie `return`ed. In dit geval is dat `DataFrame or TextParser`. Dit kan heel handig zijn om te zien of een functie iets terug geeft (dit noemen we expliciet), of dat de functie iets in de originele structuur aanpast (impliciet, of in pandas ook wel `in_place` genoemd).
+- Helemaal onderaan zie je ook een reeks voorbeelden voor hoe de functie gebruikt kan worden. Bij `read_csv` is dit er maar één, maar als je ook het voorbeeld van `groupby` laat zien heb je er hier veel meer!
+- Doe hetzelfde voor een functie in Seaborn. Gebruik hiervoor de gallerij: <https://seaborn.pydata.org/examples/index.html>
+
+Vraag de studenten of ze zelf functies hebben gezien die ze nog niet helemaal begrijpen, pak de API er bij, laat de voorbeelden zien en leg uit wat de functie doet.
 
 ### Tentamen (5--10 minuten)
 
@@ -41,8 +56,6 @@ Op woensdag doen we van 11:00 tot 13:00 een Q & A voor het tentamen van ML. Hier
 Het materiaal voor het ML1 tentamen bestaat uit alles wat behandeld is in de theorievideos en de programmeernotebooks. De theoriepagina’s van SOWISO en de artikelen uit de schrijfopgaven zijn geen onderdeel van het tentamenmateriaal. De focus van het tentamen zal liggen op het begrijpen van het materiaal en niet het uit je hoofd kennen van vergelijkingen. Dit betekent dat de student niet gevraagd zal worden om van een algoritme de wiskundige vergelijkingen op te schrijven, maar wel dat ze gevraagd kunnen worden om de termen in een vergelijking te benoemen en uit te leggen hoe ze relateren aan een stukje machine learning theorie. De student zal geen afgeleide van een vergelijking hoeven bepalen, maar wel uit moeten kunnen leggen wat een gradiënt is en hoe die gebruikt kan worden om de kostenfunctie van een model te optimaliseren. Voor dit tentamen krijgen studenten 3u de tijd, en mogen ze geen gebruik maken van externe bronnen.
 
 Beantwoord de vragen van de studenten over het tentamen. Als je iets niet (zeker) weet, noteer dit dan in een message op Basecamp. De coördinator zorgt ervoor dat jij (en de studenten) antwoord krijgen op hun vragen.
-
-<!-- TODO even bespreken met Tim of we dit zo willen doen. -->
 
 ### Algorithmic Bias (30 minuten)
 

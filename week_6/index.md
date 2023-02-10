@@ -1,6 +1,6 @@
 ## Werkcollege week 6
 
-In dit werkcollege behandelen we de oefenvragen over complexiteit uit PDP. Dit is een lastig concept dat de basis vormt voor het begrip van designkeuzes die de studenten in toekomstige opdrachten zullen moeten maken. Neem de tijd en bereid dit goed voor. Daarna volgt een discussie over AlphaGo.
+In dit werkcollege behandelen we de oefenvragen over complexiteit uit PDP. Dit is een lastig concept dat de basis vormt voor het begrip van designkeuzes die de studenten in toekomstige opdrachten zullen moeten maken. Neem de tijd en bereid dit goed voor. Daarna volgt een discussie over AlphaGo. Omdat dit werkcollege erg dicht op de deadline van module 5 plaatsvindt, is er veel ruimte gemaakt voor extra persoonlijke hulp.
 
 ### Terugblik (15 minuten)
 
@@ -48,6 +48,12 @@ De onderstaande vragen dienen als suggesties/inspiratie om de discussie op gang 
     - [Zie ook het artikel hier](https://www.theverge.com/2019/11/27/20985260/ai-go-alphago-lee-se-dol-retired-deepmind-defeat)
     - Wat vinden jullie daarvan?
         - Is menselijk en computer presteren met elkaar te vergelijken?
+
+### Assistentie (de rest van de tijd)
+
+Gebruik de tijd die over is om studenten die nog niet helemaal klaar zijn te helpen. Ook studenten die al wel klaar zijn hebben wat te doen: die kunnen natuurlijk vragen stellen over style en design. Benoem dit ook écht even, zodat studenten dit daadwerkelijk doen. Ook de vraag "Zou je nog even naar mijn code kunnen kijken voor style en design?" is een goede vraag!
+
+Laat waar mogelijk deze studenten eerst met elkaar de code bespreken. Zodra ze samen een oplossing voor een bepaald probleem hebben bedacht kunnen ze dat met jou bespreken. _Communiceer dit duidelijk._ Het is erg belangrijk dat de studenten zelf nadenken over hoe hun code beter kan.
 
 ## Administratie
 

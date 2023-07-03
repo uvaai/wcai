@@ -235,8 +235,8 @@ Als mentor leer je alle studenten uit je mentorgroep goed kennen. Dat betekent d
 - Levert tijdig in
 - Neemt goed deel aan de cursus en de werkcolleges
 
-Het is handig om deze dingen te noteren op Basecamp. Dit doe je in jouw file onder "Docs & Files" per student. Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs. Dit doe je in
-
+Het is handig om deze dingen te noteren op Basecamp. Dit doe je in jouw file onder "Docs & Files" per student. Hoewel je als mentor de belangrijke details over je studenten kent, beperkt het contact met je studenten zich wel tot zaken die van belang zijn voor het onderwijs. <!-- Dit doe je in -->
+<!-- vorige zin niet afgemaakt, weet niet wat er moet staan -->
 Dat je je studenten goed kent maakt je ook het juiste aanspreekpunt voor de cursus. Dat betekent dat studenten zich al gauw bij jou zullen melden als ze een organisatorische vraag hebben waarvoor ze het antwoord niet kunnen vinden. Maar ook bij persoonlijke problemen zullen ze ongetwijfeld naar jou toe komen.
 
 ⚠️ Doe geen beloftes aan studenten over het verloop van de cursus of regelingen anders dan wat er al letterlijk in de syllabus staat. Studenten zullen zeer vaak tussen neus en lippen door even "naar de bekende weg vragen". Maar als het niet in een van de syllabi staat dan nemen de docenten beslissingen op individuele basis. Ga dus niet in op dit soort vragen en verwijs naar de juiste kanalen.
@@ -291,7 +291,7 @@ Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duide
 
 Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (maar niet teveel). 🆕 Deze assistentie wordt volledig op locatie georganiseerd in ons lokaal. Studenten kunnen een hulpvraag indienen via de website. Hierbij geven ze hun locatie aan, de opdracht waar ze mee bezig zijn, en beschrijven ze het probleem dat ze hebben. Deze hands verschijnen voor de assistenten op de website en kunnen zo overzichtelijk behandeld worden. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je de hands af.
 
-Iedere dag zijn er 3 uren ingeroosterd waarop er assistentie aanwezig is. Er zijn in principe altijd minimaal twee TAs aanwezig tijdens assistentieuren. Deze zijn ingepland van 10 tot 13, tenzij er op die dag een Q&A is, dan is het van 11 tot 14. Op maandagochtend zijn er werkcolleges en is de assistentie van 13 tot 16. Tijdens assistentie wordt door een van de aanwezige TAs de aanwezigheid opgenomen. Overleg even wie van jullie dit doet en wanneer. Verderop volgt meer informatie die uitlegt hoe je dit doet.
+Iedere dag zijn er 3 uren ingeroosterd waarop er assistentie aanwezig is. Er zijn in principe altijd minimaal twee TAs aanwezig tijdens assistentieuren. Deze zijn ingepland van 10 tot 13, tenzij er op die dag een Q&A is, dan is het van 11 tot 14. Op maandagochtend zijn er werkcolleges en is de assistentie van 13 tot 16. Tijdens assistentie wordt door één van de aanwezige TAs de aanwezigheid opgenomen. Overleg even wie van jullie dit doet en wanneer. Verderop volgt meer informatie die uitlegt hoe je dit doet.
 
 ⚠️ Roostering voor het assisteren wordt pas kort voor de start van het vak gedaan omdat veel assistenten pas laat horen in welke werkcolleges zij zelf geroosterd zijn.
 
@@ -482,13 +482,6 @@ Wanneer de student weer beter is
 
 De coördinator bepaalt vervolgens of het nodig is met deze student te spreken. Wanneer dit gedaan is wordt de Todo afgevinkt door de coördinator. Als het nodig is geeft de coördinator hier ook meer informatie voor de TA. Met de coördinator gemaakte afspraken over uitstel voor deadlines worden in het logboek van de student gezet door de coördinator.
 
-### 7.3.1 Studenten met Corona
-
-Wanneer een student Corona-gerelateerde symptomen heeft, maar zich verder goed genoeg voelt om aan de opgaven te werken, doet deze een zelftest. Als deze zelftest negatief is komt de student gewoon naar de universiteit. Als de test positief is meldt de student zich ziek zoals normaal en geeft aan dat dit vanwege een positieve zelftest is. Deze studenten zitten thuis en kan je extra hulp aanbieden via Slack. Let op dat je hier niet te veel tijd aan besteed; niet meer dan dat je normaliter tijdens assistentie zou doen. Dit valt onder je werktijd voor communicatie met studenten.
-
-### 7.3.2 Assistenten met Corona
-
-Wanneer je zelf Corona-gerelateerde symptomen hebt, gelden dezelfde regels. Je doelt een zelftest. Als deze negatief is kom je gewoon naar de universiteit. Wanneer de test negatief is moet dat gemeld worden bij de coördinator. Als je je goed genoeg voelt om te assisteren kunnen we een digitale assistentieomgeving opzetten. Voor de werkcolleges kijken we case-by-case wat handig is.
 
 ## 7.4 Te-laatmelding
 

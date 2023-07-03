@@ -13,13 +13,13 @@ Doel: verwachtingen goed neerzetten. Grenzen stellen wat betreft communicatie en
 🧑‍🏫 Uitleg aan studenten
 
 - Vertel duidelijk **hoe je heet** en wat je studeert.
-- Leg uit waarvoor de werkcollege
+- Leg uit waarvoor de werkcolleges zijn; extra oefeningen, feedback, etc.
 - Leg uit dat jij voor de studenten hun **eerste aanspreekpunt** bent.
     - Dit betekent dat jij kan vertellen hoe je het vak kunt aanpakken.
     - Je kunt ook algemene opmerkingen en feedback overbrengen naar de docenten. Dus zaken die op meerdere studenten betrekking hebben.
     - Jij kijkt het werk na van deze studenten en geeft feedback. Als ze vragen hebben over de feedback kunnen ze bij jou terecht.
     - Vertel dat ze jou <u>niet</u> altijd via Slack kunnen bereiken, dat het even kan duren voordat je antwoord geeft en dat Slack niet voor grote vragen is (en dit geldt voor alle kanalen waar ze jou kunnen bereiken).
-    - En als studenten ziek zijn melden ze zich om te beginnen bij jou, maar mailen ze ook altijd de docenten.
+    - En als studenten ziek zijn, melden ze zich om te beginnen bij jou, maar mailen ze ook altijd de docenten.
 - Leg uit dat als er **uitzonderingen** nodig zijn, studenten direct met *de docenten* moeten mailen.
     - Jij bent geen doorgeefluik voor individuele gevallen. Als ze willen onderhandelen of niet in de regels vallen moeten ze echt die mail sturen naar de docenten!
     - Als iets onduidelijk is voor een student kan deze ook het beste mailen. Zo lukt het ook beter om alle studenten goed geïnformeerd te houden in plaats van alleen die in jouw eigen groep.
@@ -66,7 +66,7 @@ Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijv
 
 Leg ook uit dat samenwerken bij onze vakken toegestaan is. Overleggen over de stof, of samen een aanpak voor een probleem _bedenken_ vallen hieronder. Het is prima als het om ideeën gaat, niet als het over regels code gaat. Het delen van code, of samen _ontwerpen/opstellen/uitwerken_ van (pseudo)code niet.  Dit laatste ontneemt tenminste één persoon in de samenwerking van het leermoment en oefening. In een gezonde samenwerking kijk je eigenlijk niet op elkaars scherm, en ben je alleen bezig op een whiteboard. Je kunt ook nog verwijzen naar het stuk over academic honesty in de syllabus.
 
-Leg ten slotte uit dat alles wat ingeleverd wordt door de studenten door onze plagiaatdetectie heen gaat. Deze plagiaatdetectie werkt goed op code en kan erg makkelijk detecteren wanneer code (zo goed als) van elkaar overgenomen is. Wanneer er plagiaat gedetecteerd wordt krijgen alle betrokken studenten een 1 voor die module. Bij ernstige gevallen nemen we ook contact op met de examencomissie.
+Leg ten slotte uit dat alles wat ingeleverd wordt door de studenten door onze plagiaatdetectie heen gaat. Deze plagiaatdetectie werkt goed op code en kan erg makkelijk detecteren wanneer code (zo goed als) van elkaar overgenomen is. Wanneer er plagiaat gedetecteerd wordt, krijgen alle betrokken studenten een 1 voor die module. Bij ernstige gevallen nemen we ook contact op met de examencomissie.
 
 ### Terminal (30--45 minuten)
 

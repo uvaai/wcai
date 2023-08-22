@@ -85,7 +85,7 @@ Al deze elementen zijn in eerdere modules uitgelegd en zouden bekend moeten zijn
 
 Doel: Studenten begrijpen hoe functies aan andere functies meegegeven kunnen worden, en hebben hiermee een extra instrument om gedupliceerde code te vermeiden.
 
-De studenten hebben net een code review gedaan van temperature, en de functies uit die opgave zitten als het goed is vers in het geheugen. In deze kleine demo/discussie laat je ze zien hoe je `get_lowest_temp()` en `get_highest_temp()` (die erg op elkaar lijken) versimpelt. [Op deze hulppagina](duplicate-code/) vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
+De studenten hebben net een code review gedaan van temperature, en de functies uit die opgave zitten als het goed is vers in het geheugen. In deze kleine demo/discussie laat je ze zien hoe je `get_lowest_temp()` en `get_highest_temp()` (die erg op elkaar lijken) versimpelt. [Op deze hulppagina](duplicate-code/duplicate_code.md) vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
 
 > Als je gezien hebt dat je studenten veel gebruik gemaakt hebben van de functie `.index()` kan je ook het optionele gedeelte hierover ([op dezelfde pagina](duplicate-code/)) behandelen.
 

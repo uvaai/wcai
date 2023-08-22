@@ -13,9 +13,9 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Complexity (30 minuten)
 
-Doel: Studenten begrijpen dat de kwaliteit van code afhangt van verschillende aspecten waaronder de tijdsefficiëntie en kunnen de complexiteit (big $\mathcal{O}$) van een stuk code beoordelen inschatten.
+Doel: Studenten begrijpen dat de kwaliteit van code afhangt van verschillende aspecten waaronder de tijdsefficiëntie en kunnen de complexiteit (big $$\mathcal{O}$$) van een stuk code beoordelen inschatten.
 
-Je geeft een korte introductie in big $\mathcal{O}$ en het proces van het bepalen van de complexiteit van een stuk code. Dit mag je zelf invullen. Vraag na of iedereen de complexiteitvragen al heeft gemaakt. Als dit niet zo is, laat je de studenten de opgaven afmaken voordat je verder gaat.
+Je geeft een korte introductie in big $$\mathcal{O}$$ en het proces van het bepalen van de complexiteit van een stuk code. Dit mag je zelf invullen. Vraag na of iedereen de complexiteitvragen al heeft gemaakt. Als dit niet zo is, laat je de studenten de opgaven afmaken voordat je verder gaat.
 
 Daarna doorloop je met de studenten de complexity questions één voor één. De studenten geven antwoord en leggen uit waarom dit antwoord correct is.
 

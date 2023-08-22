@@ -88,7 +88,7 @@ Download het [voorbeeld notebook](notebook-design/examples-design.ipynb) voor di
 - Bespreek de resultaten met de studenten. Welke error geeft de checker, en hoe helpt de checker dus snel om dit soort problemen op te lossen?
 - Ga nu door naar het stukje "Slow code". Hierin staat een stuk code dat één voor één random punten in een vierkant plot. Laat de studenten proberen dit te verbeteren. Wanneer dat lukt kan de student die het opgelost heeft uitleg geven over de oplossing. Als dat niet lukt kan je de uitleg hieronder geven:
   - Leg uit dat i/o interacties zoals printen en plotten langzaam zijn. Een voorbeeld: het liefst wil je `plt.plot()` zo weinig mogelijk aanroepen. Dit kan je doen door in plaats van iedere keer dat je een punt genereerd deze direct te plotten de punten te verzamelen in lijsten. Zodra je alle punten hebt verzameld plot je de lijst alsof het punten zijn. (Zie ook de voorbeeldcode hieronder.)
-- In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces.
+- In Atom kan je de package "MagicPython" installeren, en de package "language-python" uitzetten, dan krijgen in Python ingebouwde functies ook een kleur. Doorloop met de studenten dit proces. (LET OP: kan mogelijk niet meer doordat de Atom package manager stopgezet is!)
 
 <br>
 

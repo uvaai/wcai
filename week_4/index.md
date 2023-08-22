@@ -13,7 +13,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 ### Code review football analysis (20 min)
 
-**We reviewen in deze codereview `football_analysis` uit module 3 van PDP.**
+**We reviewen in deze codereview `football_analysis` uit module 3 van PDP.** Studenten die alleen ML1 doen kunnen hier meekijken met andere studenten, maar hoeven dat niet te doen.
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
@@ -41,7 +41,7 @@ Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars c
 
 ### Code review Temperature (30 minuten)
 
-**We reviewen in deze codereview Temperature van PDP.**
+**We reviewen in deze codereview Temperature van PDP.** Studenten die alleen ML1 doen kunnen hier meekijken met andere studenten, maar hoeven dat niet te doen.
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
@@ -85,9 +85,9 @@ Al deze elementen zijn in eerdere modules uitgelegd en zouden bekend moeten zijn
 
 Doel: Studenten begrijpen hoe functies aan andere functies meegegeven kunnen worden, en hebben hiermee een extra instrument om gedupliceerde code te vermeiden.
 
-De studenten hebben net een code review gedaan van temperature, en de functies uit die opgave zitten als het goed is vers in het geheugen. In deze kleine demo/discussie laat je ze zien hoe je `get_lowest_temp()` en `get_highest_temp()` (die erg op elkaar lijken) versimpelt. [Op deze hulppagina](/week_5/duplicate-code/) vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
+De studenten hebben net een code review gedaan van temperature, en de functies uit die opgave zitten als het goed is vers in het geheugen. In deze kleine demo/discussie laat je ze zien hoe je `get_lowest_temp()` en `get_highest_temp()` (die erg op elkaar lijken) versimpelt. [Op deze hulppagina](duplicate-code/) vind je informatie over verschillende manieren om duplicate code in temperature te voorkomen. Gebruik deze informatie om de studenten uitleg te geven over dit aspect van design.
 
-> Als je gezien hebt dat je studenten veel gebruik gemaakt hebben van de functie `.index()` kan je ook het optionele gedeelte hierover ([op dezelfde pagina](/week_5/duplicate-code/)) behandelen.
+> Als je gezien hebt dat je studenten veel gebruik gemaakt hebben van de functie `.index()` kan je ook het optionele gedeelte hierover ([op dezelfde pagina](duplicate-code/)) behandelen.
 
 ## Administratie
 

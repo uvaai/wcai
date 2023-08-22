@@ -127,7 +127,7 @@ Laat de studenten zo veel mogelijk aanwijzen welke elementen van het programma b
 
 ### Code review module 2 (30 minuten)
 
-**We reviewen in deze codereview heel module 2 van PDP.**
+**We reviewen in deze codereview heel module 2 van PDP.** Studenten die alleen ML1 volgen kunnen de code review doen voor de K-NN notebook.
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 

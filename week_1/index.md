@@ -31,7 +31,7 @@ Benadruk hierna nog een keer hoe we de communicatie aanpakken. Korte samenvattin
 - **Slack:** Ziekmeldingen, communicatie andere studenten, algemene vragen over het vak
 - **Mail:** persoonlijke-/uitzonderingsvragen
 - **Assistentie:** hulpvragen over de opdracht
-- **Site:** Aanvragen late days
+- **Site:** Aanvragen late days + extra assistentie
 
 ### Kennismaking (15--20 minuten)
 
@@ -48,23 +48,15 @@ Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt
 
 ⚠️ Zorg dat je iedereen stimuleert alle vragen te beantwoorden, ook als ze iets vergeten. Zo signaleer je meteen dat <u>iedereen</u> moet bijdragen aan de werkgroep.
 
-### Morning meetings (5 minuten)
+### Samenwerken, plagiaat, en fraude (5 minuten)
 
-Doel: De morning meetings zorgen voor een vast begin van de dag, brengen de communicatie tussen de studenten op gang, en zorgen ervoor dat de assistentie efficiënter verloopt.
+Doel: De studenten bewust maken van de regels rondom plagiaat en fraude zoals in de syllabus, en wat extra context geven voor hoe je op een nuttige manier kunt samenwerken of helpen.
 
 🧑‍🏫 Uitleg aan studenten
 
-Voordat assistentie begint komen de studenten bijeen voor een meeting. Dit doen ze al vanaf morgen, en duurt ongeveer twintig minuten (met koffie/thee). Ze bespreken bijvoorbeeld:
+Leg uit dat samenwerken bij onze vakken toegestaan is, maar dat alles wat je inlevert van jezelf moet zijn. Overleggen over de stof, of samen een aanpak voor een probleem _bedenken_ vallen onder een correcte manier van samenwerken; het is prima als het om ideeën gaat, niet als het over regels code gaat. Het delen van code, of samen _ontwerpen/opstellen/uitwerken_ van (pseudo)code mag niet. Dit laatste ontneemt tenminste één persoon in de samenwerking van het leermoment en oefening. In een gezonde samenwerking kijk je eigenlijk niet op elkaars scherm, en ben je alleen bezig op een whiteboard of op papier. Je kunt ook nog verwijzen naar het stuk over academic honesty in de syllabus.
 
-  - Hoe is het gisteren gegaan
-  - Wat is het doel voor vandaag
-  - Zijn er anderen met dezelfde vragen
-
-Leg uit dat de bedoeling hier echt is om ervoor te zorgen dat de groep van elkaar weet waar in de planning iedereen is, en ze vragen onderling kunnen oplossen. Hierdoor verloopt de assistentie een stuk efficiënter; als een aantal studenten er samen ook niet uitkomen, of alsnog vragen hebben, kunnen die tegelijkertijd behandeld worden. Deze meetings zijn niet verplicht voor de studenten, maar aanwezigheid is aan te raden!
-
-Zorg ervoor dat de studenten een vast moment afspreken om dit te gaan doen (bijvoorbeeld 9:00, 9:15, of 9:30). De studenten mogen zelf inrichten hoe ze de sessies aanpakken.
-
-Leg ook uit dat samenwerken bij onze vakken toegestaan is. Overleggen over de stof, of samen een aanpak voor een probleem _bedenken_ vallen hieronder. Het is prima als het om ideeën gaat, niet als het over regels code gaat. Het delen van code, of samen _ontwerpen/opstellen/uitwerken_ van (pseudo)code niet.  Dit laatste ontneemt tenminste één persoon in de samenwerking van het leermoment en oefening. In een gezonde samenwerking kijk je eigenlijk niet op elkaars scherm, en ben je alleen bezig op een whiteboard. Je kunt ook nog verwijzen naar het stuk over academic honesty in de syllabus.
+Het gebruik van online tools of oplossingen is niet toegestaan. Ook wanneer je ChatGPT gebruikt om bugs op te lossen ontneem je jezelf een leermoment. Ook is dit net als overnemen van een oplossing van een ander persoon fraude of plagiaat.
 
 Leg ten slotte uit dat alles wat ingeleverd wordt door de studenten door onze plagiaatdetectie heen gaat. Deze plagiaatdetectie werkt goed op code en kan erg makkelijk detecteren wanneer code (zo goed als) van elkaar overgenomen is. Wanneer er plagiaat gedetecteerd wordt, krijgen alle betrokken studenten een 1 voor die module. Bij ernstige gevallen nemen we ook contact op met de examencomissie.
 

@@ -4,6 +4,8 @@ Dit werkcollege staat in het teken van kennismaking!
 
 Voor het werkcollege neem je dit document goed door, zodat je een beeld hebt van wat je gaat behandelen. Zorg dat je een Slack hebt aangemaakt via <https://slack.com/get-started#/create>. Deze gebruik je voor informeel contact met je mentorgroep.
 
+De [slides](https://docs.google.com/presentation/d/16-g7_HKhTdL_d4p34TDdevT_GzT45p7F3ggYsLXyizA/edit?usp=drive_link) van deze week.
+
 > Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd, *in het lokaal waarin het werkcollege geroosterd is*, aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel. Vergeet niet om halverwege even een korte pauze in te lassen!
 
 ### Wat doet een mentor (5--10 minuten)
@@ -37,7 +39,7 @@ Benadruk hierna nog een keer hoe we de communicatie aanpakken. Korte samenvattin
 
 Doel: je studenten goed leren kennen maar ook zorgen dat zij wat van elkaar afweten!
 
-Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt op Basecamp bij "Docs & Files" in de file van jouw werkcollege. De notities zijn vooral voor jezelf nu, maar dit kan later relevant worden als studenten achter gaan lopen.    
+Maak tijdens de kennismaking voor iedere student wat notities. Deze kun je kwijt op Basecamp bij "Docs & Files" in de file van jouw werkcollege. De notities zijn vooral voor jezelf nu, maar dit kan later relevant worden als studenten achter gaan lopen.
 
 👩‍👧‍👦 Jij laat elke student om de beurt even vertellen:
 

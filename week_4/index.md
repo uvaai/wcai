@@ -2,6 +2,8 @@
 
 We bespreken de afgelopen week. Daana gaan we, met een korte pauze ertussen, twee code reviews doen. De eerste gaat over football analysis, waarin de focus ligt op het herschrijven en opdelen van de code. In de tweede code-review, over Temperature, gaat het over alle tot nu toe behandelde design en style-aspecten. De feedback hieruit kunnen de studenten meenemen voor module 4.
 
+De [slides](https://docs.google.com/presentation/d/133YaZvgRkFLStt4zGnrCSD4h_GFBP0DgCSo2KPvHZbU/edit?usp=drive_link) van deze week.
+
 ### Terugblik (15 minuten)
 
 Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. We bespreken hier openlijk hoe het gaat. Zeg tegen je studenten dat klagen ook OK is, dat kan hier heel goed een onderdeel van zijn, en zeg dat je goed zult luisteren en noteren (beloof niet dat je er iets mee gaat doen! Het gaat vooral om luisteren, bespreekbaar maken en het totaalbeeld). Hier kan je ook de open vragen van Machine Learning extra bespreken.

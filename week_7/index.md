@@ -1,6 +1,8 @@
 ## Werkcollege week 7
 
-Het laatste werkcollege voor het tentamen, maar tegelijkertijd ook direct het laatste werkcollege van dit blok! We bespreken kort het tentamen, benadrukken de belangrijkheid van het oefenen van Numpy en het gebruik van API's (dit komt in de vervolgcursussen heel vaak voor). 
+Het laatste werkcollege voor het tentamen, maar tegelijkertijd ook direct het laatste werkcollege van dit blok! We bespreken kort het tentamen, benadrukken de belangrijkheid van het oefenen van Numpy en het gebruik van API's (dit komt in de vervolgcursussen heel vaak voor).
+
+De [slides](https://docs.google.com/presentation/d/1hTEqyrhTCmdaNTxbZUcSslVFBv-AkezMKqCS_a-FKjU/edit?usp=drive_link) van deze week.
 
 ### Terugblik (15 minuten)
 

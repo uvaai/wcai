@@ -2,6 +2,8 @@
 
 Omdat dit werkcollege erg dicht op de deadline van module 4 plaatsvindt, is er veel ruimte gemaakt voor extra persoonlijke hulp. Het centrale onderdeel is een discussie over de Chinese room.
 
+De [slides](https://docs.google.com/presentation/d/1EMnOGcnrx81BPSfEpx6hoTj6kCesoPoV_yDb8Y1cckI/edit?usp=drive_link) van deze week.
+
 ### Terugblik (15 minuten)
 
 Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. We bespreken hier openlijk hoe het gaat. Zeg tegen je studenten dat klagen ook OK is, dat kan hier heel goed een onderdeel van zijn, en zeg dat je goed zult luisteren en noteren (beloof niet dat je er iets mee gaat doen! Het gaat vooral om luisteren, bespreekbaar maken en het totaalbeeld). Hier kan je ook de open vragen van Machine Learning extra bespreken.

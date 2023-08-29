@@ -4,6 +4,8 @@ Vanaf deze week zullen de studenten ook beoordeeld worden op het design en de st
 
 Je hebt vorige week **feedback** gegeven, daarover zul je wel wat vragen krijgen. Als studenten hun eigen specifieke feedback willen bespreken kan dit aan het einde van de werkgroep. ("Kunnen we dat aan het einde van de werkgroep even bespreken?").
 
+De [slides](https://docs.google.com/presentation/d/1TNfdIy2hgpLxPuryRfyMwINHC0jDLjs0_BGo3McFqeg/edit?usp=drive_link) van deze week.
+
 ⚠️ Vergeet niet om nog een laatste keer te melden dat er vanaf module 3 ook echt beoordeeld wordt op design en style!
 
 ### Terugblik (15 minuten)

@@ -2,6 +2,8 @@
 
 In dit werkcollege behandelen we de oefenvragen over complexiteit uit PDP. Dit is een lastig concept dat de basis vormt voor het begrip van designkeuzes die de studenten in toekomstige opdrachten zullen moeten maken. Neem de tijd en bereid dit goed voor. Daarna volgt een discussie over AlphaGo. Omdat dit werkcollege erg dicht op de deadline van module 5 plaatsvindt, is er veel ruimte gemaakt voor extra persoonlijke hulp.
 
+De [slides](https://docs.google.com/presentation/d/1aQa7E6OCk3zAhlxITHXf9q2HsC0Fk5eiGzHYBQ_xTzI/edit?usp=drive_link) van deze week.
+
 ### Terugblik (15 minuten)
 
 Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. We bespreken hier openlijk hoe het gaat. Zeg tegen je studenten dat klagen ook OK is, dat kan hier heel goed een onderdeel van zijn, en zeg dat je goed zult luisteren en noteren (beloof niet dat je er iets mee gaat doen! Het gaat vooral om luisteren, bespreekbaar maken en het totaalbeeld). Hier kan je ook de open vragen van Machine Learning extra bespreken.

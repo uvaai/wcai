@@ -2,6 +2,8 @@
 
 In dit werkcollege ga je voor het eerst een written bespreken. Daar krijg je hieronder wat uitleg over. Ook doen we een oefening voor het omzetten van formules naar code. Dit komt bij Roots en Riemann terug, en helpt de studenten om een formule systematisch te ontleden.
 
+De [slides](https://docs.google.com/presentation/d/1jO4d1dwPkmZiIMlHG0X4YXCQ9QkRvpFwrZQnft_pZRw/edit?usp=drive_link) van deze week.
+
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen. Aan de Machine Learning kant zijn deze week de open vragen interessant, en aan de Python kant is dit style.
 
 ### Terugblik (15 minuten)

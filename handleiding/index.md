@@ -40,6 +40,7 @@ _Fall 2023:_ Dit semester zijn er een aantal grotere veranderingen, onder andere
 - Assistentie vind dit semester plaats van 10-12 en 13-15. Aanwezigheid controle - en dus ook het wegsturen van studenten - gebeurt voor de middaggroep direct na 13. Bij de ochtendgroep mag het overal in het tijdvak gebeuren.
 - Er is dit semester geen Q&A meer. In plaats hiervan zijn er Office Hours, waarbij de examinator aanwezig is om (moeilijke) vragen over de theorie te beantwoorden, en eventueel voor groepen studenten uitleg te bieden over ingewikkelde onderwerpen. Deze Office Hours overlappen met de assistentie. Vragen voor de examinator worden door de student gemarkeerd met "[00]" en hoef je als TA dus niet te beantwoorden.
 - Er is een kleine verandering aan de manier waarop schrijfopdrachten worden nagekeken. Lees hiervoor de nieuwe grading tabel in de syllabus van ML1 of ML2.
+- Er is voor iedere week [slides](https://drive.google.com/drive/folders/17epI_lqCD2R-MtKbjahmdVauumfOwv1v?usp=drive_link) beschikbaar met de informatie van die week. Deze zijn handig voor het overzicht tijdens de werkcolleges.
 
 # 1 De Minor AI
 

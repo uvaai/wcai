@@ -29,7 +29,7 @@ Doorloop samen met de studenten de vragen één voor één. Hierbij laat je de s
 #### Part 1
 
 Q1: $$\mathcal{O}(n)$$
-Er is een linear verband tussen de grootte van $$n$$ en de stappen in de code. Er is één for-loop, waarvan de inhoud altijd exact `n` keer herhaald wordt. De inhoud van de loop blijft constant en is niet afhankelijk van de grootte van de input. Er zijn geen andere operaties die afhankelijk zijn van de grootte van de input.
+Er is een lineair verband tussen de grootte van $$n$$ en de stappen in de code. Er is één for-loop, waarvan de inhoud altijd exact `n` keer herhaald wordt. De inhoud van de loop blijft constant en is niet afhankelijk van de grootte van de input. Er zijn geen andere operaties die afhankelijk zijn van de grootte van de input.
 
 Q2: $$\mathcal{O}(1)$$
 De complexiteit is onafhankelijk van de input. Hoe groot `n` ook wordt, de code voert een constante hoeveelheid (10) 'stappen' uit. De inhoud van de loop blijft constant en is niet afhankelijk van de grootte van de input.
@@ -38,7 +38,7 @@ Q3: $$\mathcal{O}(n^2)$$
 Er is hier sprake van een kwadratische relatie tussen de lengte van de input en de complexiteit. De inhoud van de buitenste for-loop wordt `n` keer uitgevoerd. Hieronder valt ook de binnenste for-loop die zelf ook nog eens zijn inhoud `n` keer uitgevoerd wordt. In totaal wordt de binnenkant dus `n^2` keer uitgevoerd.
 
 Q4: $$\mathcal{O}(n)$$
-Er is een linear verband tussen de grootte van `n` en de stappen in de code. De inhoud van de loop wordt altijd `3*n` keer herhaald; het aantal stappen stijgt bij vergroting van `n` een vaste hoeveelheid (3 per toename van 1 op `n`). Na versimpeling verdwijnt de `3`. (zie ook de uitleg hierboven)
+Er is een lineair verband tussen de grootte van `n` en de stappen in de code. De inhoud van de loop wordt altijd `3*n` keer herhaald; het aantal stappen stijgt bij vergroting van `n` een vaste hoeveelheid (3 per toename van 1 op `n`). Na versimpeling verdwijnt de `3`. (zie ook de uitleg hierboven)
 
 #### Part 2
 

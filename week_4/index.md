@@ -21,7 +21,7 @@ Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussi�
 
 De meeste studenten zullen zo dicht op de deadline bijna klaar zijn met de opgaven. Goed moment om nog een keer naar wat onderdelen te kijken. We bespreken de oefening/opdracht football analysis waarbij de studenten code kregen van matig ontwerp die ze aan moesten passen naar een beter ontwerp.
 
-- Je hebt net al wat uitleg gegeven over de aspecten (hierboven bij Design benoemd, met hieronder wat specifieke toevoegingen).
+- Je hebt net al wat uitleg gegeven over de aspecten (vorige week bij Design benoemd, met hieronder wat specifieke toevoegingen).
 - We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn. Zorg ervoor dat je andere tweetallen maakt dan de vorige keer.
 - Studenten werken samen, hardop denkend, achter één computer met de code die op dat moment gereviewd wordt. Als dit klaar is, wisselen ze naar de volgende computer voor het stuk code van de ander.
 - (5 minuten) We beginnen met een klassikaal deel over de opgave waarover de code review gaat:

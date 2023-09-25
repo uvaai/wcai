@@ -19,7 +19,7 @@ Laat iedereen even vertellen hoe het ging, waar het knelde en of het gelukt is. 
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
-De meeste studenten zullen zo dicht op de deadline bijna klaar zijn met de opgaven. Goed moment om nog een keer naar wat onderdelen te kijken. We bespreken de oefening/opdracht football analysis waarbij de studenten code kregen van matig ontwerp die ze aan moesten passen naar een beter ontwerp.
+We bespreken de oefening/opdracht football analysis waarbij de studenten code kregen van matig ontwerp die ze aan moesten passen naar een beter ontwerp.
 
 - Je hebt net al wat uitleg gegeven over de aspecten (vorige week bij Design benoemd, met hieronder wat specifieke toevoegingen).
 - We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn. Zorg ervoor dat je andere tweetallen maakt dan de vorige keer.

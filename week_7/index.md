@@ -43,7 +43,7 @@ Doel: Duidelijkheid over het verloop van het tentamens voor PDP en ML, en ook de
 Voor PDP bestaat het tentamen uit een reeks kleine programmeeropgaven gebaseerd op de modules uit het vak. De studenten krijgen 2.5 uur de tijd om de problemen uit te werken _op hun eigen laptop_ en mogen tijdens het tentamen gebruik maken van pdp.proglab.nl.
 
 - Er is een overzichtspagina met alle belangrijke onderdelen van de cursus: <https://pdp.proglab.nl/exam>
-- Het is niet toegestaan andere bronnen te gebruiken dan onze website.
+- Het is niet toegestaan andere bronnen te gebruiken dan onze website en de code die geschreven is voor PDP.
 - Er is geen gelegenheid tot assistentie tijdens het tentamen.
 - De code zal niet beoordeeld worden op design of style, maar alleen op correctheid.
 - Voorbeeldcode met voorbeeldoutput wordt gegeven.

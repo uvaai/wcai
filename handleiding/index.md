@@ -2,9 +2,9 @@
 
 # Assistentenhandboek Minor AI
 
-## <small>Algemeen<br>Herfst 2023</small>
+## <small>Algemeen<br>Herfst 2024</small>
 
-<small>De eerste versie van het assistentenhandboek is gemaakt in 2022 door Wouter Vrielink. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
+<small>De eerste versie van het assistentenhandboek is gemaakt in 2022 door Wouter Vrielink en wordt jaarlijks geüpdatet. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
 
 </header>
 
@@ -18,7 +18,7 @@ Voor jou als assistent is deze handleiding met daarin allerlei praktische inform
 
 P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator.
 
-<span style="font-size:2rem; float:left; margin-right: 0.5rem;">💁</span> Tip: praat regelmatig met ervaren assistenten en de docenten! We vinden het allemaal leuk om te helpen, niet alleen studenten maar ook collega’s!
+<span style="font-size:2rem; float:left; margin-right: 0.5rem;">💁</span> Tip: praat regelmatig met ervaren assistenten en de docenten! We vinden het allemaal leuk om te helpen, niet alleen studenten, maar ook collega’s!
 
 <style>
     * { hyphens: auto; -webkit-hyphens: auto; }
@@ -28,19 +28,22 @@ P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator
 
 Voor assistenten die er vorig jaar/semester bij waren, maar ook voor oud-studenten die nieuw komen assisteren.
 
-_Fall 2022:_ Vanaf dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
+_Fall 2024:_ Dit semester delen we de studenten op in twee groepen: studenten die de hele minor parttime of fulltime volgen, en elective studenten. Voor de studenten die de hele minor volgen is aanwezigheid verplicht (zie onderstaande toevoeging uit spring 2024). De elective studenten zijn een nieuwe groep; dit zijn studenten die losse vakken uit de minor volgen (vooral ML1 en ML2). De voertaal voor deze groep is Engels, is er geen werkcollege, en aanwezigheid is niet verplicht. Deze studenten mogen ongeveer twee keer per week aansluiten bij de reguliere assistentie op maandag t/m donderdag.
+
+_Spring 2024:_ Vanaf dit semester is aanwezigheid weer verplicht. Aanwezigheid wordt ergens tussen een kwartier en een half uur na de start van assistentie opgenomen, en ook bij de werkcolleges. Op deze manier zijn er iedere week 6 momenten waarop dit wordt gedaan, waarvan verwacht wordt dat fulltime studenten er 4 aanwezig zijn. Parttime studenten moeten 2 van de momenten aanwezig zijn. Aanwezigheid kan ingehaald worden in een volgende week, en niet voldoen aan de aanwezigheidsplicht resulteert in het niet halen van de vakken.
+
+<del>
+_Fall 2023:_ Dit semester zijn er een aantal grotere veranderingen, onder andere vanwege de grote hoeveelheid studenten. De details van deze veranderingen worden verderop in dit document, maar ook in de syllabi van de vakken, besproken.:
+
+- Naast fulltime studenten laten dit semester ook studenten die de minor parttime of gedeeltelijk (één of twee vakken) willen volgen toe. Parttime studenten volgen hun eerste semester alleen PDP en DPR, en hun tweede semester ML1, ML2, en AH. Bij werkcollegeonderdelen die bedoeld zijn voor één specifiek vak hoeven studenten die alleen het andere vak volgen niet mee te doen, en mogen ze zelfstandig werken. Dit zijn voornamelijk de discussies over de schrijfopdrachten, aangezien de design en code-review onderdelen voor alle vakken nuttig zijn.
+- Aanwezigheid is niet verplicht, maar wordt wel gecontroleerd. Dit gebeurt door middel van een online spreadsheet.
+- Er is dit semester geen Q&A meer. In plaats hiervan zijn er Office Hours, waarbij in ieder geval één van de docenten aanwezig is om (moeilijke) vragen over de theorie te beantwoorden, en eventueel voor groepen studenten uitleg te bieden over ingewikkelde onderwerpen. Deze Office Hours overlappen met de assistentie. Vragen voor de examinator worden door de student gemarkeerd met "[00]" en hoef je als TA dus niet te beantwoorden.
+- Er is vanaf nu voor iedere week een set [slides](https://drive.google.com/drive/folders/17epI_lqCD2R-MtKbjahmdVauumfOwv1v?usp=drive_link) beschikbaar met de informatie van die week. (Dankjewel Jip ;) ) Deze zijn handig voor het overzicht tijdens de werkcolleges.
 
 _Spring 2023:_ Vanaf dit semester vragen studenten zelf late-days aan op de site. Deze worden dus **niet** via Slack aangevraagd! Verder is de werking niet veranderd. We hebben ook ruimte gemaakt voor sick-days in het schema. Dit zijn twee dagen helemaal aan het einde van het blok. Studenten kunnen bij lange periodes van ziekte uitstel krijgen op al hun deadlines. De deadlines schuiven dan _allemaal_ twee dagen op voor deze studenten. Dit staat niet expliciet vermeld in de syllabus en valt onder "algemene uitzonderingen". Deze vorm van uitstel kan alleen via de docenten geregeld worden.
 
-_Fall 2023:_ Dit semester zijn er een aantal grotere veranderingen, onder andere vanwege de grote hoeveelheid studenten. De details van deze veranderingen worden verderop in dit document, maar ook in de syllabi van de vakken, besproken.:
-
-- Naast fulltime studenten laten dit semester ook studenten die de minor parttime of gedeeltelijk (één of twee vakken) willen volgen toe. Parttime studenten volgen hun eerste semester alleen PDP en DPR, en hun tweede semester ML1, ML2, en AH. Wanneer een student de minor parttime of gedeeltelijk volgt, wordt deze toegewezen aan een mentor en is de student verplicht aanwezig bij de werkcolleges. Bij werkcollegeonderdelen die bedoeld zijn voor één specifiek vak hoeven studenten die alleen het andere vak volgen niet mee te doen, en mogen ze zelfstandig werken. Dit zijn voornamelijk de discussies over de schrijfopdrachten, aangezien de design en code-review onderdelen voor alle vakken nuttig zijn.
-- We werken met twee groepen, waarvan er 's ochtends van 9 tot 13 één aanwezig is, en 's middags van 13 tot 17 de ander. Studenten worden gevraagd alleen aanwezig te zijn wanneer hun groep ingeroosterd staat. De groepen wisselen door de week volgens een schema af, zodat dezelfde groep soms 's ochtends, en soms 's middags aanwezig moet zijn (zie voor meer details de syllabi op de webpagina's van onze vakken). Aanwezigheid is niet verplicht, maar wordt wel gecontroleerd. Dit gebeurt door middel van een online spreadsheet. Om 1 uur wisselen de groepen, wat betekent dat studenten die bij de ochtendgroep horen het lokaal _moeten_ verlaten. Er is mogelijkheid tot uitzondering voor studenten die extra hulp nodig hebben. Dit gebeurt op aanvraag via de website. Deze uitzondering kan uitsluitend door de coördinator verleend worden.
-- Zoals hierboven beschreven is de aanwezigheidsplicht geschrapt. Wel wordt van studenten verwacht dat ze aanwezig zijn als ze het nodig hebben. De secundaire rol van de aanwezigheid controle is dan ook dat we een overzicht hebben van hoe veel tijd een student in het vak steekt.
-- Assistentie vind dit semester plaats van 10-12 en 13-15. Aanwezigheid controle - en dus ook het wegsturen van studenten - gebeurt voor de middaggroep direct na 13. Bij de ochtendgroep mag het overal in het tijdvak gebeuren.
-- Er is dit semester geen Q&A meer. In plaats hiervan zijn er Office Hours, waarbij de examinator aanwezig is om (moeilijke) vragen over de theorie te beantwoorden, en eventueel voor groepen studenten uitleg te bieden over ingewikkelde onderwerpen. Deze Office Hours overlappen met de assistentie. Vragen voor de examinator worden door de student gemarkeerd met "[00]" en hoef je als TA dus niet te beantwoorden.
-- Er is een kleine verandering aan de manier waarop schrijfopdrachten worden nagekeken. Lees hiervoor de nieuwe grading tabel in de syllabus van ML1 of ML2.
-- Er is voor iedere week [slides](https://drive.google.com/drive/folders/17epI_lqCD2R-MtKbjahmdVauumfOwv1v?usp=drive_link) beschikbaar met de informatie van die week. Deze zijn handig voor het overzicht tijdens de werkcolleges.
+_Fall 2022:_ Vanaf dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
+</del>
 
 # 1 De Minor AI
 
@@ -100,8 +103,8 @@ Hieronder vind je een uitgebreid overzicht van de modules per vak.
   2. Vervolg OOP
   3. Transformation part one
   4. Transformation part two
-  5. 🆕 Where's Waldo?
-  6. 🆕 Vervolg Where's Waldo?
+  5. 🆕 TBD
+  6. 🆕 Vervolg TBD
   {: start="1"}
 
 Het programma voor DPR staat nog niet vast.
@@ -115,8 +118,6 @@ Het programma voor DPR staat nog niet vast.
   5. Convolutional Neural Networks + Software 2.0
   6. Deep Learning + Understanding AI Systems
   {: start="1"}
-
-<!-- TODO Aanpassen naar nieuwe writtens? -->
 
 - **Algoritmen en Heuristieken**
 
@@ -132,7 +133,6 @@ Werkcolleges vinden wekelijks plaats en worden georganiseerd door mentoren (zie 
 
 Voor ieder werkcollege staat twee uur ingeroosterd. Vaak zullen de geplande onderdelen niet de volle twee uur opnemen. Wanneer er tijd over is besteed je deze tijd, *in het lokaal waarin het werkcollege geroosterd is*, aan het helpen van je studenten. Zie dit als een soort extra persoonlijke assistentie-uren. Dit is ook *het* moment waarop je feedback op de opdrachten kan bespreken met je studenten; dat kan klassikaal, of individueel.
 
-
 > Bereid je voor op elk werkcollege door even snel naar de ingeleverde opgaves te kijken. Vaak kan je aan het ingeleverde werk van de studenten al zien wat ze moeilijk vinden. Hier kan je tijdens de wekelijkse terugblik dan aan refereren, of gerichte vragen over stellen.
 
 Tijdens de werkcolleges maak je ook notities over de studenten. Je houdt een logboek bij voor iedere student in je mentorgroep. Hierin noteer je informatie als studie, programmeerervaring, baan, heeft het moeilijk/makkelijk, maar ook maak je een notitie over hoe het gaat met een persoon. Deze update je (als het nodig is) iedere week, zodat we een goed beeld kunnen krijgen van hoe het met iedereen gaat. In deze file wordt ook door de coördinator genoteerd of er sprake is van uitzonderingen. Hierover volgt later in dit document meer informatie.
@@ -141,9 +141,7 @@ Tijdens de werkcolleges maak je ook notities over de studenten. Je houdt een log
 
 ## 2.2 Practica
 
-Voor studenten is een werkplek gereserveerd gedurende de practicumuren. Het practucum is een plek voor de studenten om bij elkaar te komen, elkaar te helpen, en samen aan de opdrachten te werken. Vanwege de grote hoeveelheid studenten werken we met een ochtend- en een middaggroep. De groepen wisselen door de week volgens een schema zoals beschreven in de syllabi af, zodat dezelfde groep soms 's ochtends, en soms 's middags aanwezig kan zijn. Studenten mogen alleen aanwezig zijn wanneer hun groep ingeroosterd staat. Effectief kunnen studenten dus iedere dag 4 uur aanwezig zijn in ons lokaal.
-
-Er is mogelijkheid tot uitzondering voor studenten die extra hulp nodig hebben. Dit gebeurt op aanvraag via de website. Deze uitzondering kan uitsluitend door de coördinator verleend worden.
+Voor studenten is een werkplek gereserveerd gedurende de practicumuren. Het practicum is een plek voor de studenten om bij elkaar te komen, elkaar te helpen, en samen aan de opdrachten te werken. Ons lokaal is de hele dag beschikbaar voor de studenten.
 
 ## 2.3 Assistentie
 
@@ -163,8 +161,8 @@ De **examinator** heeft het totaaloverzicht over hoe de cursus in elkaar zit en 
 
 In principe nemen we alle assistenten voor 8, 10, of 12 uur per week aan. Deze tijd is verdeeld over de verschillende taken van de assistent.
 
-- Een assistent assisteert 4 of 6 uur per week
-- Een assistent geeft iedere week een werkcollege van 2 uur
+- Een assistent assisteert 2 of 3 keer 2.5u per week
+- Een assistent geeft iedere week een werkcollege van 2 uur (electives assistenten uitgezonderd)
 - Een assistent kijkt modules na van alle studenten in de mentorgroep. Hiervoor krijgt de assistent 30 minuten per gecombineerde module, of 15 minuten voor één module. Dit bestaat uit het programmeerwerk voor het Python vak, en het programmeerwerk en de written voor het Machine Learning vak voor één module.
 - De resterende tijd in de week gaat naar voorbereiding en communicatie met studenten.
 

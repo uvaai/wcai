@@ -34,14 +34,20 @@ _Spring 2024:_ Vanaf dit semester is aanwezigheid weer verplicht. Aanwezigheid w
 
 <del>
 _Fall 2023:_ Dit semester zijn er een aantal grotere veranderingen, onder andere vanwege de grote hoeveelheid studenten. De details van deze veranderingen worden verderop in dit document, maar ook in de syllabi van de vakken, besproken.:
+</del>
 
+<del>
 - Naast fulltime studenten laten dit semester ook studenten die de minor parttime of gedeeltelijk (één of twee vakken) willen volgen toe. Parttime studenten volgen hun eerste semester alleen PDP en DPR, en hun tweede semester ML1, ML2, en AH. Bij werkcollegeonderdelen die bedoeld zijn voor één specifiek vak hoeven studenten die alleen het andere vak volgen niet mee te doen, en mogen ze zelfstandig werken. Dit zijn voornamelijk de discussies over de schrijfopdrachten, aangezien de design en code-review onderdelen voor alle vakken nuttig zijn.
 - Aanwezigheid is niet verplicht, maar wordt wel gecontroleerd. Dit gebeurt door middel van een online spreadsheet.
 - Er is dit semester geen Q&A meer. In plaats hiervan zijn er Office Hours, waarbij in ieder geval één van de docenten aanwezig is om (moeilijke) vragen over de theorie te beantwoorden, en eventueel voor groepen studenten uitleg te bieden over ingewikkelde onderwerpen. Deze Office Hours overlappen met de assistentie. Vragen voor de examinator worden door de student gemarkeerd met "[00]" en hoef je als TA dus niet te beantwoorden.
 - Er is vanaf nu voor iedere week een set [slides](https://drive.google.com/drive/folders/17epI_lqCD2R-MtKbjahmdVauumfOwv1v?usp=drive_link) beschikbaar met de informatie van die week. (Dankjewel Jip ;) ) Deze zijn handig voor het overzicht tijdens de werkcolleges.
+</del>
 
+<del>
 _Spring 2023:_ Vanaf dit semester vragen studenten zelf late-days aan op de site. Deze worden dus **niet** via Slack aangevraagd! Verder is de werking niet veranderd. We hebben ook ruimte gemaakt voor sick-days in het schema. Dit zijn twee dagen helemaal aan het einde van het blok. Studenten kunnen bij lange periodes van ziekte uitstel krijgen op al hun deadlines. De deadlines schuiven dan _allemaal_ twee dagen op voor deze studenten. Dit staat niet expliciet vermeld in de syllabus en valt onder "algemene uitzonderingen". Deze vorm van uitstel kan alleen via de docenten geregeld worden.
+</del>
 
+<del>
 _Fall 2022:_ Vanaf dit semester zijn er geen hoorcolleges. Een van de rollen van de hoorcolleges in eerdere versies van de minor was om aanvulling te geven aan de stof waar deze nog niet volledig was. In de voorbereiding voor dit semester is deze informatie verplaatst naar de opdrachten, filmpjes, en (ook nieuw!) werkcolleges. Om de studenten toch mogelijkheid te geven om vragen te stellen is er iedere woensdag een Q&A.
 </del>
 

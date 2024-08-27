@@ -443,17 +443,13 @@ Wanneer er geen vragen zijn, krijg je het scherm hieronder te zien.
 
 ## 6.6 Aanwezigheid opnemen
 
-Voor de studenten geld **geen** aanwezigheidsplicht. We verwachten wel dat ze iedere dag zo veel mogelijk op de campus aanwezig zijn. We dwingen dit niet af met constante controles en er zijn ook geen "straffen" voor studenten die niet aanwezig zijn. Indirect is de straf dat ze door niet aanwezig te zijn geen vragen kunnen stellen en ze dus vaker en sneller vast zullen komen te zitten.
+Voor de fulltime en parttime studenten geld een aanwezigheidsplicht. Voor de elective studenten niet. We verwachten dat studenten iedere dag zo veel mogelijk op de campus aanwezig zijn. De consequenties voor het niet behalen van aanwezigheid wanneer deze verplicht is staan in de syllabi.
 
-We nemen tijdens de assistentie wel aanwezigheid op. We hebben niet genoeg plek voor alle studenten, dus mag niet iedereen op ieder moment zomaar in het lokaal zijn. Daarnaast geeft het opnemen van de aanwezigheid ons (de coördinator en examinator) een indicatie voor de moeite die studenten in het vak stoppen. Wanneer een student om extra uitstel of een uitzondering vraagt nemen we dit mee in onze beslissing. Bij een student die eigenlijk altijd aanwezig is zullen we eerder geneigd zijn om een uitzondering te geven.
+Tijdens het assisteren wordt de aanwezigheid opgenomen door de TAs die op dat moment assisteren. Deze overleggen samen wie het doet, en regelen dat dit gebeurt 15 minuten na de start van de assistentie. Het doel van het controleren van de aanwezigheid is om een steekproef te nemen; het is dus niet erg als je een persoon per ongeluk mist omdat diegene naar de wc is of iets dergelijks (deze kan je later ook nog toevoegen). Je hoeft geen rekening te houden met mensen die ziek zijn, dat doet de coördinator.
 
-Tijdens het assisteren wordt de aanwezigheid opgenomen door de TAs die op dat moment assisteren. Deze overleggen samen wie het doet, en wanneer tijdens de assistentie. Voor de middagassistentie geldt dat dit altijd zo snel mogelijk na 1 uur moet gebeuren. Het doel van het controleren van de aanwezigheid is om een steekproef te nemen; het is dus niet erg als je een persoon per ongeluk mist omdat diegene naar de wc is of iets dergelijks. Je hoeft hierbij ook geen rekening te houden met mensen die ziek zijn.
+Aangeven van aanwezigheid doe je via de sheet die hiervoor beschikbaar is op Basecamp. Je kunt de sheet vinden onder Docs & Files. Studenten die aanwezig mogen zijn hebben een groen vakje achter hun naam. Studenten die niet aanwezig zijn hoef je niets voor neer te zetten. Als iemand binnen komt lopen nadat je de aanwezigheid hebt opgenomen hoef je deze persoon niet alsnog aan te kruisen in de sheet.
 
-Aangeven van aanwezigheid doe je via de sheet die hiervoor beschikbaar is op Basecamp. Je kunt de sheet vinden onder Docs & Files. Studenten die aanwezig mogen zijn hebben een groen vakje achter hun naam. Studenten die niet aanwezig _horen_ te zijn stuur je weg. Vink studenten die aanwezig zijn af. Studenten die niet aanwezig zijn hoef je niets voor neer te zetten. Als iemand binnen komt lopen nadat je de aanwezigheid hebt opgenomen hoef je deze persoon niet alsnog aan te kruisen in de sheet.
-
-Er is een mogelijkheid voor studenten om een uitzondering aan te vragen voor extra assistentie. Wanneer ze dit doen worden automatisch alle vakjes in het overzicht groen, en mogen ze altijd aanwezig zijn in het lokaal.
-
-Het is natuurlijk mogelijk dat er studenten zijn die al klaar zijn met de modules van die week. Deze studenten hebben de instructie gekregen om dit aan te geven bij een assistent. Controleer of de student daadwerkelijk klaar is met alle opgaven; ook design, style, de open vragen, en de written moeten volledig **af** zijn.
+Het is natuurlijk mogelijk dat er studenten zijn die al klaar zijn met de modules van die week. Deze studenten hebben de instructie gekregen om dit aan te geven bij een assistent. Controleer of de student daadwerkelijk klaar is met alle opgaven; ook design, style, de open vragen, en de written moeten volledig **af** zijn. Je kunt deze student dan op aanwezig zetten voor de rest van de module, door de rest van de vakjes aan te vinken.
 
 # 7 Deadlines en ziekmelding
 

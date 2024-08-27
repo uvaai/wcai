@@ -443,7 +443,7 @@ Wanneer er geen vragen zijn, krijg je het scherm hieronder te zien.
 
 ## 6.6 Aanwezigheid opnemen
 
-Voor de fulltime en parttime studenten geld een aanwezigheidsplicht. Voor de elective studenten niet. We verwachten dat studenten iedere dag zo veel mogelijk op de campus aanwezig zijn. De consequenties voor het niet behalen van aanwezigheid wanneer deze verplicht is staan in de syllabi.
+Voor de fulltime en parttime studenten geldt een aanwezigheidsplicht. Voor de elective studenten niet. We verwachten dat studenten iedere dag zo veel mogelijk op de campus aanwezig zijn. De consequenties voor het niet behalen van aanwezigheid wanneer deze verplicht is staan in de syllabi.
 
 Tijdens het assisteren wordt de aanwezigheid opgenomen door de TAs die op dat moment assisteren. Deze overleggen samen wie het doet, en regelen dat dit gebeurt 15 minuten na de start van de assistentie. Het doel van het controleren van de aanwezigheid is om een steekproef te nemen; het is dus niet erg als je een persoon per ongeluk mist omdat diegene naar de wc is of iets dergelijks (deze kan je later ook nog toevoegen). Je hoeft geen rekening te houden met mensen die ziek zijn, dat doet de coördinator.
 

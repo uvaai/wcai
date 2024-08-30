@@ -298,7 +298,7 @@ Ga als mentor ook niet in een Whatsapp zitten die studenten aanmaken. Geef duide
 
 Elke student zou regelmatig hulp nodig moeten hebben tijdens het programmeren (maar niet teveel). Deze assistentie wordt volledig op locatie georganiseerd in ons lokaal. Studenten kunnen een hulpvraag indienen via de website. Hierbij geven ze hun locatie (tafelnummer) aan, de opdracht waar ze mee bezig zijn, en beschrijven ze het probleem dat ze hebben. Deze hands verschijnen voor de assistenten op de website en kunnen zo overzichtelijk behandeld worden. Zodra je bij een student geweest bent en de vraag beantwoord hebt, teken je de hands af.
 
-Iedere dag zijn er twee keer 2 uren ingeroosterd waarop er assistentie aanwezig is. Er zijn in principe altijd minimaal twee TAs aanwezig tijdens deze assistentieuren. De assistentieuren zijn ingepland van 10 tot 12, en van 13 tot 15. Tijdens assistentie wordt door één van de aanwezige TAs de aanwezigheid opgenomen. **Overleg even wie van jullie dit doet en wanneer.** Verderop volgt meer informatie die uitlegt hoe je dit doet.
+Iedere dag zijn uren ingeroosterd waarop er assistentie aanwezig is. Er zijn in principe altijd minimaal twee TAs aanwezig tijdens deze assistentieuren. Tijdens assistentie wordt door één van de aanwezige TAs de aanwezigheid opgenomen. **Overleg even wie van jullie dit doet en wanneer.** Verderop volgt meer informatie die uitlegt hoe je dit doet.
 
 ⚠️ Roostering voor het assisteren wordt kort voor de start van het blok gedaan. Veel assistenten horen pas laat in welke werkcolleges zij zelf geroosterd zijn.
 

@@ -39,7 +39,7 @@ Het verwerken van data is altijd een beetje "messy". Dat betekent natuurlijk nie
 
 ⚠️ Hou het positief. Zorg dat studenten concrete suggesties doen over hoe het beter kan, en niet alleen benoemen wat "fout" is. Noemt iemand een "fout", leg dan zorgvuldig uit waarom het inderdaad niet goed is (leesbaarheid, begrijpelijkheid, consistentie) en vraag de kritiek-gever om een concrete suggestie voor verbetering.
 
-Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave die gereviewed wordt door **beide** studenten eerst volledig is afgerond.
+Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars code te beoordelen, waarna het verbeterd kan worden voor de deadline. Het is hierbij wel belangrijk dat (het onderdeel van) de opgave die gereviewd wordt door **beide** studenten eerst volledig is afgerond.
 
 ### Code review Temperature (30 minuten)
 
@@ -47,7 +47,7 @@ Leg uit dat de studenten code reviews altijd kunnen/mogen gebruiken om elkaars c
 
 Doel: Studenten zien andere aanpakken dan die van hunzelf. Ze leren te discussiëren over code en zich uit te drukken in aspecten die relateren aan programmeren.
 
-De opgave Temperature was voor de studenten de eerste opgave waar ze beoordeeld werden op style en design. De feedback op de Temperature hebben ze als het goed is al gehad. Ze zullen snel ook de volgende opgave in moeten leveren. Dit is _het_ moment om de studenten nog een keer na te laten denken over code design. Dit gaan we doen doormiddel van een code review.
+De opgave Temperature is voor de studenten de eerste opgave waar ze beoordeeld worden op style en design. Dit is _het_ moment om de studenten nog een keer na te laten denken over code-design. Dit gaan we doen doormiddel van een code review.
 
 - Geef kort uitleg over de aspecten (deze staan hieronder bij de code review).
 - We doen code reviews in tweetallen. Is er een oneven aantal studenten? Dan mag er één drietal zijn. Zorg ervoor dat je andere tweetallen maakt dan de vorige keer.

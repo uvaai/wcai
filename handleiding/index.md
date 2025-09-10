@@ -2,7 +2,7 @@
 
 # Assistentenhandboek Minor AI
 
-## <small>Algemeen<br>Herfst 2024</small>
+## <small>Algemeen<br>Herfst 2025</small>
 
 <small>De eerste versie van het assistentenhandboek is gemaakt in 2022 door Wouter Vrielink en wordt jaarlijks geüpdatet. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
 
@@ -27,6 +27,8 @@ P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator
 # 0 What's new
 
 Voor assistenten die er vorig jaar/semester bij waren, maar ook voor oud-studenten die nieuw komen assisteren.
+
+_Spring 2025:_ DPR wordt nu net iets anders beoordeelt; zie het stuk over analysis in de syllabus.
 
 _Fall 2024:_ Dit semester delen we de studenten op in twee groepen: studenten die de hele minor parttime of fulltime volgen, en elective studenten. Voor de studenten die de hele minor volgen is aanwezigheid verplicht (zie onderstaande toevoeging uit spring 2024). De elective studenten zijn een nieuwe groep; dit zijn studenten die losse vakken uit de minor volgen (vooral ML1 en ML2). De voertaal voor deze groep is Engels, is er geen werkcollege, en aanwezigheid is niet verplicht. Deze studenten mogen ongeveer twee keer per week aansluiten bij de reguliere assistentie op maandag t/m donderdag.
 

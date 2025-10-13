@@ -1,25 +1,18 @@
 ## Werkcollege week 2
-De studenten komen net van hun tentamens af. Deze werkgroep kan je beginnen met vragen hoe het ging. Vraag aan studenten wat moeilijk en wat makkelijk was. Je kan doormiddel van handen omhoog stemmen wie denkt dat hij/zij het heeft gehaald en wie wel of niet in tijdnood kwam
+Afgelopen week hebben de studenten voor het eerst kennis gemaakt met OOP. Deze week gaan we dit uitbreiden. Ze maken hun experiment.py af en kunnen tijdens de werkgroep oefenen met oop_advanced.ipynb
 
-De [slides](https://docs.google.com/presentation/d/1OpN__WrMAeoIna0s8fZDm5mPhPAImva3wTrMmSlblJI/edit?usp=sharing) van deze week
+De [slides](https://docs.google.com/presentation/d/18uHr9Mq16odDIJeXgtd3RXDNQBIQl0VVMhzR6zgZ96M/edit?usp=sharing) van deze week
 
-PS: het nakijken van ML duurt vaak best lang. Communiceer dit nu al naar je studenten.
+### Intro
+Vraag even hoe afgelopen week was voor de studenten. Phase.py kan best lastig zijn, dus vraag even aan je studenten hoe ze dit hebben ervaren
 
-### Classes (45 min)
-Doel: studenten kennis laten maken met classes
+
+### oop_advanced.ipynb (30 min)
+Doel: studenten verder laten oefenen met OOP
 
 🧑‍🏫 Uitleg aan studenten
 
-Stiekem hebben de studenten hier al best wat mee gewerkt. Je kan beginnen met een hele korte samenvatting van hoe ze tot nu toe hebben leren programmeren. Telkens hebben ze stap voor stap een nieuw concept geleerd:
-- de meest simpele logica (variabelen aanmaken en if-statements)
-- itereren (for-loop en while-loop)
-- code wat abstracter maken door middel van functies
-
-Nu is het tijd voor het volgende concept: classes
-
-Het is belangrijk om consistent te zijn met de terminologie. Een eigenschap van een class heet een atribuut en een class heeft methodes (geen functies!)
-
-Je hoeft alleen uit te leggen waarom classes nuttig zijn, bijvoorbeeld aan de hand van de slides. De cards oefening legt uit hoe het werkt, dit hoef jij niet te doen.
+In deze [notebook](oop_advanced/oop_advanced.ipynb) leren studenten over polymorphism! Een gaaf concept wat terug gaat komen bij machine learning! Ook is het erg nuttig voor Algoritmen en Heuristieken, dus laat de part-time studenten ook meewerken
 
 ### Phases (15 min)
 

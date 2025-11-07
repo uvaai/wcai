@@ -1,17 +1,20 @@
 ## Werkcollege week 4
+
 Afgelopen week hebben de studenten voor het eerst een volledig NN gemaakt! Een goed moment om even stil te staan bij wat ze precies aan het doen zijn door even uit te zoomen van de code en alleen naar de stappen te kijken die in het "leerproces" van een NN zitten. Dit wordt een drukke werkgroep met veel uitleg, zorg dat je alle studenten scherp houdt!
 
 De [slides](https://docs.google.com/presentation/d/1kTfsxe25qHevIzyCxT3MTkbviHJ1Z3psdIMy6C8iWhU/edit?usp=sharing) van deze week
 
 ## Intro
+
 Begin met kort peilen hoe de studenten naar afgelopen week kijken. Het was een week met pittige theorie, dus vraag welke dingen lastig zijn.
 
 ## Neural Networks (15 min)
+
 Doel: studenten stap voor stap door het "leerproces" van een NN laten gaan en stil te staan bij de verschillen in activatie functies
 
 🧑‍🏫 Uitleg aan studenten
 
-Neem je tijd om rustig uit te leggen wat de forward en backward pass doen. 
+Neem je tijd om rustig uit te leggen wat de forward en backward pass doen.
 
 Forward: gegeven de gewichten in het model, maak op basis van de input een voorspelling. Omdat we met willekeurige gewichten beginnen, gaat dit natuurlijk niks zinnigs voorspellen!
 
@@ -20,6 +23,7 @@ Backward: gegeven de voorspelling die het model heeft gemaakt én de voorspellin
 Sinds de laatste modules gebruiken we de termen "forward" en "backward", maar eigenlijk is dit concept al lang bekend bij studenten! Bijvoorbeeld wanneer ze `fit()` gebruiken bij `temperature.py`! Of wanneer ze aan ChatGPT een vraag stellen, maken ze een forward pass met de geleerde gewichten van het model!
 
 ## Activaties (20 min)
+
 Doel: studenten het verschil tussen sigmoid en soft-max laten begrijpen
 
 🧑‍🏫 Uitleg aan studenten
@@ -37,7 +41,7 @@ Concluderend: de sigmoid geeft een losse kans *per* klasse, de soft-max geeft ee
 
 Doel: studenten samen laten nadenken over activatie functies
 
-Nu is het de beurt aan de studenten! Laat ze in tweetallen werken en samen de open vragen beantwoorden! Je kan even rondlopen, het zijn er niet veel dus de studenten zullen niet veel tijd nodig hebben. 
+Nu is het de beurt aan de studenten! Laat ze in tweetallen werken en samen de open vragen beantwoorden! Je kan even rondlopen, het zijn er niet veel dus de studenten zullen niet veel tijd nodig hebben.
 
 Na ± 5 min kan je klassikaal bespreken wat is opgevallen. Wees kritisch op de antwoorden! Ze moeten goed uitgebreid zijn, net als in de notebooks!
 
@@ -47,17 +51,21 @@ Doel: studenten samen laten focussen op design
 
 🧑‍🏫 Uitleg aan studenten
 
-#### eerste 10 min:
-De werkgroep is tot nu toe vrij theoretisch geweest, nu is er tijd om juist te focussen op design! Kijk naar elkaars code en let goed op de volgende dingen: 
+#### Eerste 10 min:
+
+De werkgroep is tot nu toe vrij theoretisch geweest, nu is er tijd om juist te focussen op design! Kijk naar elkaars code en let goed op de volgende dingen:
+
 1. Zie je ergens dezelfde code meerdere keren?
 2. Doen functies 1 ding of meerdere (inladen, uitrekenen, plotten)?
 3. Is de style goed? Is er voldoende uitleg?
 
 
-#### laatste 5 min:
-Bespreek met z'n allen welke dingen opvielen, wie is erachter gekomen dat er nog ruimte is voor design verbeteringen? 
+#### Laatste 5 min:
+
+Bespreek met z'n allen welke dingen opvielen, wie is erachter gekomen dat er nog ruimte is voor design verbeteringen?
 
 ## Written (15 min)
+
 Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen!
 
 ## Administratie

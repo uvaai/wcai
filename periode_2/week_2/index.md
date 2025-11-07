@@ -27,6 +27,11 @@ Doel: studenten eraan herinneren dat matrix multiplicaties voor Machine Learning
 
 Gebruik de laatste minuten in je werkcollege om nogmaals te onderstrepen dat wanneer een student moet kwadrateren én sommeren, een matrix vermenigvuldiging vaak een goede oplossing is! Als studenten dit nog lastig vinden, kan je op het bord stap voor stap een matrix vermenigvuldiging uittekenen
 
+### Written (15 min)
+Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen!
+
+
+
 ## Administratie
 
 Direct na afloop van de werkgroep:

@@ -31,7 +31,7 @@ Doel: studenten laten inzien dat resultaten van anderen soms lastig te begrijpen
 🧑‍🏫 Uitleg aan studenten
 
 #### eerste 10 min:
-Na het bekijken van elkaars code, mogen de studenten nu naar elkaars resultaten van visuale kijken. Geef hierbij mee dat studenten zich het volgende moeten afvragen:
+Na het bekijken van elkaars code, mogen de studenten nu naar elkaars visualisaties kijken. Geef hierbij mee dat studenten zich het volgende moeten afvragen:
 - zie ik, zonder achtergrond informatie, wat er is ontdekt?
 - zijn de plots goed leesbaar?
 - is de uitleg erbij voldoende?
@@ -46,6 +46,6 @@ Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te ge
 
 Direct na afloop van de werkgroep:
 
-- Als je weet dat je studenten mist en je hebt geen contact, maak een TODO op Basecamp aan voor de vakcoördinator. Deze zal achter de student aan gaan.
+- Als je weet dat je studenten mist en je hebt geen contact, maak een TODO op Basecamp aan voor de vakcoördinator. Deze zal achter de student aangaan.
 - Update het logboek op basecamp. Schrijf bij iedere student op hoe het met ze gaat. Wanneer er geen veranderingen zijn bij een student hoef je ook niets te veranderen in het logboek.
 - Er kunnen vragen zijn opgekomen tijdens de werkgroep. Check voor alle vragen of je antwoorden kunt vinden in de handleiding, of in een post (Message) op Basecamp. Wees niet spaarzaam met je vragen! Liever teveel dan te weinig. De coördinator denkt dan mee en maakt eventueel ook een mededeling voor de andere mentoren.

@@ -1,31 +1,46 @@
-## Werkcollege week 2
-Afgelopen week hebben de studenten voor het eerst kennis gemaakt met OOP. Deze week gaan we dit uitbreiden. Ze maken hun experiment.py af en kunnen tijdens de werkgroep oefenen met oop_advanced.ipynb
+## Werkcollege week 3
+Afgelopen week hebben de studenten phases afgemaakt. Dit is een pittige opdracht met veel ruimte voor goed (en minder goed) design!
 
-De [slides](https://docs.google.com/presentation/d/18uHr9Mq16odDIJeXgtd3RXDNQBIQl0VVMhzR6zgZ96M/edit?usp=sharing) van deze week
+De [slides](https://docs.google.com/presentation/d/1xFefSN-mhz1dEm9RhfLXEJRu2AmWJFcw1pndM5f28nE/edit?usp=sharing) van deze week
 
 ### Intro
 Vraag even hoe afgelopen week was voor de studenten. Phase.py kan best lastig zijn, dus vraag even aan je studenten hoe ze dit hebben ervaren
 
 
-### oop_advanced.ipynb (30 min)
-Doel: studenten verder laten oefenen met OOP
+### nakijk focus punten (10 min)
+Doel: studenten inzichten geven in waar *jij* op let. Doe dit alleen als wanneer je je comfortabel genoeg voelt om "live" door wat code te gaan
 
 🧑‍🏫 Uitleg aan studenten
 
-In deze [notebook](oop_advanced/oop_advanced.ipynb) leren studenten over polymorphism! Een gaaf concept wat terug gaat komen bij machine learning! Ook is het erg nuttig voor Algoritmen en Heuristieken, dus laat de part-time studenten ook meewerken
+Zet wat werk van studenten klaar voordat de werkgroep begint. Vraag voordat je dit gaat doen of mensen er oke mee zijn als hun werk mogelijk op het bord komt. Zorg ervoor dat namen zijn weggehaald. Als je dit vak al eens hebt gegeven, neem dan werk van studenten van een vorige periode als je dat nog hebt. 
 
-### Phases (15 min)
+Feedback is geen "onderbouwing" van een cijfer. Dus het kan voor studenten fijn zijn om eens klassikaal wat werk na te kijken. Noem elk klein detail wat je opvalt op! Laat zien aan studenten wat anders had gekund, welke comments net beter kunnen etc. Het idee hiervan is dat je juist heel vluchtig over de kleine dingen kan gaan die wellicht niet een feedback punt zouden kunnen zijn. 
 
-Doel: studenten opweg helpen met de nieuwe DPR opdracht
+### Phases — code review (20 min)
 
-Studenten kunnen nadat de Cards opdracht is besproken aan de slag met de nieuwe opdracht. Deze opdracht kan best pittig zijn, en het is belangrijk dat wanneer studenten vastzitten omdat ze nog niet genoeg snappen over het gebruik van classes, ze terugverwezen worden naar de uitleg. Ga dus niet hun code voor hen verbeteren. 
+Doel: studenten zelf laten nadenken over "goede" code
 
-### Matrix multiplicaties (5 min)
-Doel: studenten eraan herinneren dat matrix multiplicaties voor Machine Learning erg belangrijk zijn
+Nu is het de beurt aan de studenten! Laat ze in tweetallen werken en elkaars code reviewen. Ze hoeven het niet te becijferen, maar laat ze opschrijven wat er bij hun opvalt. Geef van te voren aan dat je na 15-20 min dit klassikaal gaat bespreken. Terwijl studenten deze code reviewen, kan je rondlopen en zelf dingen aanwijzen die je opvallen
+
+Na ± 15 min kan je klassikaal bespreken wat is opgevallen. Zijn er terugkerende thema's? Heeft iedereen zich aan de style guide gehouden? Gebruikt iedereen evenveel docstrings? 
+
+### Phases — visualise review (20 min)
+
+Doel: studenten laten inzien dat resultaten van anderen soms lastig te begrijpen zijn
 
 🧑‍🏫 Uitleg aan studenten
 
-Gebruik de laatste minuten in je werkcollege om nogmaals te onderstrepen dat wanneer een student moet kwadrateren én sommeren, een matrix vermenigvuldiging vaak een goede oplossing is! Als studenten dit nog lastig vinden, kan je op het bord stap voor stap een matrix vermenigvuldiging uittekenen
+#### eerste 10 min:
+Na het bekijken van elkaars code, mogen de studenten nu naar elkaars resultaten van visuale kijken. Geef hierbij mee dat studenten zich het volgende moeten afvragen:
+- zie ik, zonder achtergrond informatie, wat er is ontdekt?
+- zijn de plots goed leesbaar?
+- is de uitleg erbij voldoende?
+
+#### laatste 10min:
+Nu is het aan jou om kritisch wat afbeeldingen te "ontleden". In de slides staan wat grafieken die studenten de afgelopen jaren hebben gemaakt. Wees lekker critisch! Kijk voor de werkgroep naar de sprekersnotities voor verbeterpunten van de plot.
+
+## Written (15 min)
+Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen!
 
 ## Administratie
 

@@ -3,7 +3,7 @@ De studenten komen net van hun tentamens af. Deze werkgroep kan je beginnen met 
 
 Ook starten ze deze week natuurlijk met de nieuwe vakken. Dit verandert wat aan de beoordeling (DPR, zie syllabus), en ook aan hoe de vakken werken. Probeer je eigen ervaring hiermee uit te leggen.
 
-De [slides](https://docs.google.com/presentation/d/16-g7_HKhTdL_d4p34TDdevT_GzT45p7F3ggYsLXyizA/edit?usp=drive_link) van deze week.
+De [slides](https://docs.google.com/presentation/d/1OpN__WrMAeoIna0s8fZDm5mPhPAImva3wTrMmSlblJI/edit?usp=sharing) van deze week
 
 ### Terugblik (15 minuten)
 

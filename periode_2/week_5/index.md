@@ -31,7 +31,7 @@ Convoluties zijn een lastig wiskundig concept. Neem even de tijd in de werkgroep
 ## Programmeer vaardigheden (20 min)
 Doel: studenten prikkelen om wat aan hun design vaardigheden te werken!
 
-Laat de studenten deze [notebook](programmeer_vaardigheden.ipynb) downloaden. Neem zelf ook de [antwoorden](programmeer_vaardigheden_antwoorden.ipynb) door
+Laat de studenten deze [notebook](downloads/programmeer_vaardigheden.ipynb) downloaden. Neem zelf ook de [antwoorden](downloads/programmeer_vaardigheden_antwoorden.ipynb) door
 
 De notebook kan best lastig zijn. Loop dus rondjes om studenten te helpen als ze vast zitten. Laat via een message weten op basecamp wat studenten ervan vonden, het is namelijk nieuw dus kan nog worden aangepast!
 

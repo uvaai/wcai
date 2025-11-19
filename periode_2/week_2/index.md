@@ -1,13 +1,15 @@
 ## Werkcollege week 2
+
 Afgelopen week hebben de studenten voor het eerst kennis gemaakt met OOP. Deze week gaan we dit uitbreiden. Ze maken hun experiment.py af en kunnen tijdens de werkgroep oefenen met oop_advanced.ipynb
 
 De [slides](https://docs.google.com/presentation/d/18uHr9Mq16odDIJeXgtd3RXDNQBIQl0VVMhzR6zgZ96M/edit?usp=sharing) van deze week
 
 ### Intro
-Vraag even hoe afgelopen week was voor de studenten. Phase.py kan best lastig zijn, dus vraag even aan je studenten hoe ze dit hebben ervaren
 
+Vraag even hoe afgelopen week was voor de studenten. `phase4.py` kan best lastig zijn, dus vraag even aan je studenten hoe ze dit hebben ervaren
 
 ### oop_advanced.ipynb (30 min)
+
 Doel: studenten verder laten oefenen met OOP
 
 🧑‍🏫 Uitleg aan studenten
@@ -18,9 +20,10 @@ In deze [notebook](oop_advanced/oop_advanced.ipynb) leren studenten over polymor
 
 Doel: studenten opweg helpen met de nieuwe DPR opdracht
 
-Studenten kunnen nadat de Cards opdracht is besproken aan de slag met de nieuwe opdracht. Deze opdracht kan best pittig zijn, en het is belangrijk dat wanneer studenten vastzitten omdat ze nog niet genoeg snappen over het gebruik van classes, ze terugverwezen worden naar de uitleg. Ga dus niet hun code voor hen verbeteren. 
+Studenten kunnen nadat de Cards opdracht is besproken aan de slag met de nieuwe opdracht. Deze opdracht kan best pittig zijn, en het is belangrijk dat wanneer studenten vastzitten omdat ze nog niet genoeg snappen over het gebruik van classes, ze terugverwezen worden naar de uitleg. Ga dus niet hun code voor hen verbeteren.
 
 ### Matrix multiplicaties (5 min)
+
 Doel: studenten eraan herinneren dat matrix multiplicaties voor Machine Learning erg belangrijk zijn
 
 🧑‍🏫 Uitleg aan studenten
@@ -28,6 +31,7 @@ Doel: studenten eraan herinneren dat matrix multiplicaties voor Machine Learning
 Gebruik de laatste minuten in je werkcollege om nogmaals te onderstrepen dat wanneer een student moet kwadrateren én sommeren, een matrix vermenigvuldiging vaak een goede oplossing is! Als studenten dit nog lastig vinden, kan je op het bord stap voor stap een matrix vermenigvuldiging uittekenen
 
 ### Written (15 min)
+
 Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen!
 
 

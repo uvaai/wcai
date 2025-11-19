@@ -1,4 +1,4 @@
-## Werkcollege week 4
+## Werkcollege week 5
 Afgelopen week zijn studenten bezig geweest met de YELP opdracht. Deze opdracht is lastig, omdat studenten heel veel design vrijheid krijgen. Dit is leerzaam, maar ook lastig omdat er met vrijheid ook ruimte komt voor fouten. Daarom is deze werkgroep een mooi moment voor een kritische code-review zodat studenten van elkaar kunnen leren.
 
 De [slides](https://docs.google.com/presentation/d/18s9RS8VUCt90husPjEWGFUEiu0H-r0O9pHy9lfYkOx4/edit?usp=sharing) van deze week
@@ -15,17 +15,17 @@ Zet studenten in twee- of drietallen aan het werk. Laat ze focussen op design en
 - Goed gebruik van functies gemaakt? Doen ze allemaal "één ding" (inladen, uitrekenen, plotten)
 - Geen dubbele code?
 - Duidelijke docstrings/comments?
-- Goede variabel namen? Geen clean_dict, clean_dict_final en clean_dict_restaurant_names_filtered
+- Goede variabel namen? Geen `clean_dict`, `clean_dict_final` en `clean_dict_restaurant_names_filtered`
+- Gebruik gemaakt van markdowncells? Zeker handig om in de volgende opdracht de eigen toevoegingen uit te leggen!
 
 Bespreek de laatste 5 minuten welke dingen studenten zijn opgevallen
 
-## Convolutions (10 min)
+<!-- ## Convolutions (10 min)
 Doel: studenten helpen met het begrijpen van een convolutie
 
 🧑‍🏫 Uitleg aan studenten
 
-Convoluties zijn een lastig wiskundig concept. Neem even de tijd in de werkgroep om uit te tekenen op het bord wat er gebeurd wanneer je een convolutie neemt. Hoe maak je een blur? Waarom is er padding nodig? Door stap voor stap een convolutie te maken, zien studenten nogmaals hoe dit werkt. Hiermee kunnen ze hopelijk aankomende week aan de slag! Adviseer verder om de video die in de slides staat te bekijken als het nog niet snappen!
-
+Convoluties zijn een lastig wiskundig concept. Neem even de tijd in de werkgroep om uit te tekenen op het bord wat er gebeurd wanneer je een convolutie neemt. Hoe maak je een blur? Waarom is er padding nodig? Door stap voor stap een convolutie te maken, zien studenten nogmaals hoe dit werkt. Hiermee kunnen ze hopelijk aankomende week aan de slag! Adviseer verder om de video die in de slides staat te bekijken als het nog niet snappen! -->
 
 
 ## Programmeer vaardigheden (20 min)

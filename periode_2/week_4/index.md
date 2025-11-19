@@ -20,7 +20,7 @@ Forward: gegeven de gewichten in het model, maak op basis van de input een voors
 
 Backward: gegeven de voorspelling die het model heeft gemaakt én de voorspelling die we hadden willen maken, pas de gewichten dusdanig aan dat we met dezelfde input wél de juiste voorspelling maken. Het werkt goed om even klassikaal de matrix multiplicatie uit te tekenen die je krijgt wanneer backward gebruikt!
 
-Sinds de laatste modules gebruiken we de termen "forward" en "backward", maar eigenlijk is dit concept al lang bekend bij studenten! Bijvoorbeeld wanneer ze `fit()` gebruiken bij `temperature.py`! Of wanneer ze aan ChatGPT een vraag stellen, maken ze een forward pass met de geleerde gewichten van het model!
+Sinds de laatste modules gebruiken we de termen "forward" en "backward", maar eigenlijk is dit concept al lang bekent bij studenten! Bijvoorbeeld wanneer ze `fit()` gebruiken bij `temperature.py`! Of wanneer ze aan ChatGPT een vraag stellen, maken ze een forward pass met de geleerde gewichten van het model!
 
 ## Activaties (20 min)
 
@@ -32,7 +32,7 @@ De studenten hebben twee activatie functies gezien: de sigmoid en de soft-max. W
 
 De sigmoid functie is binair. Het is 0 of 1. We willen dus voorspellen of iets 1 is óf 0. Het is belangrijk dat wanneer het model denkt dat iets niet van een bepaalde klasse is, hier 0 wordt voorspeld. Dit zien we terug in de kostenfunctie. Het tweede deel is speciaal ontworpen om een waarde te geven aan hoe sterk het model "dacht" dat voorspelling 0 moest zijn. Neem een plaatje van een hond met een model wat kan voorspellen of het een hond of een kat is. De sigmoid functie zal beide kunnen voorspellen, dus het is belangrijk dat zowel de waarde voor hond dicht bij 1 komt en de waarde van kat dicht bij 0. Teken dit uit met wat waardes! Je zal zien dat er hogere kosten zijn wanneer je `y_hat = 0.5` neemt dan wanneer je `y_hat = 0.1` met `y=0`.
 
-De soft-max functie is niet binair! Deze is er om uit meerdere categorieën te kiezen welke categorie het meest waarschijnlijk is. Alle probabilities tellen samen op naar 1. Neem opnieuw een plaatje van een hond met een model wat kan voorspellen of het een hond of een kat is. De soft-max functie zal de waarde van hond zo dicht mogelijk bij 1 proberen te krijgen. Als gevolg hiervan, wordt de waarde voor kat lager. Maar aangezien dit is gekoppeld aan de waarde van een hond, hoeven we niet de kosten van de "kat-voorspelling" mee te nemen! Dit zien we terug in de kostenfunctie, waar we enkel kijken hoe hoog de voorspelling voor het juiste antwoord was. Hiermee wordt de rest vanzelf lager! Teken dit uit op het bord naast de sigmoid om het verschil te laten zien!
+De soft-max functie is niet binair! Deze is er om uit meerdere categorien te kiezen welke categorie het meest waarschijnlijk is. Alle probabilities tellen samen op naar 1. Neem opnieuw een plaatje van een hond met een model wat kan voorspellen of het een hond of een kat is. De soft-max functie zal de waarde van hond zo dicht mogelijk bij 1 proberen te krijgen. Als gevolg hiervan, wordt de waarde voor kat lager. Maar aangezien dit is gekoppeld aan de waarde van een hond, hoeven we niet de kosten van de "kat-voorspelling" mee te nemen! Dit zien we terug in de kostenfunctie, waar we enkel kijken hoe hoog de voorspelling voor het juiste antwoord was. Hiermee wordt de rest vanzelf lager! Teken dit uit op het bord naast de sigmoid om het verschil te laten zien!
 
 Concluderend: de sigmoid geeft een losse kans *per* klasse, de soft-max geeft een kans *verspreid over* de klasses.
 

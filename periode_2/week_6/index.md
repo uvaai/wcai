@@ -7,7 +7,7 @@ De [slides](https://docs.google.com/presentation/d/1aoE6Zenc3Zs1sTMZI2pIqGkl3a1y
 Begin met kort peilen hoe de studenten naar afgelopen week kijken. Snapt iedereen hoe een decision tree werkt? En is het gelukt om een mooie analyse te maken van YELP?
 
 ## Open vragen (15 min)
-In de slides staan een aantal open vragen. Laat de studenten deze in tweetallen bespreken. De eerste gaat over pooling, het kan zijn dat studenten hier nog niet de theorie video van hebben gezien!
+In de slides staan een aantal open vragen. Laat de studenten deze in tweetallen bespreken. De eerste gaat over pooling, het kan zijn dat studenten hier nog niet de theorievideo van hebben gezien!
 
 
 ## Code review Crawler (25 min)
@@ -28,22 +28,22 @@ Doel: studenten helpen met het begrijpen van een convolutie
 
 🧑‍🏫 Uitleg aan studenten
 
-Convoluties zijn een lastig wiskundig concept. Neem even de tijd in de werkgroep om uit te tekenen op het bord wat er gebeurd wanneer je een convolutie neemt. Hoe maak je een blur? Waarom is er padding nodig? Door stap voor stap een convolutie te maken, zien studenten nogmaals hoe dit werkt. Hiermee kunnen ze hopelijk aankomende week aan de slag! Adviseer verder om de video die in de slides staat te bekijken als het nog niet snappen!
+Convoluties zijn een lastig wiskundig concept. Neem even de tijd in de werkgroep om uit te tekenen op het bord wat er gebeurt wanneer je een convolutie neemt. Hoe maak je een blur? Waarom is er padding nodig? Door stap voor stap een convolutie te maken, zien studenten nogmaals hoe dit werkt. Hiermee kunnen ze hopelijk aankomende week aan de slag! Adviseer verder om de video die in de slides staat te bekijken als het nog niet snappen!
 
-Sta ook stil bij *waarom* een convolutie handig is voor Neurale Netwerken! Door onze input te filteren, kan een model leren op een specifieke eigenschap van een afbeelding! Dus als *edge detection* belangrijk is, kunnen we de randen van een object sterker naar voren doen komen vanuit de standaard input met een slimme convolutie. 
+Sta ook stil bij *waarom* een convolutie handig is voor Neurale Netwerken! Door onze input te filteren, kan een model leren op een specifieke eigenschap van een afbeelding! Dus als *edge detection* belangrijk is, kunnen we de randen van een object sterker naar voren doen komen vanuit de standaardinput met een slimme convolutie. 
 
 Als studenten dit snappen, kan je een stapje verder gaan: het leren van een convolutie
 
-Een *edge detection* is voor ons een logische toepassing voor een convolutie. Zijn er ook convoluties die veel informatie kunnen blootleggen, die wat minder intuitief te begrijpen zijn? Jazeker! Daarom kan het *variabel* maken van je convolute, of het laten leren wélke convolutie het beste werkt, een hele goede verbetering zijn voor je model! Hiermee verlies je interpreteerbaarheid van je model: wij weten niet welke aspecten van de input als "belangrijk" worden gezien. Maar het model kan zelf bepalen welke aspecten het meeste naar voren zouden moeten komen! Wonderbaarlijk als je het mij vraagt ;)
+Een *edge detection* is voor ons een logische toepassing voor een convolutie. Zijn er ook convoluties die veel informatie kunnen blootleggen, die wat minder intuïtief te begrijpen zijn? Jazeker! Daarom kan het *variabel* maken van je convolute, of het laten leren wélke convolutie het beste werkt, een hele goede verbetering zijn voor je model! Hiermee verlies je interpreteerbaarheid van je model: wij weten niet welke aspecten van de input als "belangrijk" worden gezien. Maar het model kan zelf bepalen welke aspecten het meeste naar voren zouden moeten komen! Wonderbaarlijk als je het mij vraagt ;)
 
 
 ## Written (15 min)
 
-Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen! Deze week ging over adverserial attacks. Kunnen de stundenten voorbeelden bedenken van systemen die hier kwetsbaar voor zijn? Wat zou er gebeuren als iemand alle bruggen open kan zetten omdat de brug denkt dat er altijd een boot aankomt?
+Doel: studenten prikkelen om kritisch te blijven schrijven. Probeer ze mee te geven dat ze het niet eens hoeven te zijn met de artikelen die ze lezen! Deze week ging over adversarial attacks. Kunnen de studenten voorbeelden bedenken van systemen die hier kwetsbaar voor zijn? Wat zou er gebeuren als iemand alle bruggen open kan zetten omdat de brug denkt dat er altijd een boot aankomt?
 
 Veel studenten schrijven simpelweg dat “de risico’s zijn te groot voor bepaalde industrieën, zoals zelfrijdende auto’s”. Dit impliceert dat ze vinden dat zelfrijdende auto’s verboden moeten worden. Vraag hier vooral op door, zorgen mensen niet voor veel meer verkeersdoden?
 
-Daarnaast: Ook vinden studenten de risico’s bij healthcare te groot. Maar hoe ziet een adverserial attack eruit in de gezondheid? Gaan mensen mri scanns express aanpassen zodat er wel of geen ziekte wordt gedecteerd? Een verkeersbord zou een terrorist gemakkelijk kunnen bewerken, maar hoe relevant is de gezondheidszorg voor grote adverserial attacks? Studenten hierover laten nadenken voordat ze opschrijven dat “de risico’s te groot zijn dus altijd meot worden gecontroleerd”. 
+Daarnaast: Ook vinden studenten de risico’s bij healthcare te groot. Maar hoe ziet een adversarial attack eruit in de gezondheid? Gaan mensen MRI-scans express aanpassen zodat er wel of geen ziekte wordt gedetecteerd? Een verkeersbord zou een terrorist gemakkelijk kunnen bewerken, maar hoe relevant is de gezondheidszorg voor grote adversarial attacks? Studenten hierover laten nadenken voordat ze opschrijven dat “de risico’s te groot zijn dus altijd meot worden gecontroleerd”. 
 
 ## Administratie
 

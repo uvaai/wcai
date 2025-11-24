@@ -15,7 +15,7 @@ Doel: studenten van elkaar laten leren over goede design en style
 
 🧑‍🏫 Uitleg aan studenten
 
-Zet studenten in twee- of drietallen aan het werk. Laat ze focussen op design en style. Voor design in de KNMI of YELP opdracht kan je op het volgende letten:
+Zet studenten in twee- of drietallen aan het werk. Laat ze focussen op design en style. Voor design in de Crawler opdracht kan je op het volgende letten:
 - Goed gebruik van functies gemaakt? Doen ze allemaal "één ding"
 - Is het duidelijk welke functie wat doet in het crawl proces?
 - Duidelijke docstrings/comments?

@@ -482,7 +482,10 @@ Wanneer je zo'n melding krijgt dan ga je zo te werk:
 - Je wenst je student beterschap
 - Je vraagt je student je op de hoogte te houden over gedaan werk tijdens ziekte
 - Je vraagt je student om het te melden wanneer deze weer beter is
-- Je maakt een TODO aan op Basecamp en assigned die aan jezelf en de coördinator
+- Je maakt een TODO aan op Basecamp:
+  - Titel van de todo in format <volledige naam (datum)>
+  - Assign aan jezelf en de coördinator
+  - Eventuele details in de notities
 
 Wanneer de student meld dat deze weer beter is
 
@@ -667,7 +670,7 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak via die uitnodiging direct dit account aan.
 
-- Maak een account voor **Python for Data Processing** via <https://pdp.proglab.nl/> en **Introduction to Machine Learning 1** via <https://ml1.proglab.nl/> en meldt het bij de coördinator wanneer je dit gedaan hebt. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
+- Maak een account voor de hands website via <https://minai.proglab.nl/>, voor **Python for Data Processing** via <https://pdp.proglab.nl/>, en voor **Introduction to Machine Learning 1** via <https://ml1.proglab.nl/> en meldt het bij de coördinator wanneer je dit gedaan hebt. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **syllabus** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de syllabus of heb je een vraag? Post dan meteen een vraag in Basecamp.
 

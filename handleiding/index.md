@@ -2,7 +2,7 @@
 
 # Assistentenhandboek Minor AI
 
-## <small>Algemeen<br>Herfst 2024</small>
+## <small>Algemeen<br>Herfst 2026</small>
 
 <small>De eerste versie van het assistentenhandboek is gemaakt in 2022 door Wouter Vrielink en wordt jaarlijks geüpdatet. Gebaseerd op het assistentenhandboek van de Minor Programmeren versie 2020 -- 2021 door Martijn Stegeman, versie 2016 door Hella Haanstra, en de instructies uit 2018 door Wouter Vrielink.</small>
 

@@ -228,7 +228,7 @@ This happens because `rm` by default only works on files, not directories. `rm` 
 
 **Exercise 7** What would be the command to remove the zip you have just unpacked using `rm`?
 
-**Exercise 8** Use `ls --help` to show information that explains all options that can be applied to the command `ls`. Can you find an option that can be used to list not only all files and directories in the current directory, but also all (sub)subdirectories and files? Using this option, create an overview of the directories and files in the provided file structure.
+**Exercise 8** Use `ls --help` (or `man ls --help` on macs) to show information that explains all options that can be applied to the command `ls`. Can you find an option that can be used to list not only all files and directories in the current directory, but also all (sub)subdirectories and files? Using this option, create an overview of the directories and files in the provided file structure.
 
 **Exercise 9** A file was misplaced in the main directory, named `notes.txt`. This file contains the notes for lecture 2. Find the directory that contains the notes for the first lecture and take note of the naming convention of the file. Rename `notes.txt` using this naming convention and move it to the folder containing notes using `mv`.
 

@@ -28,6 +28,8 @@ P.S. Wil je afwijken van de handleiding? Overleg dan even met je vakcoördinator
 
 Voor assistenten die er vorig jaar/semester bij waren, maar ook voor oud-studenten die nieuw komen assisteren.
 
+_Spring 2025:_ DPR wordt nu net iets anders beoordeelt; zie het stuk over analysis in de syllabus.
+
 _Fall 2024:_ Dit semester delen we de studenten op in twee groepen: studenten die de hele minor parttime of fulltime volgen, en elective studenten. Voor de studenten die de hele minor volgen is aanwezigheid verplicht (zie onderstaande toevoeging uit spring 2024). De elective studenten zijn een nieuwe groep; dit zijn studenten die losse vakken uit de minor volgen (vooral ML1 en ML2). De voertaal voor deze groep is Engels, is er geen werkcollege, en aanwezigheid is niet verplicht. Deze studenten mogen ongeveer twee keer per week aansluiten bij de reguliere assistentie op maandag t/m donderdag.
 
 _Spring 2024:_ Vanaf dit semester is aanwezigheid weer verplicht. Aanwezigheid wordt ergens tussen een kwartier en een half uur na de start van assistentie opgenomen, en ook bij de werkcolleges. Op deze manier zijn er iedere week 6 momenten waarop dit wordt gedaan, waarvan verwacht wordt dat fulltime studenten er 4 aanwezig zijn. Parttime studenten moeten 2 van de momenten aanwezig zijn. Aanwezigheid kan ingehaald worden in een volgende week, en niet voldoen aan de aanwezigheidsplicht resulteert in het niet halen van de vakken.
@@ -480,7 +482,10 @@ Wanneer je zo'n melding krijgt dan ga je zo te werk:
 - Je wenst je student beterschap
 - Je vraagt je student je op de hoogte te houden over gedaan werk tijdens ziekte
 - Je vraagt je student om het te melden wanneer deze weer beter is
-- Je maakt een TODO aan op Basecamp en assigned die aan jezelf en de coördinator
+- Je maakt een TODO aan op Basecamp:
+  - Titel van de todo in format <volledige naam (datum)>
+  - Assign aan jezelf en de coördinator
+  - Eventuele details in de notities
 
 Wanneer de student meld dat deze weer beter is
 
@@ -665,7 +670,7 @@ Je moet diverse accounts aanmaken om goed te kunnen assisteren. Volg de stappen 
 
 - Voor **Basecamp** krijg je een uitnodiging via het bekende e-mailadres (je kunt dit dus niet zelf starten). Maak via die uitnodiging direct dit account aan.
 
-- Maak een account voor **Python for Data Processing** via <https://pdp.proglab.nl/> en **Introduction to Machine Learning 1** via <https://ml1.proglab.nl/> en meldt het bij de coördinator wanneer je dit gedaan hebt. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
+- Maak een account voor de hands website via <https://minai.proglab.nl/>, voor **Python for Data Processing** via <https://pdp.proglab.nl/>, en voor **Introduction to Machine Learning 1** via <https://ml1.proglab.nl/> en meldt het bij de coördinator wanneer je dit gedaan hebt. Na enige tijd krijg je extra rechten, zodat je de gegevens van je studenten kunt inzien en hun werk kunt nakijken.
 
 - Lees de **syllabus** op de websites van de eerste vakken heel nauwkeurig door zodat je deze niet tegenspreekt. Mis je iets in de syllabus of heb je een vraag? Post dan meteen een vraag in Basecamp.
 
